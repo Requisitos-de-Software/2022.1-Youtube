@@ -1,0 +1,11 @@
+site_name: Grupo 3
+
+repo_name: '2022.1-Grupo-03'
+repo_url: 'https://github.com/Requisitos-de-Software/2022.1-Grupo-03'
+
+theme:
+  name: material
+  language: 'pt'
+
+nav: 
+  - Página Inicial: index.md
