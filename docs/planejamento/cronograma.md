@@ -28,7 +28,7 @@ A partir do plano de ensino, foi formado um cronograma com as principais ativida
 | 28/06 | Rich Picture do App | Figma | Paulo, Lucas | Victor, Felipe |
 | 29/06 | Gravação da Apresentação e Entrega | Teams, Youtube | Todos | Todos |
 
-## 3.2 Etapa 2
+### 3.2 Etapa 2
 | Data Realização | Tarefa | Ferramentas | Responsáveis | Revisores |
 | :---: | :-------- | :---- | :-: | :-: |
 | 30/06 | Criação das Personas | Discord | Paulo, Carlos | Felipe, Lucas |
@@ -38,7 +38,7 @@ A partir do plano de ensino, foi formado um cronograma com as principais ativida
 | 07/07 | Priorização dos requisitos levantados | Discord, Github, VSCode | Victor, Lucas | Paulo, Felipe | 
 | 13/07 | Gravação da Apresentação e Entrega | Teams, Youtube | Todos | Todos |
 
-## 3.3 Etapa 3
+### 3.3 Etapa 3
 | Data Realização | Tarefa | Ferramentas | Responsáveis | Revisores |
 | :---: | :-------- | :---- | :-: | :-: |
 | 14/07 | Modelagem de Requisitos: Cenários | Discord, Github, VSCode | Victor, Paulo | Carlos, Pedro |
@@ -47,7 +47,7 @@ A partir do plano de ensino, foi formado um cronograma com as principais ativida
 | 19/07 | Modelagem de Requisitos: Especificação Suplementar | Discord, Github, VSCode | Paulo, Pedro | Victor, Felipe |
 | 20/07 | Gravação da Apresentação e Entrega | Teams, Youtube | Todos | Todos |
 
-## 3.4 Etapa 4
+### 3.4 Etapa 4
 | Data Realização | Tarefa | Ferramentas | Responsáveis | Revisores |
 | :---: | :-------- | :---- | :-: | :-: |
 | 21/07 | Modelagem de Requisitos - Ágil: NFR Framework | Figma, Discord, Github, VSCode | Victor, Lucas | Carlos, Pedro |
@@ -55,7 +55,7 @@ A partir do plano de ensino, foi formado um cronograma com as principais ativida
 | 28/07 | Modelagem de Requisitos - Ágil: Histórias de Usuário | Discord, Github, VSCode | Carlos, Pedro | Felipe, Lucas |
 | 03/08 | Gravação da Apresentação e Entrega | Teams, Youtube | Todos | Todos |
 
-## 3.5 Etapa 5
+### 3.5 Etapa 5
 | Data Realização | Tarefa | Ferramentas | Responsáveis | Revisores |
 | :---: | :-------- | :---- | :-: | :-: |
 | 04/08 | Verificação: Cenários, Léxico, Use Case, Especificação Suplementar | Discord, Github, VSCode | Paulo, Lucas | Carlos, Pedro |
@@ -63,14 +63,14 @@ A partir do plano de ensino, foi formado um cronograma com as principais ativida
 | 11/08 | Validação: Prototipação | Figma | Victor, Pedro | Paulo, Felipe |
 | 17/08 | Gravação da Apresentação e Entrega | Teams, Youtube | Todos | Todos |
 
-## 3.6 Etapa 6
+### 3.6 Etapa 6
 | Data Realização | Tarefa | Ferramentas | Responsáveis | Revisores |
 | :---: | :-------- | :---- | :-: | :-: |
 | 18/08 | Pós-rastreabilidade: Backward-form | Discord, Github, VSCode | Paulo, Lucas | Carlos, Victor |
 | 23/08 | Pós-rastreabilidade: Forward-form | Discord, Github, VSCode | Victor, Felipe | Pedro, Paulo |
 | 24/08 | Gravação da Apresentação e Entrega | Teams, Youtube | Todos | Todos |
 
-## 3.7 Etapa 7
+### 3.7 Etapa 7
 | Data Realização | Tarefa | Ferramentas | Responsáveis | Revisores |
 | :---: | :-------- | :---- | :-: | :-: |
 | 06/09~08/09 | Desenolvimento do projeto final (correção e complemento) | Discord, Github, VSCode | Todos | Todos |
