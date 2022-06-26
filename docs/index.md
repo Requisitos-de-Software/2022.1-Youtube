@@ -8,7 +8,7 @@ Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos d
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/57496213?v=4" width="100px;" alt="Foto Carlos Godoy"/><br>
+        <img src="https://github.com/Requisitos-de-Software/2022.1-Grupo-03/blob/main/docs/media/foto-carlos.png" width="100px;" alt="Foto Carlos Godoy"/><br>
         <sub>
           <b>Carlos Godoy (@CDGodoy)</b>
         </sub>
@@ -16,7 +16,7 @@ Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos d
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62192072?v=4" width="100px;" alt="Foto Felipe Alef"/><br>
+        <img src="https://github.com/Requisitos-de-Software/2022.1-Grupo-03/blob/main/docs/media/foto-felipe.jpg" width="100px;" alt="Foto Felipe Alef"/><br>
         <sub>
           <b>Felipe Alef (@Alef012)</b>
         </sub>
@@ -24,7 +24,7 @@ Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos d
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/51385738?v=4" width="100px;" alt="Foto Lucas Ramon"/><br>
+        <img src="https://github.com/Requisitos-de-Software/2022.1-Grupo-03/blob/main/docs/media/foto-lucas.jpg" width="100px;" alt="Foto Lucas Ramon"/><br>
         <sub>
           <b>Lucas Ramon (@lramon2001)</b>
         </sub>
@@ -32,7 +32,7 @@ Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos d
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/53023400?v=4" width="100px;" alt="Foto Paulo Henrique"/><br>
+        <img src="https://github.com/Requisitos-de-Software/2022.1-Grupo-03/blob/main/docs/media/foto-pedro.jpg" width="100px;" alt="Foto Paulo Henrique"/><br>
         <sub>
           <b>Paulo Henrique Almeida (@owhenrique)</b>
         </sub>
@@ -40,7 +40,7 @@ Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos d
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/62119022?v=4" width="100px;" alt="Foto Pedro Victor"/><br>
+        <img src="https://github.com/Requisitos-de-Software/2022.1-Grupo-03/blob/main/docs/media/foto-ph.jpg" width="100px;" alt="Foto Pedro Victor"/><br>
         <sub>
           <b>Pedro Victor (@B3holder2)</b>
         </sub>
@@ -48,7 +48,7 @@ Repositório destinado ao desenvolvimento do trabalho da disciplina Requisitos d
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/49206588?v=4" width="100px;" alt="Foto Victor Leão"/><br>
+        <img src="https://github.com/Requisitos-de-Software/2022.1-Grupo-03/blob/main/docs/media/foto-victor.jpg" width="100px;" alt="Foto Victor Leão"/><br>
         <sub>
           <b>Victor Leão (@victorleaoo)</b>
         </sub>
