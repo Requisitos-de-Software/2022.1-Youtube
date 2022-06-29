@@ -13,7 +13,18 @@ A equipe selecionou as seguintes ferramentas para serem usadas como auxílio dur
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-wpp.png" width="128" height="128"/> | WhatsApp | Comunicação imediata da equipe. Ideal para resolver assuntos rápidos. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-youtube.png" width="128" height="128"/> | Youtube | Hospedagem dos vídeos das apresentações. |
 
-## 2. Histórico de Versão
+## 2. Referências
+
+> - Discord. Acesso em: 29 de junho de 2022. Disponível em: https://discord.com/company
+> - Figma. Acesso em: 29 de junho de 2022. Disponível em: https://www.figma.com/about
+> - Github. Acesso em: 29 de junho de 2022. Disponível em: https://github.com/about
+> - Microsoft Teams. Acesso em: 29 de junho de 2022. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software
+> - Visual Studio Code. Acesso em: 29 de junho de 2022. Disponível em: https://visualstudio.microsoft.com/pt-br/
+> - WhatsApp. Acesso em: 29 de junho de 2022. Disponível em: https://www.whatsapp.com/?lang=pt_br
+> - Youtube. Acesso em: 29 de junho de 2022. Disponível em: https://about.youtube/
+
+## 3. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) |
 | ------ | ---- | --------- | --------- |
 | 1.0    | 25/06/2002 | Criação da primeira versão do documento com as primeiras ferramentas levantadas, sua logo e função pela equipe durante o projeto. | @victorleaoo |
+| 1.1    | 25/06/2002 | Adição das referências. | @victorleaoo |
