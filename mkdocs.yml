@@ -1,11 +1,15 @@
-site_name: Grupo 3
+site_name: Youtube
 
-repo_name: '2022.1-Grupo-03'
-repo_url: 'https://github.com/Requisitos-de-Software/2022.1-Grupo-03'
+repo_name: '2022.1-Youtube'
+repo_url: 'https://github.com/Requisitos-de-Software/2022.1-Youtube'
 
 theme:
   name: material
   language: 'pt'
+  logo: 'media/logo-youtube.png'
+  palette:
+    primary: 'red'
+
 
 nav: 
   - Página Inicial: index.md
