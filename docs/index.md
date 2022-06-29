@@ -2,7 +2,7 @@
 
 <center>
 
-![](media/logo-youtube.png)
+<img src="./media/logo-youtube.png" width="256" height="256" />
 
 </center>
 
