@@ -10,7 +10,7 @@ Rich Picture é uma maneira de conceitualizar as principais características de 
 
 <center>
 
-<img src="./media/richpicture1.jpg" />
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/richpicture1.jpg" />
 
 </center>
 
