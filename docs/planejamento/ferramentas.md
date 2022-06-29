@@ -5,7 +5,7 @@ A equipe selecionou as seguintes ferramentas para serem usadas como auxílio dur
 
 | Logo | Ferramenta | Função |
 | :--: | :--------: | :----- |
-| ![drawing](https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-discord.png) | Discord | Reuniões da equipe. |
+| <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-discord.png" width="128" height="128"/> | Discord | Reuniões da equipe. |
 | ![drawing](https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-figma.png) | Figma | Criação de protótipos e imagens (como, por exemplo, Rich Picture). |
 | ![drawing](https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-github.png) | Github | Hospedagem do site e arquivos do projeto. Versionamento. |
 | ![drawing](https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-teams.png) | Teams | Gravações das apresentações. |
