@@ -3,6 +3,7 @@
 ## 1. Aplicativos analisados
 
 Os seguintes aplicativos foram analisados pela equipe para uma possível escolha como tema do projeto:
+
 1. **Moovit**: Aplicativo para auxílio acerca do transporte público.
 2. **Parsec**: Aplicativo proprietário de captura de desktop usado principalmente para jogos por meio de streaming de vídeo.
 3. **One Football**: Aplicativo para acompanhamento de notícias, jogos e campeonatos de futebol.
@@ -13,14 +14,14 @@ Após pesquisar um pouco sobre cada app, o **Youtube** foi escolhido como o apli
 
 ## 2. Atividades e Revisão em Pares
 
-Como pode ser observado no ![Cronograma da Equipe](https://requisitos-de-software.github.io/2022.1-Youtube/planejamento/cronograma/), as atividades a serem desenvolvidos pela equipe serão realizadas e revisadas em duplas. Dessa forma, todos os integrantes do grupo podem ser organizar de forma a trabalharem em um ambiente saúdavel e sempre com apoio.
+Como pode ser observado no [Cronograma da Equipe](https://requisitos-de-software.github.io/2022.1-Youtube/planejamento/cronograma/), as atividades a serem desenvolvidos pela equipe serão realizadas e revisadas em duplas. Dessa forma, todos os integrantes do grupo podem ser organizar de forma a trabalharem em um ambiente saúdavel e sempre com apoio.
 
 As únicas atividades que requisitarão a participação de todos da equipe são as relacionadas à gravação de apresentações e entregas.
 
 ## 3. Documentação do Projeto
 
 ### 1. Wiki - GitHub
-Todo o projeto será documentado e hospedado na ![Wiki do Repositório](https://github.com/Requisitos-de-Software/2022.1-Youtube/wiki). Nela, as diferentes páginas relacionadas às tarefas desenvolvidas serão armazenadas e podem ser acessadas.
+Todo o projeto será documentado e hospedado na [Wiki do Repositório](https://github.com/Requisitos-de-Software/2022.1-Youtube/wiki). Nela, as diferentes páginas relacionadas às tarefas desenvolvidas serão armazenadas e podem ser acessadas.
 
 ### 2. GitHub Pages
 Juntamente com a wiki do projeto, a documentação referente ao que for feito e entregue estará disponível para o público em geral a partir da hospedagem do GitHub Pages.
