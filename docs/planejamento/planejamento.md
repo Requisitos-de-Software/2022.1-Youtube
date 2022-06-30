@@ -30,14 +30,16 @@ Para a utilização dessa ferramenta, o grupo está usando o gerador de sites Mk
 
 ## 4. Referências
 
-> - Moovit. Acesso em: 29 de junho de 2022. Disponível em: https://moovitapp.com/
-> - Parsec. Acesso em: 29 de junho de 2022. Disponível em: https://parsec.app/
-> - One Football. Acesso em: 29 de junho de 2022. Disponível em: https://onefootball.com/pt-br/inicio
-> - Cartola FC. Acesso em: 29 de junho de 2022. Disponível em: https://ge.globo.com/cartola/
-> - Youtube. Acesso em: 29 de junho de 2022. Disponível em: https://about.youtube/
-> - MkDocs. Acesso em: 29 de junho de 2022. Disponível em: https://www.mkdocs.org/
+> - Moovit. Acesso em: 29 de jun. de 2022. Disponível em: https://moovitapp.com/
+> - Parsec. Acesso em: 29 de jun. de 2022. Disponível em: https://parsec.app/
+> - One Football. Acesso em: 29 de jun. de 2022. Disponível em: https://onefootball.com/pt-br/inicio
+> - Cartola FC. Acesso em: 29 de jun. de 2022. Disponível em: https://ge.globo.com/cartola/
+> - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
+> - MkDocs. Acesso em: 29 de jun. de 2022. Disponível em: https://www.mkdocs.org/
 
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) |
 | ------ | ---- | --------- | --------- |
 | 1.0    | 25/06/2002 | Criação da primeira versão do documento com as os aplicativos analisados, metodologia de atuação da equipe e documentação do projeto. | @victorleaoo |
+| 1.1    | 25/06/2002 | Adição das referências. | @victorleaoo |
+| 1.1.5    | 30/06/2002 | Correção das referências. | @owhenrique |

@@ -15,16 +15,17 @@ A equipe selecionou as seguintes ferramentas para serem usadas como auxílio dur
 
 ## 2. Referências
 
-> - Discord. Acesso em: 29 de junho de 2022. Disponível em: https://discord.com/company
-> - Figma. Acesso em: 29 de junho de 2022. Disponível em: https://www.figma.com/about
-> - Github. Acesso em: 29 de junho de 2022. Disponível em: https://github.com/about
-> - Microsoft Teams. Acesso em: 29 de junho de 2022. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software
-> - Visual Studio Code. Acesso em: 29 de junho de 2022. Disponível em: https://visualstudio.microsoft.com/pt-br/
-> - WhatsApp. Acesso em: 29 de junho de 2022. Disponível em: https://www.whatsapp.com/?lang=pt_br
-> - Youtube. Acesso em: 29 de junho de 2022. Disponível em: https://about.youtube/
+> - Discord. Acesso em: 29 de jun. de 2022. Disponível em: https://discord.com/company
+> - Figma. Acesso em: 29 de jun. de 2022. Disponível em: https://www.figma.com/about
+> - Github. Acesso em: 29 de jun. de 2022. Disponível em: https://github.com/about
+> - Microsoft Teams. Acesso em: 29 de jun. de 2022. Disponível em: https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software
+> - Visual Studio Code. Acesso em: 29 de jun. de 2022. Disponível em: https://visualstudio.microsoft.com/pt-br/
+> - WhatsApp. Acesso em: 29 de jun. de 2022. Disponível em: https://www.whatsapp.com/?lang=pt_br
+> - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
 
 ## 3. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) |
 | ------ | ---- | --------- | --------- |
 | 1.0    | 25/06/2002 | Criação da primeira versão do documento com as primeiras ferramentas levantadas, sua logo e função pela equipe durante o projeto. | @victorleaoo |
 | 1.1    | 25/06/2002 | Adição das referências. | @victorleaoo |
+| 1.1.5    | 30/06/2002 | Correção das referências. | @owhenrique |
