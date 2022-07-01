@@ -10,7 +10,11 @@ Os seguintes aplicativos foram analisados pela equipe para uma possível escolha
 4. **Cartola FC**: Jogo eletrônico de futebol no estilo fantasy game, um jogo fictício no qual as pessoas montam seus times com jogadores de futebol da vida real.
 5. **Youtube**: Plataforma que permite a criação e postagem de vídeos de diversos gêneros em canais. Esses vídeos podem ser assistidos, curtidos, comentados e compartilhados por usuários que podem, também, se inscreverem nos canais.
 
-Após pesquisar um pouco sobre cada app, o **Youtube** foi escolhido como o aplicativo que será trabalhado dentro da disciplina, uma vez que possui funcionalidades que podem ser acessadas e apreciadas por todos os integrantes do grupo. Além disso, é altamente conhecido e possui um público muito amplo no Brasil.
+Após pesquisar um pouco sobre cada app, o **Youtube** foi escolhido como o aplicativo que será trabalhado dentro da disciplina pelos seguintes motivos:
+
+- Possui funcionalidades que podem ser acessadas e apreciadas por todos os integrantes do grupo.
+- É altamente conhecido e possui um público muito amplo no Brasil.
+- É uma plataforma intuitiva e que, portanto, proporciona a produção do projeto no nível requisitado na disciplina.
 
 ## 2. Atividades e Revisão em Pares
 
@@ -38,8 +42,9 @@ Para a utilização dessa ferramenta, o grupo está usando o gerador de sites Mk
 > - MkDocs. Acesso em: 29 de jun. de 2022. Disponível em: https://www.mkdocs.org/
 
 ## 5. Histórico de Versão
-| Versão | Data | Descrição | Autor(es) |
-| ------ | ---- | --------- | --------- |
-| 1.0    | 25/06/2002 | Criação da primeira versão do documento com as os aplicativos analisados, metodologia de atuação da equipe e documentação do projeto. | @victorleaoo |
-| 1.1    | 25/06/2002 | Adição das referências. | @victorleaoo |
-| 1.1.5    | 30/06/2002 | Correção das referências. | @owhenrique |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
+| 1.0    | 25/06/2002 | Criação da primeira versão do documento com as os aplicativos analisados, metodologia de atuação da equipe e documentação do projeto. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.1    | 27/06/2002 | Adição das referências. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.1.5    | 30/06/2002 | Correção das referências. | @owhenrique | @victorleaoo, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.1    | 01/07/2002 | Lista dos motivos da escolha do App (Youtube). | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |

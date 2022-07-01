@@ -68,11 +68,11 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
 
 ## 3. Referências
 
-> - Youtube. Acesso em: 29 de junho de 2022. Disponível em: https://about.youtube/
+> - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
 
 ## 4. Histórico de Versão
-| Versão | Data | Descrição | Autor(es) |
-| ------ | ---- | --------- | --------- |
-| 1.0    | 23/06/2002 | Criação da primeira versão do documento com uma descrição do repositório e da equipe | @victorleaoo |
-| 1.1    | 28/06/2002 | Definição do app e sua descrição | @victorleaoo, @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
-| 1.2    | 28/06/2002 | Adição de referências | @victorleaoo |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
+| ------ | ---- | --------- | --------- | ----------- |
+| 1.0    | 23/06/2002 | Criação da primeira versão do documento com uma descrição do repositório e da equipe | @victorleaoo | @lramon2001, @owhenrique |
+| 1.1    | 28/06/2002 | Definição do app e sua descrição | @victorleaoo, @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy | @victorleaoo, @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.2    | 30/06/2002 | Adição de referências | @victorleaoo | @lramon2001, @owhenrique |
