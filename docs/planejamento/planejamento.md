@@ -1,6 +1,9 @@
 # Planejamento do Projeto
 
-## 1. Aplicativos analisados
+## 1. Introdução
+A equipe criou um planejamento para que sejam seguidos padrões durante o desenvolvimento do projeto. Além disso, também são pontuados os diversos aplicativos analisados pela equipe e o motivo da escolha do YouTube.
+
+## 2. Aplicativos analisados
 
 Os seguintes aplicativos foram analisados pela equipe para uma possível escolha como tema do projeto:
 
@@ -16,13 +19,13 @@ Após pesquisar um pouco sobre cada app, o **Youtube** foi escolhido como o apli
 - É altamente conhecido e possui um público muito amplo no Brasil.
 - É uma plataforma intuitiva e que, portanto, proporciona a produção do projeto no nível requisitado na disciplina.
 
-## 2. Atividades e Revisão em Pares
+## 3. Atividades e Revisão em Pares
 
 Como pode ser observado no [Cronograma da Equipe](https://requisitos-de-software.github.io/2022.1-Youtube/planejamento/cronograma/), as atividades a serem desenvolvidos pela equipe serão realizadas e revisadas em duplas. Dessa forma, todos os integrantes do grupo podem ser organizar de forma a trabalharem em um ambiente saúdavel e sempre com apoio.
 
 As únicas atividades que requisitarão a participação de todos da equipe são as relacionadas à gravação de apresentações e entregas.
 
-## 3. Documentação do Projeto
+## 4. Documentação do Projeto
 
 ### 1. Wiki - GitHub
 Todo o projeto será documentado e hospedado na [Wiki do Repositório](https://github.com/Requisitos-de-Software/2022.1-Youtube/wiki). Nela, as diferentes páginas relacionadas às tarefas desenvolvidas serão armazenadas e podem ser acessadas.
@@ -32,7 +35,7 @@ Juntamente com a wiki do projeto, a documentação referente ao que for feito e 
 
 Para a utilização dessa ferramenta, o grupo está usando o gerador de sites MkDocs.
 
-## 4. Referências
+## 5. Referências
 
 > - Moovit. Acesso em: 29 de jun. de 2022. Disponível em: https://moovitapp.com/
 > - Parsec. Acesso em: 29 de jun. de 2022. Disponível em: https://parsec.app/
@@ -41,7 +44,7 @@ Para a utilização dessa ferramenta, o grupo está usando o gerador de sites Mk
 > - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
 > - MkDocs. Acesso em: 29 de jun. de 2022. Disponível em: https://www.mkdocs.org/
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 25/06/2002 | Criação da primeira versão do documento com as os aplicativos analisados, metodologia de atuação da equipe e documentação do projeto. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |

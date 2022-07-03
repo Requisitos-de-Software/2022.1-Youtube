@@ -1,6 +1,9 @@
 # Ferramentas do Projeto
 
-## 1. Ferramentas
+## 1. Introdução
+Durante todo o desenvolvimento do projeto, a equipe utilizará diversas ferramentas de auxílio. Dessa forma, abaixo estão elas listadas para conhecimento geral.
+
+## 2. Ferramentas
 A equipe selecionou as seguintes ferramentas para serem usadas como auxílio durante o desenvolvimento do projeto ao longo do semestre:
 
 | Logo | Ferramenta | Função |
@@ -14,7 +17,7 @@ A equipe selecionou as seguintes ferramentas para serem usadas como auxílio dur
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-wpp.png" width="128" height="128"/> | WhatsApp | Comunicação imediata da equipe. Ideal para resolver assuntos rápidos. |
 | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/logo-youtube.png" width="128" height="128"/> | Youtube | Hospedagem dos vídeos das apresentações. |
 
-## 2. Referências
+## 3. Referências
 
 > - Discord. Acesso em: 29 de jun. de 2022. Disponível em: https://discord.com/company
 > - Figma. Acesso em: 29 de jun. de 2022. Disponível em: https://www.figma.com/about
@@ -24,7 +27,7 @@ A equipe selecionou as seguintes ferramentas para serem usadas como auxílio dur
 > - WhatsApp. Acesso em: 29 de jun. de 2022. Disponível em: https://www.whatsapp.com/?lang=pt_br
 > - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
 
-## 3. Histórico de Versão
+## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 25/06/2002 | Criação da primeira versão do documento com as primeiras ferramentas levantadas, sua logo e função pela equipe durante o projeto. | @victorleaoo | @lramon2001, @B3holder2 |
