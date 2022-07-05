@@ -10,11 +10,11 @@ A partir disso, foi projetado um elenco de personas e uma anti-persona para desc
 ### 2.1. Persona 1
 |     |    |
 | :-: | :- |
-| Foto | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona1.jpeg" width="128" height="128"/> |
+| Foto | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona1.jpg" width="128" height="128"/> |
 | Nome | Eduardo Nascimento |
 | Ocupação | Estudante de Engenharia de Software na Universidade de Brasília (UnB) |
 | Dados Demográficos | 24 anos.<br/>Solteiro.<br/>Sexo Masculino.<br/>Mora com os pais em um apartamento de 2 quartos. |
-| Objetivos e Tarefas | Eduardo é focado e gosta de estudar. Um dos seus objetivos de vida é conseguir um emprego em uma multinacional renomada.<br/>Passa seu tempo útil:<br/>- Estudando para finalizar sua graduação que terminará em 2 semestres.<br/>- Buscando se atualizar acerca das tecnologias emergentes para que possa entrar no mercado de trabalho com expertise.|
+| Objetivos e Tarefas | Eduardo é focado e gosta de estudar. Um dos seus objetivos de vida é conseguir um emprego em uma multinacional renomada.<br/><br/>Passa seu tempo útil:<br/>- Estudando para finalizar sua graduação que terminará em 2 semestres.<br/>- Buscando se atualizar acerca das tecnologias emergentes para que possa entrar no mercado de trabalho com expertise.|
 | Ambiente | Ele gosta de ficar em seu quarto mexendo no computador, seja criando aplicações para seu portfólio de Software ou jogando jogos on-line. Considera a si mesmo um usuário avançado da Internet e aplicativos digitais. Fica entre 8-12h do dia mexendo em aparelhos digitais (celulares ou computadores). |
 | Expectativas | Eduardo espera encontrar no YouTube vídeos ou cursos gratuitos relacionados a conteúdos extracurriculares, para que possa expandir seu conhecimento e criar Softwares para uso próprio. |
 | Frase: | “Só durmo quando terminar esse exercício” ou “Só durmo quando matar esse chefão”. |
