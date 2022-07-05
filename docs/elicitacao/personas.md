@@ -56,6 +56,30 @@ As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
 | **Expectativas** | Roger espera encontrar no YouTube, vídeos sobre tecnologias e ferramentas que pretende utilizar em seus projetos, economizando seu tempo de prototipação. |
 | **Frase** | “Arredonda para três”, “No desenho encaixava”. |
 
+### 2.4 Persona 5
+|     |    |
+| :-: | :- |
+| **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona5.jpg" width="128" height="128"/> |
+| **Nome** | Enzo Santos |
+| **Ocupação** | Estudante do Fundamental 1 |
+| **Dados Demográficos** | 9 anos.<br/>Solteiro.<br/>Sexo Masculino.<br/>Mora com os pais num apartamento. |
+| **Objetivos e Tarefas** | Enzo é bem extrovertido tanto em casa quanto na escola, gosta muito de brincar e assistir desenhos animados.<br/><br/>Passa seu tempo útil:<br/>- Assistindo desenhos animados ou jogando jogos em seu iPad.<br/>- Estuda apenas na escola, isso quando não está conversando com algum colega de sala. |
+| **Ambiente** | Passa 5 horas da parte da manhã na escola e quando chega em casa foca todos os esforços em apenas jogos infantis e vídeos da internet. |
+| **Expectativas** | Enzo espera encontrar no youtube vários vídeos de seus jogos favoritos assim como episódios de seus desenhos prediletos. |
+| **Frase** | “Porque isso acontece mãe?”, “coloca o desenho pra mim pai”. |
+
+### 2.4 Persona 6
+|     |    |
+| :-: | :- |
+| **Foto** | <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/personas/persona6.jpg" width="128" height="128"/> |
+| **Nome** | Miranda Martins |
+| **Ocupação** | Concurseiro, Youtuber |
+| **Dados Demográficos** | 27 anos.<br/>Solteiro.<br/>Sexo Masculino.<br/>Mora sozinho em um apartamento com aluguel pago pelo país. |
+| **Objetivos e Tarefas** | Miranda passa grande parte do seu dia tentando criar conteúdo digital para o youtube tentando achar uma forma de crescer na plataforma, quando não está gravando vídeos, está “estudando” para algum concurso já que está com dificuldades de achar vaga na área de direito (Passou 7 anos para se formar na particular).<br/><br/>Passa seu tempo útil:<br/>- Assistindo vídeos de canais maiores em busca de achar algum conteúdo que possa impulsionar o seu canal também.<br/>- Grava vídeos e gera conteúdo pro youtube.<br/>- Estuda pra concurso. |
+| **Ambiente** | Passa o tempo todo em seu apartamento, saindo apenas para fazer compras, sair com amigos ou gravar algum conteúdo que precise ser gravado na rua. |
+| **Expectativas** | Miranda espera encontrar no youtube uma forma de gerar uma renda sem precisar se esforçar muito. |
+| **Frase** | “Eu sou Youtuber”, “fiz igual, por que flopou?”. |
+
 ### 2.7 Anti-Persona
 |     |    |
 | :-: | :- |
@@ -77,4 +101,5 @@ As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 04/07/2002 | Criação da primeira versão do documento com as primeiras personas do elenco de personas e anti-persona. | @victorleaoo, @owhenrique,@B3holder2, @CDGodoy | @lramon2001, @Alef012 |
+| 1.0    | 04/07/2002 | Criação da primeira versão do documento com as primeiras personas do elenco de personas e anti-persona. | @victorleaoo, @owhenrique, @B3holder2, @CDGodoy | @lramon2001, @Alef012 |
+| 1.1    | 05/07/2002 | Adição de mais personas no elenco de personas e anti-persona. |  @owhenrique, @B3holder2 | @victorleaoo, @lramon2001, @Alef012, , @CDGodoy |
