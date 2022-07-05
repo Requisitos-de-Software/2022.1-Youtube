@@ -5,7 +5,8 @@ Personas são arquétipos, personagens ficcionais, concebidos a partir da sínte
 
 A partir disso, foi projetado um elenco de personas e uma anti-persona para descrever usuários típicos do YouTube.
 
-## 2. Elenco de Persona
+## 2. Elenco de Persona e Anti-Persona
+As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
 
 ### 2.1 Persona 1
 |     |    |
@@ -70,6 +71,7 @@ A partir disso, foi projetado um elenco de personas e uma anti-persona para desc
 ## 3. Referências
 
 > - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
+> - ThisPersonDoesNotExist. Acesso em: 04 de jul. de 2022. Disponível em: https://thispersondoesnotexist.com/image
 > - Maurício Vianna, Design Thinking - Inovação em Negócios. Rio de Janeiro, 1a Edição, MJV Press, 2012.
 
 ## 4. Histórico de Versão
