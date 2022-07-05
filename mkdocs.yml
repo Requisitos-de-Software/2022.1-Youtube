@@ -18,4 +18,6 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Cronograma: planejamento/cronograma.md
   - Rich Picture: richpicture.md
+  - Elicitação:
+    - Personas: elicitacao/personas.md
   - Apresentações: apresentacao.md
