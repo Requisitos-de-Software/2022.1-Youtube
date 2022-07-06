@@ -8,6 +8,8 @@ A partir disso, foi projetado um elenco de personas e uma anti-persona para desc
 ## 2. Elenco de Persona e Anti-Persona
 As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
 
+O formato para a criação das personas foi inspirada no encontrado no site usability.gov.
+
 ### 2.1 Persona 1
 |     |    |
 | :-: | :- |
@@ -97,6 +99,7 @@ As imagens utilizadas foram obtidas pelo site ThisPersonDoesNotExist.
 > - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
 > - ThisPersonDoesNotExist. Acesso em: 04 de jul. de 2022. Disponível em: https://thispersondoesnotexist.com/image
 > - Maurício Vianna, Design Thinking - Inovação em Negócios. Rio de Janeiro, 1a Edição, MJV Press, 2012.
+> - usability.gov. Acesso em: 05 de jul. de 2022. Disponível em: https://www.usability.gov/how-to-and-tools/methods/personas.html
 
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
