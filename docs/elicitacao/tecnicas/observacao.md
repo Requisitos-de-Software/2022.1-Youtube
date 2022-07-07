@@ -4,8 +4,9 @@
 A observação é uma técnica que possibilita observar, no próprio ambiente, no qual o software será implantado, as tarefas sendo executadas pelos interessados, sem interferir no ambiente. A partir disso, os requisitos são obtidos com base nas tarefas realizadas pelos interessados.(Milene Serrano, Requisitos - Aula 07, página 24).
 
 A observação tem como vantagens:
-* Obtenção de uma visão prática e realista do negócio(SOMMERVILLE, 2006).
-* Ótima opção para identificar requisitos de usabilidade (BIAS, 2005).
+
+- Obtenção de uma visão prática e realista do negócio(SOMMERVILLE, 2006).
+- Ótima opção para identificar requisitos de usabilidade (BIAS, 2005).
 (Carlos Vazquez, Engenharia de Requisitos, páginas 161, 162)
 
 ## 2. Metodologia
