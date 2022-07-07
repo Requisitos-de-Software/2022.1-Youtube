@@ -20,4 +20,14 @@ nav:
   - Rich Picture: richpicture.md
   - Elicitação:
     - Personas: elicitacao/personas.md
+    - Perfil de Usuário: elicitacao/perfil.md
+    - Técnicas:
+      - Brainstrom: elicitacao/tecnicas/brainstorm.md
+      - Introspecção: elicitacao/tecnicas/introspeccao.md
+      - Observação: elicitacao/tecnicas/observacao.md
+      - Entrevista: elicitacao/tecnicas/entrevista.md
+    - Priorização:
+      - MoSCoW: elicitacao/priorizacao/moscow.md
+      - 100 Doláres: elicitacao/priorizacao/100dol.md
+    - Resultado Elicitação: elicitacao/resultado.md
   - Apresentações: apresentacao.md
