@@ -10,7 +10,6 @@ theme:
   palette:
     primary: 'red'
 
-
 nav: 
   - Página Inicial: index.md
   - Planejamento:
@@ -22,7 +21,7 @@ nav:
     - Personas: elicitacao/personas.md
     - Perfil de Usuário: elicitacao/perfil.md
     - Técnicas:
-      - Brainstrom: elicitacao/tecnicas/brainstorm.md
+      - Brainstorm: elicitacao/tecnicas/brainstorm.md
       - Introspecção: elicitacao/tecnicas/introspeccao.md
       - Observação: elicitacao/tecnicas/observacao.md
       - Entrevista: elicitacao/tecnicas/entrevista.md

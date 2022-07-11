@@ -51,13 +51,13 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI34  | O sistema deve exibir a opção de ativar modo de navegação anônima. |
 | RFI35  | O sistema deve exibir o tempo de exibição, caso o usuário solicite. |
 | RFI36  | O sistema deve mostrar a opção de ativar modo de navegação anônima. |
-| RFI37  | O sistema deve recomendar novos vídeos na tela de um vídeo. |
-| RFI38  | O sistema deve recomendar vídeos na tela inicial do aplicativo. |
 
 ### 4.2 Requisitos Não-Funcionais
 | ID  | Requisito | 
 | :-: | :-------- |
 | RNFI01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS |
+| RNFI02  | O sistema deve recomendar novos vídeos na tela de um vídeo. |
+| RNFI03  | O sistema deve recomendar vídeos na tela inicial do aplicativo. |
 
 ## 5. Referências
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.
@@ -67,3 +67,4 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | @victorleaoo | @owhenrique |
 | 1.1    | 09/07/2002 | Instropecção versão 1 feita por Victor. | @victorleaoo | @B3Holder2 |
+| 1.2    | 11/07/2002 | Mudanças de alguns requisitos não-funcionais, uma vez que foram entendidos que fazem mais sentidos posicionados dessa forma. | @victorleaoo | @B3Holder2 |
