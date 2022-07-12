@@ -32,7 +32,7 @@ Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo
 | RFO05 | O usuário deve poder retirar legendas de um vídeo |
 | RFO06 | O usuário deve ser capaz de acelerar/desacelerar um vídeo |
 | RFO07 | O usuário deve poder ver os comentários de um vídeo |
-| RFO08 | O usuário deve poder realizar um comtenário em um vídeo |
+| RFO08 | O usuário deve poder realizar um comentário em um vídeo |
 | RFO09 | O usuário deve poder se inscrever em um canal |
 | RFO10 | O usuário deve poder ver a página inicial de um canal |
 | RFO11 | O usuário deve ser capaz de ver a aba "vídeos" de um canal |

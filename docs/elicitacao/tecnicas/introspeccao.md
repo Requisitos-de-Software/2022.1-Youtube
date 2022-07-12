@@ -23,23 +23,20 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI06  | O usuário deve ser capaz de se inscrever em um canal. |
 | RFI07  | O usuário deve ser capaz de comentar em um vídeo. |
 | RFI08  | O usuário deve ser capaz avançar ou retroceder 10 segundos de um vídeo. |
-| RFI09  | O usuário deve ser capaz de se inscrever em um canal. |
+| RFI09  | O usuário deve ser capaz de realizar uma transmissão ao vivo. |
 | RFI10  | O usuário deve ser capaz de realizar um corte de no máximo 60 segundos de um vídeo. |
-| RFI11  | O usuário deve ser capaz de se inscrever em um canal. |
-| RFI12  | O usuário deve ser capaz de realizar uma "doação" para o canal em que está assistindo o vídeo com um comentário. |
-| RFI13  | O usuário deve ser capaz de se inscrever em um canal. |
+| RFI12  | O usuário deve ser capaz de realizar uma doação para o canal em que está assistindo o vídeo com um comentário. |
 | RFI14  | O usuário deve poder minimizar o vídeo e continuar navegando no aplicativo com ele sendo reproduzido. |
 | RFI15  | O usuário deve poder ativar ou desativar legendas para um vídeo, caso ele tenha essa opção. |
 | RFI16  | O usuário deve poder alterar a qualidade do vídeo. |
 | RFI17  | O usuário deve ser capaz de denunciar um vídeo. |
-| RFI18  | O usuário deve ser capaz de se assistir um vídeo no modo RV (realidade virtual). |
-| RFI19  | O usuário deve ser capaz de se inscrever em um canal. |
+| RFI18  | O usuário deve ser capaz de assistir um vídeo no modo RV (realidade virtual). |
 | RFI20  | O usuário deve poder criar uma playlist. |
 | RFI21  | O usuário deve poder salvar um vídeo em uma playlist. |
 | RFI22  | O usuário deve ser capaz de excluir uma playlist. |
 | RFI23  | O usuário deve ser capaz de alterar as informações de uma playlist. |
 | RFI24  | O usuário deve ser capaz de reproduzir uma playlist na ordem aleatória. |
-| RFI25  | O usuário deve ser capaz de ordernar sua playlist por data de inclusão ou publicação. |
+| RFI25  | O usuário deve ser capaz de ordenar sua playlist por data de inclusão ou publicação. |
 | RFI26  | O usuário deve poder acessar seu histórico de vídeos. |
 | RFI27  | O usuário deve poder ver os vídeos postados pelos seus canais inscritos. |
 | RFI28  | O usuário deve ser capaz de acessar um canal. |
@@ -50,7 +47,6 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI33  | O sistema deve exibir o "sobre" de um canal. |
 | RFI34  | O sistema deve exibir a opção de ativar modo de navegação anônima. |
 | RFI35  | O sistema deve exibir o tempo de exibição, caso o usuário solicite. |
-| RFI36  | O sistema deve mostrar a opção de ativar modo de navegação anônima. |
 
 ### 4.2 Requisitos Não-Funcionais
 | ID  | Requisito | 
@@ -58,6 +54,7 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RNFI01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS |
 | RNFI02  | O sistema deve recomendar novos vídeos na tela de um vídeo. |
 | RNFI03  | O sistema deve recomendar vídeos na tela inicial do aplicativo. |
+| RNFI04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. |
 
 ## 5. Referências
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.
