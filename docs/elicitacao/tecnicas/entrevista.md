@@ -26,7 +26,7 @@ A partir de um roteiro de perguntas, um participante do grupo entrevistou um usu
 
 A partir das respostas do usuário, foram elicitados requisitos que já são implementados no aplicativo e alguns outros que podem vir a serem.
 
-![Áudio da Entrevista](https://user-images.githubusercontent.com/33530818/178569542-d2e32903-021d-424a-bdd0-fb63df893b2f.mp4)
+[Áudio da Entrevista](https://user-images.githubusercontent.com/33530818/178569542-d2e32903-021d-424a-bdd0-fb63df893b2f.mp4)
 
 ## 3. Participantes
 

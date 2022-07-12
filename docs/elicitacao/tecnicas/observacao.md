@@ -15,7 +15,7 @@ Um dos integrantes do grupo pediu a um usuário para que usasse o aplicativo e u
 
 Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo, para que, assim, pudesse ser extraído o máximo de requisitos pela técnica:
 
-![Vídeo da Observação](https://user-images.githubusercontent.com/33530818/178572814-c4af9a44-c9fe-42f3-be98-4f2f377a77e8.mp4)
+[Vídeo da Observação](https://user-images.githubusercontent.com/33530818/178572814-c4af9a44-c9fe-42f3-be98-4f2f377a77e8.mp4)
 
 ## 3. Participantes
 - Victor Hugo (@victorleaoo): Observador
@@ -23,12 +23,28 @@ Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo
 
 ## 4. Resultados
 ### 4.1 Requisitos Funcionais
-| ID  | Requisito | 
-| :-: | :-------- |
+| ID    | Requisito | 
+| :-:   | :-------- |
+| RFO01 | O usuário deve ser capaz de pausar um vídeo |
+| RFO02 | O usuário deve ser capaz de dar play em um vídeo |
+| RFO03 | O usuário deve poder avaliar (curtir ou não) um vídeo |
+| RFO04 | O usuário deve ser capaz de ativar legendas para o vídeo |
+| RFO05 | O usuário deve poder retirar legendas de um vídeo |
+| RFO06 | O usuário deve ser capaz de acelerar/desacelerar um vídeo |
+| RFO07 | O usuário deve poder ver os comentários de um vídeo |
+| RFO08 | O usuário deve poder realizar um comtenário em um vídeo |
+| RFO09 | O usuário deve poder se inscrever em um canal |
+| RFO10 | O usuário deve poder ver a página inicial de um canal |
+| RFO11 | O usuário deve ser capaz de ver a aba "vídeos" de um canal |
+| RFO12 | O usuário deve ser capaz de minimizar e continuar vendo um vídeo |
+| RFO13 | O usuário deve poder ver os vídeos enviados pelos canais em que ele está inscrito |
+| RFO14 | O usuário deve poder maximizar um vídeo minimizado |
+| RFO15 | O usuário deve ser capaz de adicionar um vídeo a uma playlist |
 
 ### 4.2 Requisitos Não-Funcionais
-| ID  | Requisito | 
-| :-: | :-------- |
+| ID     | Requisito | 
+| :-:    | :-------- |
+| RNFO01 | Ao clicar em "Salvar" na tela de um vídeo, o sistema deve adicionar automaticamente o vídeo a uma playlist "Assistir mais tarde" |
 
 ## 5. Referências
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.
