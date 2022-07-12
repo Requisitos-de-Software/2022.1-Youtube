@@ -9,7 +9,7 @@ A partir do conceito da técnica, os dois participantes fizeram suas elicitaçõ
 De forma mais específica, um dos integrantes teve uma visão mais focada em requisitos relacionados ao usuário espectador, enquanto o outro buscou por uma introspecção na visão do criador de conteúdo.
 
 ## 3. Participantes
-- Victor Hugo Oliveira Leão (@victorleaoo)
+- Victor Hugo
 
 ## 4. Resultados
 ### 4.1 Requisitos Funcionais
