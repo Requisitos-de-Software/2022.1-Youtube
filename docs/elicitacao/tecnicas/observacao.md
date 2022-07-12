@@ -15,7 +15,7 @@ Um dos integrantes do grupo pediu a um usuário para que usasse o aplicativo e u
 
 Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo, para que, assim, pudesse ser extraído o máximo de requisitos pela técnica:
 
-https://user-images.githubusercontent.com/33530818/178572814-c4af9a44-c9fe-42f3-be98-4f2f377a77e8.mp4
+![Vídeo da Observação](https://user-images.githubusercontent.com/33530818/178572814-c4af9a44-c9fe-42f3-be98-4f2f377a77e8.mp4)
 
 ## 3. Participantes
 - Victor Hugo (@victorleaoo): Observador
