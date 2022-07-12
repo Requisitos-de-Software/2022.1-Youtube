@@ -7,7 +7,7 @@ A entrevista tem como vantagens:
 
 - Permitir coletar muitas informações dos usuários individualmente.
 - Ser flexível: permite fazer perguntas de follow-up e se aprofundar mais do que questionários ou grupos de foco.
-(IHC - Cáp. 7, páginas 143, 144)
+(Simone Diniz, Interação Humano-Computador. - Cáp. 7, páginas 143, 144)
 
 ## 2. Metodologia
 A partir de um roteiro de perguntas, um participante do grupo entrevistou um usuário do aplicativo YouTube. O roteiro foi o seguinte:
@@ -28,12 +28,11 @@ A partir das respostas do usuário, foram elicitados requisitos que já são imp
 
 Áudio da entrevista:
 
-
 https://user-images.githubusercontent.com/33530818/178569542-d2e32903-021d-424a-bdd0-fb63df893b2f.mp4
 
 ## 3. Participantes
 
-- Carlos Daniel: Entrevistador
+- Carlos Daniel (@CDGodoy): Entrevistador
 - João Gabriel: Entrevistado
 
 ## 4. Resultados
@@ -62,7 +61,7 @@ https://user-images.githubusercontent.com/33530818/178569542-d2e32903-021d-424a-
 | RNFE06 | O sistema deve oferecer um modo escuro para o aplicativo |
 
 ## 5. Referências
-> - IHC
+> - Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
 
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |

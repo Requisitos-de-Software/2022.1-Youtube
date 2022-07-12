@@ -7,11 +7,19 @@ A observação tem como vantagens:
 
 - Obtenção de uma visão prática e realista do negócio(SOMMERVILLE, 2006).
 - Ótima opção para identificar requisitos de usabilidade (BIAS, 2005).
+
 (Carlos Vazquez, Engenharia de Requisitos, páginas 161, 162)
 
 ## 2. Metodologia
+Um dos integrantes do grupo pediu a um usuário para que usasse o aplicativo e utilizasse o máximo de funcionalidades que ele pudesse lembrar e/ou usasse no dia-a-dia. Enquanto isso, o integrante do grupo observaria a utilização e elicitaria requisitos a partir do que visse.
+
+Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo, para que, assim, pudesse ser extraído o máximo de requisitos pela técnica:
+
+
 
 ## 3. Participantes
+- Victor Hugo (@victorleaoo): Observador
+- Benjamin Lacerda (20 anos, estudante de Engenharia de Software - UnB/FGA): Observado
 
 ## 4. Resultados
 ### 4.1 Requisitos Funcionais
@@ -30,3 +38,4 @@ A observação tem como vantagens:
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | @victorleaoo | @owhenrique |
+| 1.1    | 12/07/2002 | Adição da observação e requisitos elicitados. | @victorleaoo | @Alef012 |

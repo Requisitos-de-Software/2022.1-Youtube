@@ -9,7 +9,7 @@ O brainstorm tem como vantagens:
 
 - Poder se preparar, conduzir e analisar dados da atividade em pouco tempo e com poucos recursos.
 - Precisar de pouco esforço para conduzir e analisar dados.
-(IHC - Cáp. 7, página 144)
+(Simone Diniz, Interação Humano-Computador - Cáp. 7, página 144)
 
 ## 2. Metodologia
 O grupo se reuniu em uma chamda no Google Meet e a partir da compartilhação da tela de um arquivo de texto em branco, os integrantes compartilharam suas ideias seguindo o objetivo: Elicitar requisitos do aplicativo YouTube. Um dos integrantes trabalhou como facilitador, apenas anotando as ideias e ajudando no direcionamento da técnica.
@@ -17,11 +17,11 @@ O grupo se reuniu em uma chamda no Google Meet e a partir da compartilhação da
 ## 3. Participantes
 A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes foram os seguintes integrantes do grupo:
 
-- Felipe Alef
-- Lucas Ramon
-- Paulo Henrique
-- Pedro Victor
-- Victor Hugo: Facilitador
+- Felipe Alef (@Alef012)
+- Lucas Ramon (@lramon2001)
+- Paulo Henrique (@owhenrique)
+- Pedro Victor (@B3holder2)
+- Victor Hugo (@victorleaoo): Facilitador
 
 ## 4. Resultados
 
@@ -88,7 +88,7 @@ A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes for
 | RNFB05 | O sistema deve proporcionar a maior quantidade de qualidades de vídeo possível. |
 
 ## 5. Referências
-> - IHC
+> - Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.
 
 ## 6. Histórico de Versão
