@@ -21,7 +21,7 @@ A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes for
 - Lucas Ramon
 - Paulo Henrique
 - Pedro Victor
-- Victor Hugo
+- Victor Hugo: Facilitador
 
 ## 4. Resultados
 
