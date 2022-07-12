@@ -105,4 +105,4 @@ O formato para a criação das personas foi inspirada no encontrado no site usab
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 04/07/2002 | Criação da primeira versão do documento com as primeiras personas do elenco de personas e anti-persona. | @victorleaoo, @owhenrique, @B3holder2, @CDGodoy | @lramon2001, @Alef012 |
-| 1.1    | 05/07/2002 | Adição de mais personas no elenco de personas e anti-persona. |  @owhenrique, @B3holder2 | @victorleaoo, @lramon2001, @Alef012, , @CDGodoy |
+| 1.1    | 05/07/2002 | Adição de mais personas no elenco de personas e anti-persona. |  @owhenrique, @B3holder2 | @victorleaoo, @lramon2001, @Alef012, @CDGodoy |
