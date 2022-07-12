@@ -28,7 +28,8 @@ A partir das respostas do usuário, foram elicitados requisitos que já são imp
 
 Áudio da entrevista:
 
-![Entrevista](../../media/entrevista/audio-entrevista.mp4)
+
+https://user-images.githubusercontent.com/33530818/178569542-d2e32903-021d-424a-bdd0-fb63df893b2f.mp4
 
 ## 3. Participantes
 
