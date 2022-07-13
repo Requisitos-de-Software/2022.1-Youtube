@@ -54,6 +54,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI39  | O usuário deve poder editar o visual de seu canal (foto/banner). |
 | RFI40  | O usuário deve poder trocar o nome do seu canal. |
 | RFI41  | O usuário deve poder editar a descrição do seu canal. |
+| RFI42  | O usuário deve poder fazer transmissões ao vivo. |
+| RFI43  | O usuário deve poder acessar o gerenciamento de seus vídeos. |
 
 
 
