@@ -60,6 +60,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI45  | O usuário deve poder adicionar tags em seu vídeo. |
 | RFI46  | O usuário deve poder adicionar uma thumbnail em seu vídeo. |
 | RFI47  | O usuário deve poder ver as estáticas de seus vídeos. |
+| RFI48  | O usuário deve poder ver as estáticas de seu canal (Visualizações/Tempo de exibição/novos inscritos). |
+| RFI49  | O usuário deve poder ver seu ganho (Monetização). |
 
 
 
