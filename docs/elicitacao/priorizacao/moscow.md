@@ -14,6 +14,8 @@ Essa técnica consiste em, basicamente, atribuir para cada um dos requisitos uma
 - **W**ould/**W**ant/**W**on't: Menos críticos e com menor retorno sobre o investimento. Devem ter a concordância dos clientes.
 (Milene Serrano, Requisitos - Aula 07, página 33).
 
+A partir disso, um integrante do grupo (Lucas Ramon) se reuniu com um usuário do YouTube (não integrante da equipe) e pediu/guiou a realização da técnica.
+
 ## 3. Resultados
 ### 3.1 Requisitos Funcionais
 | ID  | Requisito | Técnica | Prioridade |
