@@ -66,6 +66,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI51  | O usuário deve poder criar um “Short” (Vídeos curtos). |
 | RFI52  | O usuário deve poder ter acesso aos vídeos armazenados em seu dispositivo. |
 | RFI53  | O usuário deve indicar se seu vídeo é conteúdo infantil ou não. |
+| RFI54  | O usuário deve poder receber superchats (doações dos espectadores). |
+| RFI55  | O usuário deve poder acessar mais de um canal. |
 
 
 
