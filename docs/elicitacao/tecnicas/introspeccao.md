@@ -62,6 +62,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI47  | O usuário deve poder ver as estáticas de seus vídeos. |
 | RFI48  | O usuário deve poder ver as estáticas de seu canal (Visualizações/Tempo de exibição/novos inscritos). |
 | RFI49  | O usuário deve poder ver seu ganho (Monetização). |
+| RFI50  | O usuário deve poder editar sua aba de “canais recomendados”. |
+| RFI51  | O usuário deve poder criar um “Short” (Vídeos curtos). |
 
 
 
