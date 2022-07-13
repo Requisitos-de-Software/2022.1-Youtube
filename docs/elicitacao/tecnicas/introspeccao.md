@@ -56,6 +56,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI41  | O usuário deve poder editar a descrição do seu canal. |
 | RFI42  | O usuário deve poder fazer transmissões ao vivo. |
 | RFI43  | O usuário deve poder acessar o gerenciamento de seus vídeos. |
+| RFI44  | O usuário deve poder editar a privacidade de seus vídeos (público/privado/não listado). |
+| RFI45  | O usuário deve poder adicionar tags em seu vídeo. |
 
 
 
