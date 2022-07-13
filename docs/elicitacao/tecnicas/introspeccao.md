@@ -89,7 +89,7 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | @victorleaoo | @owhenrique |
+| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | [@victorleaoo](https://github.com/victorleaoo) | @owhenrique |
 | 1.1    | 09/07/2002 | Instropecção versão 1 feita por Victor. | @victorleaoo | @B3Holder2 |
 | 1.2    | 11/07/2002 | Mudanças de alguns requisitos não-funcionais, uma vez que foram entendidos que fazem mais sentidos posicionados dessa forma. | @victorleaoo | @B3Holder2 |
 | 1.3    | 13/07/2002 | Adicionando requisitos funcionais relacionados à criação de conteúdo | @B3holder | @victorleaoo |
