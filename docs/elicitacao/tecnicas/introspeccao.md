@@ -58,6 +58,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI43  | O usuário deve poder acessar o gerenciamento de seus vídeos. |
 | RFI44  | O usuário deve poder editar a privacidade de seus vídeos (público/privado/não listado). |
 | RFI45  | O usuário deve poder adicionar tags em seu vídeo. |
+| RFI46  | O usuário deve poder adicionar uma thumbnail em seu vídeo. |
+| RFI47  | O usuário deve poder ver as estáticas de seus vídeos. |
 
 
 
