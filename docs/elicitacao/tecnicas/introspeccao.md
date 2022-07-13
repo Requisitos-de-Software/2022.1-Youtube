@@ -10,6 +10,7 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 
 ## 3. Participantes
 - Victor Hugo (@victorleaoo)
+- Pedro Victor Lima Torreão (@B3holder2)
 
 ## 4. Resultados
 ### 4.1 Requisitos Funcionais
@@ -47,6 +48,10 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI33  | O sistema deve exibir o "sobre" de um canal. |
 | RFI34  | O sistema deve exibir a opção de ativar modo de navegação anônima. |
 | RFI35  | O sistema deve exibir o tempo de exibição, caso o usuário solicite. |
+| RFI36  | O usuário deve poder criar um canal. |
+| RFI37  | O usuário deve poder postar vídeos. |
+
+
 
 ### 4.2 Requisitos Não-Funcionais
 | ID  | Requisito | 
@@ -65,3 +70,4 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | @victorleaoo | @owhenrique |
 | 1.1    | 09/07/2002 | Instropecção versão 1 feita por Victor. | @victorleaoo | @B3Holder2 |
 | 1.2    | 11/07/2002 | Mudanças de alguns requisitos não-funcionais, uma vez que foram entendidos que fazem mais sentidos posicionados dessa forma. | @victorleaoo | @B3Holder2 |
+| 1.3    | 13/07/2002 | Adicionando requisitos funcionais relacionados à criação de conteúdo | @B3holder | @victorleaoo |
