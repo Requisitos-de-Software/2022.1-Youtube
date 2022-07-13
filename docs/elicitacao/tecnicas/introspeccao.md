@@ -64,6 +64,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI49  | O usuário deve poder ver seu ganho (Monetização). |
 | RFI50  | O usuário deve poder editar sua aba de “canais recomendados”. |
 | RFI51  | O usuário deve poder criar um “Short” (Vídeos curtos). |
+| RFI52  | O usuário deve poder ter acesso aos vídeos armazenados em seu dispositivo. |
+| RFI53  | O usuário deve indicar se seu vídeo é conteúdo infantil ou não. |
 
 
 
