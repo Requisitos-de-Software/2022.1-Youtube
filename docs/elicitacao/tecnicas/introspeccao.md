@@ -50,6 +50,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI35  | O sistema deve exibir o tempo de exibição, caso o usuário solicite. |
 | RFI36  | O usuário deve poder criar um canal. |
 | RFI37  | O usuário deve poder postar vídeos. |
+| RFI38  | O usuário deve poder editar os dados de seu vídeo (Nome/descrição). |
+| RFI39  | O usuário deve poder editar o visual de seu canal (foto/banner). |
 
 
 
