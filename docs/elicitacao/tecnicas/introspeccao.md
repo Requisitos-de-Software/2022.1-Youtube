@@ -68,6 +68,10 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI53  | O usuário deve indicar se seu vídeo é conteúdo infantil ou não. |
 | RFI54  | O usuário deve poder receber superchats (doações dos espectadores). |
 | RFI55  | O usuário deve poder acessar mais de um canal. |
+| RFI56  | O usuário deve poder excluir um video. |
+| RFI57  | O usuário deve poder remover tags. |
+| RFI58  | O usuário deve poder remover descrição. |
+| RFI59  | O usuário deve poder remover comentários. |
 
 
 
