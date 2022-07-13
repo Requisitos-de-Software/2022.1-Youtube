@@ -17,7 +17,7 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/CDGodoy">
+      <a href="https://github.com/CDGodoy" target="_blank">
         <img src="./media/foto-carlos.png" height="110" width="100px;" alt="Foto Carlos Godoy"/><br>
         <sub>
           <b>Carlos Godoy (@CDGodoy)</b>
@@ -25,7 +25,7 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Alef012">
+      <a href="https://github.com/Alef012" target="_blank">
         <img src="./media/foto-felipe.jpg" height="110" width="100px;" alt="Foto Felipe Alef"/><br>
         <sub>
           <b>Felipe Alef (@Alef012)</b>
@@ -33,7 +33,7 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/lramon2001">
+      <a href="https://github.com/lramon2001" target="_blank">
         <img src="./media/foto-lucas.jpg" height="110" width="100px;" alt="Foto Lucas Ramon"/><br>
         <sub>
           <b>Lucas Ramon (@lramon2001)</b>
@@ -41,7 +41,7 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/owhenrique">
+      <a href="https://github.com/owhenrique" target="_blank">
         <img src="./media/foto-ph.jpg" height="110" width="100px;" alt="Foto Paulo Henrique"/><br>
         <sub>
           <b>Paulo Henrique Almeida (@owhenrique)</b>
@@ -49,7 +49,7 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/B3holder2">
+      <a href="https://github.com/B3holder2" target="_blank">
         <img src="./media/foto-pedro.jpg" height="110" width="100px;" alt="Foto Pedro Victor"/><br>
         <sub>
           <b>Pedro Victor (@B3holder2)</b>
@@ -57,7 +57,7 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/victorleaoo">
+      <a href="https://github.com/victorleaoo" target="_blank">
         <img src="./media/foto-victor.jpg" height="110" width="100px;" alt="Foto Victor Leão"/><br>
         <sub>
           <b>Victor Leão (@victorleaoo)</b>
