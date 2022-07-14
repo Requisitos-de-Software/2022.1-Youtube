@@ -7,6 +7,10 @@ As entregas das etapas das disciplinas são feitas por vídeos de apresentaçõe
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1glYF4AGrnA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Apresentação Etapa 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RGPDVb2WR80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 3. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
