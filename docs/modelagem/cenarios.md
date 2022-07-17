@@ -8,13 +8,13 @@ Em adição, segundo Carroll, o fato de um cenário projetar uma descrição con
 ## 2. Metodologia
 Após a listagem dos cenários identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
 
-- **Título**
-- **Objetivo**
-- **Contexto**
-- **Autores**
-- **Recursos**
-- **Episódios**
-- **Exceções**
+- **Título**: breve identificação do cenário.
+- **Objetivo**: o que se busca no cenário.
+- **Contexto**: ambiente e pré-condição para o cenário acontecer.
+- **Ator(es)**: sistemas ou usuários/pessoas que interagem no cenário.
+- **Recursos**: o que é necessário para o cenário acontecer.
+- **Episódios**: passo-a-passo do cenário.
+- **Exceções**: impedimentos para a realização do cenário.
 
 ## 3. Cenários
 
@@ -24,7 +24,7 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Título   |           |
 | Objetivo |           |
 | Contexto |           |
-| Autor(es)|           |
+| Ator(es) |           |
 | Recursos |           |
 | Episódios|           |
 | Exceções |           |
