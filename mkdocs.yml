@@ -29,4 +29,10 @@ nav:
       - MoSCoW: elicitacao/priorizacao/moscow.md
       - 100 Doláres: elicitacao/priorizacao/100dol.md
     - Resultado Elicitação: elicitacao/resultado.md
+  - Modelagem:
+    - Cenários: modelagem/cenarios.md
+    - Léxicos:
+      - Estado: modelagem/lexicos/estado.md
+      - Objeto: modelagem/lexicos/objeto.md
+      - Verbo: modelagem/lexicos/verbo.md
   - Apresentações: apresentacao.md
