@@ -60,7 +60,7 @@ Relacionamentos include são aqueles que ocorrem sempre que o caso de uso base a
 
 <center>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/include.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/include.png" width="256" height="256"/>
 
 <figcaption>Figura 4: Representação de Relacionamento Include.</figcaption>
 
@@ -73,7 +73,7 @@ Relacionamentos extend são aqueles que podem ocorrer quando o caso de uso base 
 
 <center>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/extend.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/extend.png" width="256" height="256"/>
 
 <figcaption>Figura 5: Representação de Relacionamento Extend.</figcaption>
 

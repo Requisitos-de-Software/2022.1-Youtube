@@ -36,4 +36,5 @@ nav:
       - Objeto: modelagem/lexicos/objeto.md
       - Verbo: modelagem/lexicos/verbo.md
     - Casos de Uso: modelagem/casouso.md
+    - Especificação Suplementar: modelagem/espsup.md
   - Apresentações: apresentacao.md
