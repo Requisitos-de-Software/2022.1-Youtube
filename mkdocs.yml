@@ -35,4 +35,5 @@ nav:
       - Estado: modelagem/lexicos/estado.md
       - Objeto: modelagem/lexicos/objeto.md
       - Verbo: modelagem/lexicos/verbo.md
+    - Casos de Uso: modelagem/casouso.md
   - Apresentações: apresentacao.md
