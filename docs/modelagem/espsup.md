@@ -53,7 +53,7 @@ São requisitos relacionados ao desempenho do software. Exemplos:
 São requisitos relacionados a capacidade de suporte do software, tanto para consigo mesmo, quanto para o usuário. Exemplos:
 
 - Testabilidade.
-- Adaptabiliade.
+- Adaptabilidade.
 - Manutenibilidade.
 - Compatibilidade.
 - Instalabilidade.
@@ -78,14 +78,23 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 | **S**uportabilidade | - | 
 | **+**               | - |
 
-## 4. Referências
+## 4. Contato com o YouTube
+O grupo enviou uma mensagem para a comunidade do YouTube a fim de buscar por informações oficiais acerca da Especificação Suplementar, mais especificamente requisitos do modelo FURPS+. Segue na figura 1 um print da mensagem enviada.
+
+
+Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas respostas relevantes para o projeto.
+
+Link para a thread da mensagem: https://support.google.com/youtube/thread/171629913?hl=pt-BR
+
+## 5. Referências
 
 > - Milene Serrano, Requisitos - Aula 10. Acesso em: 17 de jul. de 2022. Disponível em: Aprender3.
 > - Samily Gois, Projeto de Software Floricultura Beija-Flor Especificação Suplementar. Acesso em: 17 de jul. de 2022.
 > - Youtube. Acesso em: 29 de jun. de 2022. Disponível em: https://about.youtube/
 > - Wikipedia - FURPS. Acesso em: 17 de jul. de 2022. Disponível em: https://pt.wikipedia.org/wiki/FURPS
 
-## 5. Histórico de Versão
+## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução, explicação de FURPS e estrutura da especificação suplementar | @victorleaoo | @lramon2001 |
+| 1.1    | 18/07/2002 | Adição da mensagem de contato com o YouTube | @victorleaoo | @lramon2001 |
