@@ -81,6 +81,7 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 ## 4. Contato com o YouTube
 O grupo enviou uma mensagem para a comunidade do YouTube a fim de buscar por informações oficiais acerca da Especificação Suplementar, mais especificamente requisitos do modelo FURPS+. Segue na figura 1 um print da mensagem enviada.
 
+![image](https://user-images.githubusercontent.com/33530818/179577308-cec8ab76-2d9d-4ef6-8916-189383661021.png)
 
 Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas respostas relevantes para o projeto.
 
