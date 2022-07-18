@@ -27,17 +27,17 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Conteúdo  |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Entretenimento, Vídeo |
+| Impacto  | Todas as interações que são relacionadas a vídeos, shorts, transmissões, clipes, entre outros, se referem a um tipo de conteúdo |
+| Noção    | Conteúdo seria uma forma abrangente de todos os diferentes tipos de vídeos que podem ser postados ou feitos, englobando Shorts, vídeos e transmissões ao vivo<br/>Quando se fala em conteúdo, é qualquer meio de entretenimento que pode ser criado |
 
 ### 3.1 - Canal
 | Elemento | Descrição |
 | :------: | :-------- |
-| Nome     | Canal  |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Nome     | Canal |
+| Sinônimos| Perfil, Armazém de Vídeos|
+| Impacto  | Um canal pode ser criado, pesquisado, compartilhado e, principalmente, é onde os conteúdos serão armazenados/postados<br/>Os outros usuários podem ser inscreverem em um canal |
+| Noção    | É um tipo de conta visualmente editável em que se pode armazenar conteúdos para que outros usuários possam encontrá-los e consumí-los |
 
 ### 3.1 - Usuário
 | Elemento | Descrição |
