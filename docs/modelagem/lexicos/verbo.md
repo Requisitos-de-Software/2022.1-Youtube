@@ -15,10 +15,114 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 
 ## 3. Léxicos - Verbo
 
-### 3.1 - Nome
+### 3.1 - Assistir
 | Elemento | Descrição |
 | :------: | :-------- |
-| Nome     |           |
+| Nome     | Assistir |
+| Sinônimos| Ver, Visualizar |
+| Impacto  | Um vídeo é reproduzido na tela do usuário |
+| Noção    | O usuário pode assistir a um conteúdo (vídeo, shorts, transmissão ao vivo) caso esteja conectado no aplicativo |
+
+### 3.1 - Compartilhar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Compartilhar |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Login
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Login |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Logout
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Logout |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Minimizar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Minimizar |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Maximizar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Maximizar |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Postar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Postar |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Curtir
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Curtir |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Clicar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Clicar |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Play
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Play |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Pausar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Pausar |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Inscrever
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Inscrever |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Pesquisar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Pesquisar |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Denunciar
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Denunciar |
 | Sinônimos|           |
 | Impacto  |           |
 | Noção    |           |
@@ -31,3 +135,4 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - verbo | @victorleaoo | @Alef012 |
+| 1.1    | 17/07/2002 | Adição sem ordenação de léxicos verbais e um exemplo de como deve ser feito | @victorleaoo | @Alef012 |

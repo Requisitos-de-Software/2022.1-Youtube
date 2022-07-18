@@ -15,10 +15,66 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 
 ## 3. Léxicos - Estado
 
-### 3.1 - Nome
+### 3.1 - Minimizado
 | Elemento | Descrição |
 | :------: | :-------- |
-| Nome     |           |
+| Nome     | Minimizado |
+| Sinônimos| Reduzido, Diminuído |
+| Impacto  | O usuário pode executar outras ações, como pesquisa, acessar canal, playlists, históricos etc.<br/>O usuário recebe autonomia maior com o aplicativo enquanto ainda assiste a um vídeo|
+| Noção    | É quando um vídeo está com seu tamanho original reduzido, dando espaço à tela para navegar em outras áreas do aplicativo|
+
+### 3.1 - Maximizado
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Maximizado |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Postado
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Postado |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Pausado
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Postado |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Inscrito
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Inscrito |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Logado
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Inscrito |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Estreia
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Inscrito |
+| Sinônimos|           |
+| Impacto  |           |
+| Noção    |           |
+
+### 3.1 - Não-Listado
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Inscrito |
 | Sinônimos|           |
 | Impacto  |           |
 | Noção    |           |
@@ -31,3 +87,4 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - estado | @victorleaoo | @Alef012 |
+| 1.1    | 17/07/2002 | Adição sem ordenação de léxicos de estado e um exemplo de como deve ser feito | @victorleaoo | @Alef012 |
