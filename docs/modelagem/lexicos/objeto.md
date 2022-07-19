@@ -83,7 +83,7 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Legenda |
-| Sinônimos|           |
+| Sinônimos| Descrição em tempo real |
 | Impacto  | Uma legenda pode ser ativada ou desativada e também pode ser escolhida o idioma da legenda|
 | Noção    | Texto escrito do áudio do vídeo |
 
