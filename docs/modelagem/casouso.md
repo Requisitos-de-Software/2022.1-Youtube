@@ -252,7 +252,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em um card de vídeo<br/>- Usuário consome o vídeo |
 | Pós-condição   | O usuário consimiu/assistiu um conteúdo |
 
-#### Caso de Uso 4 - Pesquisar Conteúdo
+#### Caso de Uso 5 - Pesquisar Conteúdo
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Pesquisar Conteúdo |
@@ -261,6 +261,26 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Pré-condições  | Abrir o aplicativo |
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica na ferramenta de pesquisa<br/>- Usuário digita título de conteúdo/vídeo que deseja consumir<br/>- Usuário clica em buscar |
 | Pós-condição   | O sistema disponibilzia ao usuário o conteúdo desejado/relacionado na pesquisa |
+
+#### Caso de Uso 6 - Criar Playlists
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Criar Playlists |
+| Descrição      | O usuário cria uma lista de conteúdos/vídeos que deseja consumir |
+| Ator           | Usuário |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a tela de biblioteca<br/>- Seleciona a opção de "nova playlist"<br/>- Adiciona vídeos à playlist<br/>- Informa o nome e privacidade da playlist<br/>- Clica em "criar playlist" |
+| Pós-condição   | O usuário terá uma playlist associada a sua conta criada |
+
+#### Caso de Uso 7 - Avaliar
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Avaliar |
+| Descrição      | O usuário avalia (positivamente ou negativamente) conteúdos/vídeos consumidos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica no joinha para avaliar positivamente ou no joinha invertido para avaliar negativamente <br/> |
+| Pós-condição   | O usuário terá avaliado um vídeo |
 
 ## 5. Referências
 
