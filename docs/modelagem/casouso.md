@@ -302,7 +302,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em compartilhar<br/>- Usuário seleciona a forma que deseja compartilhar o vídeo</br>- Usuário possuirá o link do vídeo ou terá compartilhado o vídeo em alguma rede social |
 | Pós-condição   | O usuário terá compartilhado um vídeo |
 
-#### Caso de Uso 9 - Alterar velocidade e Qualidade do vídeo
+#### Caso de Uso 10 - Alterar velocidade e Qualidade do vídeo
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Alterar velocidade e Qualidade do vídeo |
@@ -312,7 +312,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Velocidade de reprodução" ou "Qualidade"</br>- Usuário seleciona a velocidade de reprodução ou qualidade desejada |
 | Pós-condição   | O vídeo aberto estará na Velocidade de reprodução ou qualidade desejada |
 
-#### Caso de Uso 9 - Ver legendas
+#### Caso de Uso 11 - Ver legendas
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Ver legendas |
