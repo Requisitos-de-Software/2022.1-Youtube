@@ -97,7 +97,7 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-criador.png"/>
 
-<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo.</figcaption>
+<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo. Autor: Paulo Henrique Almeida.</figcaption>
 
 </center>
 
@@ -201,6 +201,127 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona a opção de "criar um short"<br/>- Seleciona um clipe<br/>- Clica em "concluído"<br/>- Adiciona as informações do shorts<br/>- Clica em "postar" |
 | Pós-condição   | O usuário um Shorts postado no seu canal |
 
+### 4.2 Diagrama 2 - Casos de Uso para o espectador
+A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário regular do sistema)
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-espectador.png"/>
+
+<figcaption>Figura 2: Diagrama de Casos de Uso - Espectador. Autor: Paulo Henrique Almeida.</figcaption>
+
+</center>
+
+#### Caso de Uso 1 - Criar Canal
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Criar Canal |
+| Descrição      | O espectador cria um canal, onde poderá postar e armazenar seus vídeos/conteúdos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal |
+| Pós-condição   | O usuário tem um canal criado |
+
+#### Caso de Uso 2 - Inscrever em Canal
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Inscrever em Canal |
+| Descrição      | O espectador se inscreve em um canal, por onde poderá acompanhar/consumir os conteúdo que estão sendo postados |
+| Ator           | Usuário Espectador |
+| Pré-condições  | Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica no ícone/nome do canal que deseja se inscrever <br/>- Clica em "inscrever-se"<br/>|
+| Pós-condição   | O usuário está inscrito no canal |
+
+#### Caso de Uso 3 - Autenticar Usuário
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Autenticar Usuário |
+| Descrição      | O usuário autentica suas credenciais de login para poder ter acesso a mais ferramentas |
+| Ator           | Usuário |
+| Pré-condições  | Ter uma conta Google |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google |
+| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas |
+
+#### Caso de Uso 4 - Consumir Conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Consumir Conteúdo |
+| Descrição      | O usuário consome/assiste os conteúdos/vídeos que estão postados no sistema |
+| Ator           | Usuário Espectador |
+| Pré-condições  | Abrir o aplicativo |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em um card de vídeo<br/>- Usuário consome o vídeo |
+| Pós-condição   | O usuário consimiu/assistiu um conteúdo |
+
+#### Caso de Uso 5 - Pesquisar Conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Pesquisar Conteúdo |
+| Descrição      | O usuário pesquisa por um conteúdo/vídeo que foi postados no sistema |
+| Ator           | Usuário Espectador |
+| Pré-condições  | Abrir o aplicativo |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica na ferramenta de pesquisa<br/>- Usuário digita título de conteúdo/vídeo que deseja consumir<br/>- Usuário clica em buscar |
+| Pós-condição   | O sistema disponibilzia ao usuário o conteúdo desejado/relacionado na pesquisa |
+
+#### Caso de Uso 6 - Criar Playlists
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Criar Playlists |
+| Descrição      | O usuário cria uma lista de conteúdos/vídeos que deseja consumir |
+| Ator           | Usuário |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a tela de biblioteca<br/>- Seleciona a opção de "nova playlist"<br/>- Adiciona vídeos à playlist<br/>- Informa o nome e privacidade da playlist<br/>- Clica em "criar playlist" |
+| Pós-condição   | O usuário terá uma playlist associada a sua conta criada |
+
+#### Caso de Uso 7 - Avaliar
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Avaliar |
+| Descrição      | O usuário avalia (positivamente ou negativamente) conteúdos/vídeos consumidos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica no joinha para avaliar positivamente ou no joinha invertido para avaliar negativamente <br/> |
+| Pós-condição   | O usuário terá avaliado um vídeo |
+
+#### Caso de Uso 8 - Comentar
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Comentar |
+| Descrição      | O usuário comenta conteúdos/vídeos consumidos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em comentários<br/>- Usuário clica em "Adicione um comentário..."</br>- Usuário digita um comentário e clica na seta à direita para postar comentário |
+| Pós-condição   | O usuário terá comentado um vídeo |
+
+#### Caso de Uso 9 - Compartilhar
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Compartilhar |
+| Descrição      | O usuário compartilha conteúdos/vídeos consumidos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar com um vídeo aberto |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em compartilhar<br/>- Usuário seleciona a forma que deseja compartilhar o vídeo</br>- Usuário possuirá o link do vídeo ou terá compartilhado o vídeo em alguma rede social |
+| Pós-condição   | O usuário terá compartilhado um vídeo |
+
+#### Caso de Uso 10 - Alterar velocidade e Qualidade do vídeo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Alterar velocidade e Qualidade do vídeo |
+| Descrição      | O usuário poderá alterar a velocidade do vídeo, deixando-o mais lento ou mais rápido, e também poderá alterar a qualidade do vídeo deixando-o com menor ou maior resolução |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar com um vídeo aberto |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Velocidade de reprodução" ou "Qualidade"</br>- Usuário seleciona a velocidade de reprodução ou qualidade desejada |
+| Pós-condição   | O vídeo aberto estará na Velocidade de reprodução ou qualidade desejada |
+
+#### Caso de Uso 11 - Ver legendas
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Ver legendas |
+| Descrição      | O usuário poderá consumir o conteúdo/vídeo com legendas |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar com um vídeo aberto |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Legendas"</br>- Usuário seleciona o idioma de legenda desejado |
+| Pós-condição   | O vídeo aberto estará legendado no idioma escolhido |
+
 ## 5. Referências
 
 > - Andrey Pimentel, Projeto de Software Usando a UML. Julho de 2007.
@@ -210,3 +331,4 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução e composição de um diagrama de caso de uso. | @victorleaoo | @owhenrique |
 | 1.1    | 19/07/2002 | Adição do diagrama e das descrições dos casos de uso para um usuário criador de conteúdo. | @victorleaoo, @owhenrique | @B3Holder2 |
+| 1.2    | 19/07/2002 | Adição do diagrama e das descrições dos casos de uso para um usuário espectador. | @owhenrique, @victorleaoo | @Alef012 |
