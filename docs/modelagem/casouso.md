@@ -219,8 +219,8 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Descrição      | O espectador cria um canal, onde poderá postar e armazenar seus vídeos/conteúdos |
 | Ator           | Usuário Espectador |
 | Pré-condições  | Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal|
-| Pós-condição   | O usuário tem um canal criado|
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal |
+| Pós-condição   | O usuário tem um canal criado |
 
 #### Caso de Uso 2 - Inscrever em Canal
 | Informação     | Descrição |
@@ -230,7 +230,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Ator           | Usuário Espectador |
 | Pré-condições  | Estar logado/autenticado |
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica no ícone/nome do canal que deseja se inscrever <br/>- Clica em "inscrever-se"<br/>|
-| Pós-condição   | O usuário está inscrito no canal|
+| Pós-condição   | O usuário está inscrito no canal |
 
 #### Caso de Uso 3 - Autenticar Usuário
 | Informação     | Descrição |
@@ -239,18 +239,28 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Descrição      | O usuário autentica suas credenciais de login para poder ter acesso a mais ferramentas |
 | Ator           | Usuário |
 | Pré-condições  | Ter uma conta Google |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google|
-| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas|
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google |
+| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas |
 
 #### Caso de Uso 4 - Consumir Conteúdo
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Consumir Conteúdo |
 | Descrição      | O usuário consome/assiste os conteúdos/vídeos que estão postados no sistema |
-| Ator           | Espectador |
+| Ator           | Usuário Espectador |
 | Pré-condições  | Abrir o aplicativo |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em um card de vídeo<br/>- Usuário consome o vídeo|
-| Pós-condição   | O usuário consimiu/assistiu um conteúdo|
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em um card de vídeo<br/>- Usuário consome o vídeo |
+| Pós-condição   | O usuário consimiu/assistiu um conteúdo |
+
+#### Caso de Uso 4 - Pesquisar Conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Pesquisar Conteúdo |
+| Descrição      | O usuário pesquisa por um conteúdo/vídeo que foi postados no sistema |
+| Ator           | Usuário Espectador |
+| Pré-condições  | Abrir o aplicativo |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica na ferramenta de pesquisa<br/>- Usuário digita título de conteúdo/vídeo que deseja consumir<br/>- Usuário clica em buscar |
+| Pós-condição   | O sistema disponibilzia ao usuário o conteúdo desejado/relacionado na pesquisa |
 
 ## 5. Referências
 
