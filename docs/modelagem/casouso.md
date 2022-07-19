@@ -282,6 +282,16 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica no joinha para avaliar positivamente ou no joinha invertido para avaliar negativamente <br/> |
 | Pós-condição   | O usuário terá avaliado um vídeo |
 
+#### Caso de Uso 8 - Comentar
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Comentar |
+| Descrição      | O usuário comenta conteúdos/vídeos consumidos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em comentários<br/>- Usuário clica em "Adicione um comentário..."</br>- Usuário digita um comentário e clica na seta à direita para postar comentário |
+| Pós-condição   | O usuário terá comentado um vídeo |
+
 ## 5. Referências
 
 > - Andrey Pimentel, Projeto de Software Usando a UML. Julho de 2007.
