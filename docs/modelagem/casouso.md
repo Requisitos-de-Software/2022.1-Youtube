@@ -292,6 +292,36 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em comentários<br/>- Usuário clica em "Adicione um comentário..."</br>- Usuário digita um comentário e clica na seta à direita para postar comentário |
 | Pós-condição   | O usuário terá comentado um vídeo |
 
+#### Caso de Uso 9 - Compartilhar
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Compartilhar |
+| Descrição      | O usuário compartilha conteúdos/vídeos consumidos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar com um vídeo aberto |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em compartilhar<br/>- Usuário seleciona a forma que deseja compartilhar o vídeo</br>- Usuário possuirá o link do vídeo ou terá compartilhado o vídeo em alguma rede social |
+| Pós-condição   | O usuário terá compartilhado um vídeo |
+
+#### Caso de Uso 9 - Alterar velocidade e Qualidade do vídeo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Alterar velocidade e Qualidade do vídeo |
+| Descrição      | O usuário poderá alterar a velocidade do vídeo, deixando-o mais lento ou mais rápido, e também poderá alterar a qualidade do vídeo deixando-o com menor ou maior resolução |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar com um vídeo aberto |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Velocidade de reprodução" ou "Qualidade"</br>- Usuário seleciona a velocidade de reprodução ou qualidade desejada |
+| Pós-condição   | O vídeo aberto estará na Velocidade de reprodução ou qualidade desejada |
+
+#### Caso de Uso 9 - Ver legendas
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Ver legendas |
+| Descrição      | O usuário poderá consumir o conteúdo/vídeo com legendas |
+| Ator           | Usuário Espectador |
+| Pré-condições  | - Estar com um vídeo aberto |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Legendas"</br>- Usuário seleciona o idioma de legenda desejado |
+| Pós-condição   | O vídeo aberto estará legendado no idioma escolhido |
+
 ## 5. Referências
 
 > - Andrey Pimentel, Projeto de Software Usando a UML. Julho de 2007.
@@ -301,3 +331,4 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução e composição de um diagrama de caso de uso. | @victorleaoo | @owhenrique |
 | 1.1    | 19/07/2002 | Adição do diagrama e das descrições dos casos de uso para um usuário criador de conteúdo. | @victorleaoo, @owhenrique | @B3Holder2 |
+| 1.2    | 19/07/2002 | Adição do diagrama e das descrições dos casos de uso para um usuário espectador. | @owhenrique, @victorleaoo | @Alef012 |
