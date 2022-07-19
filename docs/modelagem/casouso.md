@@ -97,7 +97,7 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-criador.png"/>
 
-<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo.</figcaption>
+<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo. Autor: Paulo Henrique Almeida.</figcaption>
 
 </center>
 
@@ -202,7 +202,10 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 | Pós-condição   | O usuário um Shorts postado no seu canal |
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 ### 4.2 Diagrama 2 - Casos de Uso para o espectador
 A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário regular do sistema)
 
@@ -304,7 +307,11 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em compartilhar<br/>- Usuário seleciona a forma que deseja compartilhar o vídeo</br>- Usuário possuirá o link do vídeo ou terá compartilhado o vídeo em alguma rede social |
 | Pós-condição   | O usuário terá compartilhado um vídeo |
 
+<<<<<<< HEAD
 #### Caso de Uso 9 - Alterar velocidade e Qualidade do vídeo
+=======
+#### Caso de Uso 10 - Alterar velocidade e Qualidade do vídeo
+>>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Alterar velocidade e Qualidade do vídeo |
@@ -314,7 +321,11 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Velocidade de reprodução" ou "Qualidade"</br>- Usuário seleciona a velocidade de reprodução ou qualidade desejada |
 | Pós-condição   | O vídeo aberto estará na Velocidade de reprodução ou qualidade desejada |
 
+<<<<<<< HEAD
 #### Caso de Uso 9 - Ver legendas
+=======
+#### Caso de Uso 11 - Ver legendas
+>>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Ver legendas |
@@ -324,7 +335,10 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Legendas"</br>- Usuário seleciona o idioma de legenda desejado |
 | Pós-condição   | O vídeo aberto estará legendado no idioma escolhido |
 
+<<<<<<< HEAD
 >>>>>>> parent of 1ebb589... Corrigir numeracao casos de uso diagrama 2
+=======
+>>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 ## 5. Referências
 
 > - Andrey Pimentel, Projeto de Software Usando a UML. Julho de 2007.
@@ -334,3 +348,4 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução e composição de um diagrama de caso de uso. | @victorleaoo | @owhenrique |
 | 1.1    | 19/07/2002 | Adição do diagrama e das descrições dos casos de uso para um usuário criador de conteúdo. | @victorleaoo, @owhenrique | @B3Holder2 |
+| 1.2    | 19/07/2002 | Adição do diagrama e das descrições dos casos de uso para um usuário espectador. | @owhenrique, @victorleaoo | @Alef012 |
