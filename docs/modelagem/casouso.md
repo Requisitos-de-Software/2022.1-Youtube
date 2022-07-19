@@ -91,8 +91,15 @@ A partir da listagem dos diagramas de caso de uso identificados, o grupo modelou
 ## 4. Diagramas de Caso de Uso
 
 ### 4.1 Diagrama 1 - Casos de Uso para o Criador de Conteúdo
+A figura 1 apresenta o diagrama de casos de uso para um usuário criador de conteúdo
 
-Diagrama 1 - 
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-criador.png"/>
+
+<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo.</figcaption>
+
+</center>
 
 #### Caso de Uso 1 - Criar Canal
 | Informação     | Descrição |
@@ -121,8 +128,78 @@ Diagrama 1 -
 | Descrição      | A funcionalidade de postar conteúdo, como, por exemplo, um vídeo |
 | Ator           | Usuário Criador de Conteúdo |
 | Pré-condições  | - Estar logado/autenticado<br/>- Ter um vídeo armazenado no computador para postar |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google|
-| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas|
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona o envio de vídeo<br/>- Coloca as informações do conteúdo (título, descrição e visibilidade)<br/>- Clica em "postar" |
+| Pós-condição   | O usuário terá um conteúdo postado em seu canal |
+
+#### Caso de Uso 4 - Criar Playlists
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Criar Playlists |
+| Descrição      | O usuário executa a ação de criar uma playlist |
+| Ator           | Usuário |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a tela de biblioteca<br/>- Seleciona a opção de "nova playlist"<br/>- Adiciona vídeos à playlist<br/>- Informa o nome e privacidade da playlist<br/>- Clica em "criar playlist" |
+| Pós-condição   | O usuário terá uma playlist associada a sua conta criada |
+
+#### Caso de Uso 5 - Excluir Conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Excluir Conteúdo |
+| Descrição      | O usuário exclui um conteúdo postado |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a aba de gerenciamento de vídeos<br/>- Abre o menu de um vídeo representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de excluir<br/>- Confirma a remoção do vídeo |
+| Pós-condição   | O usuário terá seu conteúdo antes postado, agora deletado |
+
+#### Caso de Uso 6 - Ver estatísticas do conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Ver estatísticas do conteúdo |
+| Descrição      | O usuário tem a funcionalidade de ver as estatísticas e dados de um conteúdo postsado |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a tela de seu canal<br/>- Usuário abre a aba de estatísticas |
+| Pós-condição   | O usuário terá acesso às estatísticas de seus conteúdos postados |
+
+#### Caso de Uso 7 - Editar informações do conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Editar informações do conteúdo |
+| Descrição      | O usuário executa a funcionalidade de alterar informações de um conteúdo já postado |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a aba de gerenciamento de vídeos<br/>- Abre o menu de um vídeo representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Faz as edições desejadas no conteúdo<br/>- Clica em "salvar" |
+| Pós-condição   | O usuário terá as informações de um conteúdo já postado alteradas |
+
+#### Caso de Uso 8 - Adicionar Thumbnail
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Adicionar Thumbnail |
+| Descrição      | Um conteúdo pode ter uma thumbnail (imagem de apresentação do vídeo) adicionada a ele |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a aba de gerenciamento de vídeos<br/>- Abre o menu de um vídeo representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Clica no ícone de adicionar imagem ao vídeo<br/>- Clica em "salvar" |
+| Pós-condição   | O usuário terá uma imagem inicial (thumbnail) relacionada a ele |
+
+#### Caso de Uso 9 - Fazer transmissão ao vivo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Fazer transmissão ao vivo |
+| Descrição      | O usuário pode fazer uma transmissão ao vivo na plataforma |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona a opção de "transmissão ao vivo"<br/>- Coloca as informações da transmissão<br/>- Clica em "iniciar transmissão" |
+| Pós-condição   | O usuário estará realizando uma transmissão ao vivo no seu canal|
+
+#### Caso de Uso 10 - Postar Shorts
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Postar Shorts |
+| Descrição      | O usuário pode postar um tipo de vídeo de até 60 segundos e de forma vertical |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | - Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona a opção de "criar um short"<br/>- Seleciona um clipe<br/>- Clica em "concluído"<br/>- Adiciona as informações do shorts<br/>- Clica em "postar" |
+| Pós-condição   | O usuário um Shorts postado no seu canal |
 
 ## 5. Referências
 
@@ -132,3 +209,4 @@ Diagrama 1 -
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução e composição de um diagrama de caso de uso. | @victorleaoo | @owhenrique |
+| 1.1    | 19/07/2002 | Adição do diagrama e das descrições dos casos de uso para um usuário criador de conteúdo. | @victorleaoo, @owhenrique | @B3Holder2 |
