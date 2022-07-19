@@ -226,11 +226,31 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Inscrever em Canal |
-| Descrição      | O espectador se inscreve em um canal, por onde poderá acompanhar/consumir os conteúdo que estão sendo postados. |
+| Descrição      | O espectador se inscreve em um canal, por onde poderá acompanhar/consumir os conteúdo que estão sendo postados |
 | Ator           | Usuário Espectador |
 | Pré-condições  | Estar logado/autenticado |
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica no ícone/nome do canal que deseja se inscrever <br/>- Clica em "inscrever-se"<br/>|
 | Pós-condição   | O usuário está inscrito no canal|
+
+#### Caso de Uso 3 - Autenticar Usuário
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Autenticar Usuário |
+| Descrição      | O usuário autentica suas credenciais de login para poder ter acesso a mais ferramentas |
+| Ator           | Usuário |
+| Pré-condições  | Ter uma conta Google |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google|
+| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas|
+
+#### Caso de Uso 4 - Consumir Conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Consumir Conteúdo |
+| Descrição      | O usuário consome/assiste os conteúdos/vídeos que estão postados no sistema |
+| Ator           | Espectador |
+| Pré-condições  | Abrir o aplicativo |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em um card de vídeo<br/>- Usuário consome o vídeo|
+| Pós-condição   | O usuário consimiu/assistiu um conteúdo|
 
 ## 5. Referências
 
