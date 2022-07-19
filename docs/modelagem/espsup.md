@@ -65,7 +65,6 @@ Com a evolução do FURPS, foram encontradas algumas outras categorias para requ
 - **Design**: restringem o design de um sistema. Exemplos: padrões de design, processo de desenvolvimento de software, uso de ferramentas de desenvolvimento etc.
 - **Implementação**: restringem a construção/código do software. Exemplos: linguagens de programação, políticas de integridade do banco de dados, ambientes operacionais etc.
 
-
 ## 3. Especificação Suplementar
 Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema foi desenvolvida.
 

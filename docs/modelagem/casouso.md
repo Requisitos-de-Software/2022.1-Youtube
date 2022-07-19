@@ -90,17 +90,39 @@ A partir da listagem dos diagramas de caso de uso identificados, o grupo modelou
 
 ## 4. Diagramas de Caso de Uso
 
-### 4.1 Diagrama 1 - Nome
+### 4.1 Diagrama 1 - Casos de Uso para o Criador de Conteúdo
 
 Diagrama 1 - 
 
-| Informação     |           |
+#### Caso de Uso 1 - Criar Canal
+| Informação     | Descrição |
 | :--------:     | :-------  |
-| Descrição      |           |
-| Ator           |           |
-| Pré-condições  |           |
-| Fluxo Principal|           |
-| Pós-condição   |           |
+| Nome           | Criar Canal |
+| Descrição      | O criador de conteúdo cria um canal, onde postará e armazenará seus vídeos/conteúdos |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal|
+| Pós-condição   | O usuário tem um canal criado|
+
+#### Caso de Uso 2 - Autenticar Usuário
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Autenticar Usuário |
+| Descrição      | O usuário autentica suas credenciais de login para poder ter acesso a mais ferramentas |
+| Ator           | Usuário |
+| Pré-condições  | Ter uma conta Google |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google|
+| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas|
+
+#### Caso de Uso 3 - Postar Conteúdo
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Postar Conteúdo |
+| Descrição      | A funcionalidade de postar conteúdo, como, por exemplo, um vídeo |
+| Ator           | Usuário Criador de Conteúdo |
+| Pré-condições  | - Estar logado/autenticado<br/>- Ter um vídeo armazenado no computador para postar |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google|
+| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas|
 
 ## 5. Referências
 
