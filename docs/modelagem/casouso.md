@@ -222,6 +222,16 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal|
 | Pós-condição   | O usuário tem um canal criado|
 
+#### Caso de Uso 2 - Inscrever em Canal
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Inscrever em Canal |
+| Descrição      | O espectador se inscreve em um canal, por onde poderá acompanhar/consumir os conteúdo que estão sendo postados. |
+| Ator           | Usuário Espectador |
+| Pré-condições  | Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica no ícone/nome do canal que deseja se inscrever <br/>- Clica em "inscrever-se"<br/>|
+| Pós-condição   | O usuário está inscrito no canal|
+
 ## 5. Referências
 
 > - Andrey Pimentel, Projeto de Software Usando a UML. Julho de 2007.
