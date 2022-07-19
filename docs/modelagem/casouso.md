@@ -97,7 +97,7 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-criador.png"/>
 
-<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo.</figcaption>
+<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo. Autor: Paulo Henrique Almeida.</figcaption>
 
 </center>
 
@@ -200,6 +200,27 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 | Pré-condições  | - Estar logado/autenticado |
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona a opção de "criar um short"<br/>- Seleciona um clipe<br/>- Clica em "concluído"<br/>- Adiciona as informações do shorts<br/>- Clica em "postar" |
 | Pós-condição   | O usuário um Shorts postado no seu canal |
+
+### 4.2 Diagrama 2 - Casos de Uso para o espectador
+A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário regular do sistema)
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-espectador.png"/>
+
+<figcaption>Figura 2: Diagrama de Casos de Uso - Espectador. Autor: Paulo Henrique Almeida.</figcaption>
+
+</center>
+
+#### Caso de Uso 1 - Criar Canal
+| Informação     | Descrição |
+| :--------:     | :-------  |
+| Nome           | Criar Canal |
+| Descrição      | O espectador cria um canal, onde poderá postar e armazenar seus vídeos/conteúdos |
+| Ator           | Usuário Espectador |
+| Pré-condições  | Estar logado/autenticado |
+| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal|
+| Pós-condição   | O usuário tem um canal criado|
 
 ## 5. Referências
 
