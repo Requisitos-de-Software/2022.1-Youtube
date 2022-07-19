@@ -35,7 +35,7 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Canal |
-| Sinônimos| Perfil, Armazém de Vídeos|
+| Sinônimos| Perfil, Armazém de Vídeos |
 | Impacto  | Um canal pode ser criado, pesquisado, compartilhado e, principalmente, é onde os conteúdos serão armazenados/postados<br/>Os outros usuários podem ser inscreverem em um canal |
 | Noção    | É um tipo de conta visualmente editável em que se pode armazenar conteúdos para que outros usuários possam encontrá-los e consumí-los |
 
@@ -43,57 +43,57 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Usuário |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Cliente, Users |
+| Impacto  | Um usuário pode assistir aos conteúdos, se increver nos canais e também pode criar um canal e prostar vídeos |
+| Noção    | Usuário é qualquer um que utiliza o aplicativo e pode ser um espectador ou criador de conteúdos |
 
 ### 3.1 - Espectador
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Espectador |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Audiência |
+| Impacto  | Um espectador pode se inscrever nos canais e assistir aos conteúdos |
+| Noção    | É um tipo de usuário que utiliza o aplicativo para assistir conteúdos |
 
 ### 3.1 - Criador de Conteúdo
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Criador de Conteúdo |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Youtuber, Produtor de conteúdo |
+| Impacto  | O criador de conteúdo irá criar o canal e poderá postar vídeos e shorts e também fazer lives  |
+| Noção    | É um tipo de usuário que utiliza o aplicativo para postar vídeos e demais conteúdos |
 
 ### 3.1 - Dispositivo
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Dispositivo |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Aparelho |
+| Impacto  | O dispositivo irá realizar todas as funcionalidades do aplicativo |
+| Noção    | É o aparelho que irá acessar o youtube, e onde o usuário poderá assistir, postar, comentar e avaliar vídeos |
 
 ### 3.1 - Playlist
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Playlist |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Lista de reprodução |
+| Impacto  | A playlist pode ser compartilhada, criada, e reproduzida na ordem definida ou em ordem aleatória |
+| Noção    | Um conjunto de vídeos que pode ser tocado em uma ordem determinada ou em ordem aleatória |
 
 ### 3.1 - Legenda
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Legenda |
 | Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Impacto  | Uma legenda pode ser ativada ou desativada e também pode ser escolhida o idioma da legenda|
+| Noção    | Texto escrito do áudio do vídeo |
 
 ### 3.1 - Comentário
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Comentário |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Opinião |
+| Impacto  | Um comentário pode ser curtido por outros usuários ou fixado pelo dono do canal que fez o vídeo |
+| Noção    | Uma opinião, análise ou ponderação sobre o vídeo  |
 
 ### 3.1 - Fila de Reprodução
 | Elemento | Descrição |
@@ -131,25 +131,25 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Notificação |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Notícia, Aviso |
+| Impacto  | Uma notificação pode ser ativada ou desativada por um usuário em determinado canal |
+| Noção    | É um aviso ao usuário que um canal que ele é inscrito postou um conteúdo novo  |
 
 ### 3.1 - Velocidade de Reprodução
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Velocidade de Reprodução |
 | Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Impacto  | A velocidade de reprodução pode ser ajustada de acordo com a vontade do usuário, podendo acelerar ou retardar o vídeo |
+| Noção    | É uma forma do usuário aumentar o diminuir o tempo do vídeo ajustando a velocidade em que ele é reproduzido |
 
 ### 3.1 - Qualidade
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Qualidade |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Resolução |
+| Impacto  | A qualidade de um vídeo poderá ser ajustada de acordo com a vontade do usuário, podendo ter um vídeo com maior ou menor resolução |
+| Noção    | A qualidade do vídeo é a resolução que ele será reproduzido no dispositivo do usuário |
 
 ### 3.1 - Clipe
 | Elemento | Descrição |
@@ -171,17 +171,17 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Banner |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Capa |
+| Impacto  | Um banner pode ser alterado para seguir a identidade visual do canal do usuário |
+| Noção    | É a capa do canal, onde geralmente fica as informações do canal |
 
 ### 3.1 - SuperChat
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | SuperChat |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Doação, Chat pago |
+| Impacto  | Um superchat pode ser mandado em lives e pode ser pago o valor que o usuário desejar |
+| Noção    | É um tipo de comentário especial em lives em que o usuário pode pagar para ter sua mensagem destacada |
 
 ### 3.1 - Histórico
 | Elemento | Descrição |
