@@ -89,7 +89,7 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 | **P**erformance     |  O aplicativo deve funcionar durante 168h semanais, sem a expectativa de instabilidade. </br>|
 | **S**uportabilidade |  O aplicativo deve ser disponível para os principais sistemas operacionais de dispositivos Mobile, como iOS e Android </br>| 
 | **S**uportabilidade |  Quando um teste oui manutenção for ocorrer no aplicativo, o usuário deve ser previamente avisado.</br>| 
-| **+**               | - |
+| **+**               |  O sistema deve disponibilizar a opção de alterar o idioma das notificações e o do sistema </br>|
 
 ## 4. Contato com o YouTube
 O grupo enviou uma mensagem para a comunidade do YouTube a fim de buscar por informações oficiais acerca da Especificação Suplementar, mais especificamente requisitos do modelo FURPS+. Segue na figura 1 um print da mensagem enviada.
