@@ -290,7 +290,7 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Contexto | - Local: página de gerenciamento de vídeos<br/>- Pré-Condição: estar com acesso a internet |
 | Ator(es) | Usuário |
 | Recursos | - Dispositivo celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
-| Episódios| 1. O usuário acessa a página do seu canal<br/>2. O usuário entra na página de gerenciamento de vídeos<br/>3. O usuário escolhe o vídeo que quer editar e clica nos 3 pontinhos ao lado do nome atual do vídeo<br/>4. O usuário escolhe a opção de "Editar"<br/>5. O usuário faz as alterações desejadas e salva as novas alterações |
+| Episódios| 1. O usuário acessa a página do seu canal<br/>2. O usuário entra na página de gerenciamento de vídeos<br/>3. O usuário seleciona o vídeo que quer editar e clica nos 3 pontinhos ao lado do nome do vídeo selecionado<br/>4. O usuário clica na opção "Editar"<br/>5. O usuário faz as alterações desejadas e clica na opção salvar |
 | Exceções | 1. O dispositivo desconectar da internet<br/>2. Acabar a bateria do dispositivo |
 
 ## 4. Referências
