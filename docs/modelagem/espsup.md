@@ -74,7 +74,14 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 | **F**uncionalidade  | 274,2 Mb de memória disponível no celular.</br> |
 | **F**uncionalidade  | Caso o acesso seja feito fora do App, é necessário utilizar algum navegador como Google Chrome, Firefox, MS Edge, Safari ou Opera </br> |
 | **F**uncionalidade  | O sistema deve ter um site para explicar suas Políticas e Segurança: Política, segurança e direitos autorais - Ajuda do YouTube (google.com) </br> |
-| **U**sabilidade     | - |
+| **U**sabilidade     | Idade mínima de 13 anos para usar o aplicativo.</br> |
+| **U**sabilidade     | Operar segundo as leis de Delaware, onde se encontra a sede da empresa. </br> |
+| **U**sabilidade     | O sistema deve ter um site direcionado para ajudas, em que diversas possíveis falhas e suas resoluções são explicadas. </br>|
+| **U**sabilidade     | O aplicativo deve ter um site com informações dos seus Termos de Uso: Termos de Serviço (youtube.com). </br> |
+| **U**sabilidade     | O usuário executa ações essenciais em, no máximo, 5 cliques. </br> |
+| **U**sabilidade     | Quando possível, ícones devem ser usados juntamente com textos para trazer uma melhor visibilidade da funcionalidade para o usuário. </br> |
+| **U**sabilidade     | A tela inicial e de busca devem apresentar um padrão direcionado à exibição de vídeos recomendados/encontrados. </br>  |
+
 | **C**onfiabilidade  | - |
 | **P**erformance     | - |
 | **S**uportabilidade | - | 
