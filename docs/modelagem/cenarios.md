@@ -260,6 +260,17 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O usuário clica no "+" circulado na pagina principal<br/>2. O usuário seleciona a opção "Enivar um vídeo"<br/>3. O usuário seleciona o vídeo da galeria que quer postar<br/>4. O usuário editar as informações do vídeo, titulo, tags, visibilidade, etc<br/>5. O usuário seleciona se o conteudo é ou não relacionado à crianças<br/>6. O usuário clica em "Enviar um vídeo" |
 | Exceções | 1. O dispositivo desconectar da internet<br/>2. Acabar a bateria do dispositivo |
 
+### 3.23 Cenário 23 - Acessar o seu canal
+| Elemento | Descrição |
+| :------: | :-------- |
+| Título   | Acessar o seu canal |
+| Objetivo | Acessar o seu canal do Youtube |
+| Contexto | - Local: página inicial do youtube<br/>- Pré-Condição: estar com acesso a internet |
+| Ator(es) | Usuário |
+| Recursos | - Dispositivo celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
+| Episódios| 1. O usuário clica na sua foto de perfil na página inicial<br/>2. O usuário seleciona a opção "Seu canal" |
+| Exceções | 1. O dispositivo desconectar da internet<br/>2. Acabar a bateria do dispositivo |
+
 ## 4. Referências
 
 > - Cenários - Rastreamento de Cenários.
