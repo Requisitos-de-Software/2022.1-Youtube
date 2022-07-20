@@ -246,7 +246,18 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Contexto | - Local: página de um vídeo ou página inicial<br/>- Pré-Condição: estar com a página de um vídeo aberta |
 | Ator(es) | Usuário |
 | Recursos | - Dispositivo celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
-| Episódios| 1. O usuário clica em um vídeo<br/>2. O usuário clica na foto ou nome do canal<br/>1. O usuário clica na foto de um canal de um vídeo na página inicial |
+| Episódios| 1. O usuário clica em um vídeo<br/>2. O usuário clica na foto ou nome do canal<br/>3. O usuário clica na foto de um canal de um vídeo na página inicial |
+| Exceções | 1. O dispositivo desconectar da internet<br/>2. Acabar a bateria do dispositivo |
+
+### 3.22 Cenário 22 - Postar vídeo
+| Elemento | Descrição |
+| :------: | :-------- |
+| Título   | Postar vídeo |
+| Objetivo | Mandar um vídeo disponivel na galeria do celular ao Youtube |
+| Contexto | - Local: página inicial do youtube<br/>- Pré-Condição: estar com acesso a internet e com o video salvo na galeria do celular |
+| Ator(es) | Usuário |
+| Recursos | - Dispositivo celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
+| Episódios| 1. O usuário clica no "+" circulado na pagina principal<br/>2. O usuário seleciona a opção "Enivar um vídeo"<br/>3. O usuário seleciona o vídeo da galeria que quer postar<br/>4. O usuário editar as informações do vídeo, titulo, tags, visibilidade, etc<br/>5. O usuário seleciona se o conteudo é ou não relacionado à crianças<br/>6. O usuário clica em "Enviar um vídeo" |
 | Exceções | 1. O dispositivo desconectar da internet<br/>2. Acabar a bateria do dispositivo |
 
 ## 4. Referências
