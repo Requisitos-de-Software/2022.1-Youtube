@@ -15,158 +15,6 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 
 ## 3. Léxicos - Objeto
 
-### 3.1 - Vídeo
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Vídeo     |
-| Sinônimos| Gravação |
-| Impacto  | Pode ser assistido, avaliado, comentado, denunciado, pausado, resumido, alterado, compartilhado e postado por usuários. |
-| Noção    | É um meio de entretenimento que pode tomar diferentes assuntos e formas de produção.<br/>É pertecente a um canal e feito por um criador de conteúdo. |
-
-### 3.1 - Conteúdo
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Conteúdo  |
-| Sinônimos| Entretenimento, Vídeo |
-| Impacto  | Todas as interações que são relacionadas a vídeos, shorts, transmissões, clipes, entre outros, se referem a um tipo de conteúdo |
-| Noção    | Conteúdo seria uma forma abrangente de todos os diferentes tipos de vídeos que podem ser postados ou feitos, englobando Shorts, vídeos e transmissões ao vivo<br/>Quando se fala em conteúdo, é qualquer meio de entretenimento que pode ser criado |
-
-### 3.1 - Canal
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Canal |
-| Sinônimos| Perfil, Armazém de Vídeos |
-| Impacto  | Um canal pode ser criado, pesquisado, compartilhado e, principalmente, é onde os conteúdos serão armazenados/postados<br/>Os outros usuários podem ser inscreverem em um canal |
-| Noção    | É um tipo de conta visualmente editável em que se pode armazenar conteúdos para que outros usuários possam encontrá-los e consumí-los |
-
-### 3.1 - Usuário
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Usuário |
-| Sinônimos| Cliente, Users |
-| Impacto  | Um usuário pode assistir aos conteúdos, se increver nos canais e também pode criar um canal e prostar vídeos |
-| Noção    | Usuário é qualquer um que utiliza o aplicativo e pode ser um espectador ou criador de conteúdos |
-
-### 3.1 - Espectador
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Espectador |
-| Sinônimos| Audiência |
-| Impacto  | Um espectador pode se inscrever nos canais e assistir aos conteúdos |
-| Noção    | É um tipo de usuário que utiliza o aplicativo para assistir conteúdos |
-
-### 3.1 - Criador de Conteúdo
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Criador de Conteúdo |
-| Sinônimos| Youtuber, Produtor de conteúdo |
-| Impacto  | O criador de conteúdo irá criar o canal e poderá postar vídeos e shorts e também fazer lives  |
-| Noção    | É um tipo de usuário que utiliza o aplicativo para postar vídeos e demais conteúdos |
-
-### 3.1 - Dispositivo
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Dispositivo |
-| Sinônimos| Aparelho |
-| Impacto  | O dispositivo irá realizar todas as funcionalidades do aplicativo |
-| Noção    | É o aparelho que irá acessar o youtube, e onde o usuário poderá assistir, postar, comentar e avaliar vídeos |
-
-### 3.1 - Playlist
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Playlist |
-| Sinônimos| Lista de reprodução |
-| Impacto  | A playlist pode ser compartilhada, criada, e reproduzida na ordem definida ou em ordem aleatória |
-| Noção    | Um conjunto de vídeos que pode ser tocado em uma ordem determinada ou em ordem aleatória |
-
-### 3.1 - Legenda
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Legenda |
-| Sinônimos| Descrição em tempo real |
-| Impacto  | Uma legenda pode ser ativada ou desativada e também pode ser escolhida o idioma da legenda|
-| Noção    | Texto escrito do áudio do vídeo |
-
-### 3.1 - Comentário
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Comentário |
-| Sinônimos| Opinião |
-| Impacto  | Um comentário pode ser curtido por outros usuários ou fixado pelo dono do canal que fez o vídeo |
-| Noção    | Uma opinião, análise ou ponderação sobre o vídeo  |
-
-### 3.1 - Fila de Reprodução
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Fila de Reprodução |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
-### 3.1 - Página
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Página |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
-### 3.1 - Interface
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Interface |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
-### 3.1 - Plataforma
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Plataforma |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
-### 3.1 - Notificação
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Notificação |
-| Sinônimos| Notícia, Aviso |
-| Impacto  | Uma notificação pode ser ativada ou desativada por um usuário em determinado canal |
-| Noção    | É um aviso ao usuário que um canal que ele é inscrito postou um conteúdo novo  |
-
-### 3.1 - Velocidade de Reprodução
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Velocidade de Reprodução |
-| Sinônimos|           |
-| Impacto  | A velocidade de reprodução pode ser ajustada de acordo com a vontade do usuário, podendo acelerar ou retardar o vídeo |
-| Noção    | É uma forma do usuário aumentar o diminuir o tempo do vídeo ajustando a velocidade em que ele é reproduzido |
-
-### 3.1 - Qualidade
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Qualidade |
-| Sinônimos| Resolução |
-| Impacto  | A qualidade de um vídeo poderá ser ajustada de acordo com a vontade do usuário, podendo ter um vídeo com maior ou menor resolução |
-| Noção    | A qualidade do vídeo é a resolução que ele será reproduzido no dispositivo do usuário |
-
-### 3.1 - Clipe
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Clipe |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
-### 3.1 - Shorts
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Shorts |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
 ### 3.1 - Banner
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -175,7 +23,143 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | Um banner pode ser alterado para seguir a identidade visual do canal do usuário |
 | Noção    | É a capa do canal, onde geralmente fica as informações do canal |
 
-### 3.1 - SuperChat
+### 3.2 - Canal
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Canal |
+| Sinônimos| Perfil, Armazém de Vídeos |
+| Impacto  | Um canal pode ser criado, pesquisado, compartilhado e, principalmente, é onde os conteúdos serão armazenados/postados<br/>Os outros usuários podem ser inscreverem em um canal |
+| Noção    | É um tipo de conta visualmente editável em que se pode armazenar conteúdos para que outros usuários possam encontrá-los e consumí-los |
+
+### 3.3 - Clipe
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Clipe |
+| Sinônimos| Corte de Vídeo |
+| Impacto  | Um clipe pode ser compartilhado para outras redes sociais |
+| Noção    | Um clipe é um corte de até 60 segundos de uma parte de um vídeo |
+
+### 3.4 - Comentário
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Comentário |
+| Sinônimos| Opinião |
+| Impacto  | Um comentário pode ser curtido por outros usuários ou fixado pelo dono do canal que fez o vídeo |
+| Noção    | Uma opinião, análise ou ponderação sobre o vídeo  |
+
+### 3.5 - Conteúdo
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Conteúdo  |
+| Sinônimos| Entretenimento, Vídeo |
+| Impacto  | Todas as interações que são relacionadas a vídeos, shorts, transmissões, clipes, entre outros, se referem a um tipo de conteúdo |
+| Noção    | Conteúdo seria uma forma abrangente de todos os diferentes tipos de vídeos que podem ser postados ou feitos, englobando Shorts, vídeos e transmissões ao vivo<br/>Quando se fala em conteúdo, é qualquer meio de entretenimento que pode ser criado |
+
+### 3.6 - Criador de Conteúdo
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Criador de Conteúdo |
+| Sinônimos| Youtuber, Produtor de conteúdo |
+| Impacto  | O criador de conteúdo irá criar o canal e poderá postar vídeos e shorts e também fazer lives  |
+| Noção    | É um tipo de usuário que utiliza o aplicativo para postar vídeos e demais conteúdos |
+
+### 3.7 - Dispositivo
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Dispositivo |
+| Sinônimos| Aparelho |
+| Impacto  | O dispositivo irá realizar todas as funcionalidades do aplicativo |
+| Noção    | É o aparelho que irá acessar o youtube, e onde o usuário poderá assistir, postar, comentar e avaliar vídeos |
+
+### 3.8 - Espectador
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Espectador |
+| Sinônimos| Audiência |
+| Impacto  | Um espectador pode se inscrever nos canais e assistir aos conteúdos |
+| Noção    | É um tipo de usuário que utiliza o aplicativo para assistir conteúdos |
+
+### 3.9 - Fila de Reprodução
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Fila de Reprodução |
+| Sinônimos| Em espera |
+| Impacto  | Vídeos podem ser adicionados à fila de reprodução para serem executados em ordem |
+| Noção    | A fila de reprodução é um conjunto de vídeos que estão em uma ordem para serem reproduzidos |
+
+### 3.10 - Histórico
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Histórico |
+| Sinônimos| Acessados, Biblioteca de Acessos |
+| Impacto  | Um histórico pode ser de vídeos assistidos pelo usuário ou de pesquisas realizadas por ele<br/>O histórico pode ser apagado quando desejado |
+| Noção    | O histórico seria um tipo de armazenamento dos vídeos/pesquisas que um usuário já acessou |
+
+### 3.11 - Interface
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Interface, Página |
+| Sinônimos| Tela |
+| Impacto  | Uma interface pode interagir e ser interagida<br/>Cliques e botões são elementos que podem ser manipulados em uma interface |
+| Noção    | A interface são os elementos que aparecem na tela e como estão distribuídos<br/>Podem ser as páginas de vídeos, inicial, canais etc. |
+
+### 3.12 - Legenda
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Legenda |
+| Sinônimos| Descrição em tempo real |
+| Impacto  | Uma legenda pode ser ativada ou desativada e também pode ser escolhida o idioma da legenda|
+| Noção    | Texto escrito do áudio do vídeo |
+
+### 3.13 - Notificação
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Notificação |
+| Sinônimos| Notícia, Aviso |
+| Impacto  | Uma notificação pode ser ativada ou desativada por um usuário em determinado canal |
+| Noção    | É um aviso ao usuário que um canal que ele é inscrito postou um conteúdo novo  |
+
+### 3.14 - Plataforma
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Plataforma |
+| Sinônimos| Sistema, Aplicativo |
+| Impacto  | Quando é dito funcionalidades da "plataforma", se diz ao o que o aplicativo pode fazer |
+| Noção    | É uma forma de representar o aplicativo YouTube |
+
+### 3.15 - Playlist
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Playlist |
+| Sinônimos| Lista de reprodução |
+| Impacto  | A playlist pode ser compartilhada, criada, e reproduzida na ordem definida ou em ordem aleatória |
+| Noção    | Um conjunto de vídeos que pode ser tocado em uma ordem determinada ou em ordem aleatória |
+
+### 3.16 - Privacidade
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Privacidade |
+| Sinônimos| Segurança |
+| Impacto  | A privacidade pode ser pública (para todos), não-listado (restrito) ou privado (somente para o dono) |
+| Noção    | É a noção de como os dados estão representados a terceiros |
+
+### 3.17 - Qualidade
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Qualidade |
+| Sinônimos| Resolução |
+| Impacto  | A qualidade de um vídeo poderá ser ajustada de acordo com a vontade do usuário, podendo ter um vídeo com maior ou menor resolução |
+| Noção    | A qualidade do vídeo é a resolução que ele será reproduzido no dispositivo do usuário |
+
+### 3.18 - Shorts
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Shorts |
+| Sinônimos| Vídeos Curtos |
+| Impacto  | Os Shorts tem sua própria área no aplicativo e podem ser curtido, comentados e compartilhados<br/>Para ver Shorts, basta arrastá-los para baixo para passar para o próximo|
+| Noção    | Shorts são um tipo de conteúdo como se fosse um curto vídeo (no máximo 60 segundos) e no formato vertical |
+
+### 3.19 - SuperChat
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | SuperChat |
@@ -183,37 +167,45 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | Um superchat pode ser mandado em lives e pode ser pago o valor que o usuário desejar |
 | Noção    | É um tipo de comentário especial em lives em que o usuário pode pagar para ter sua mensagem destacada |
 
-### 3.1 - Histórico
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Histórico |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
-### 3.1 - Thumbnail
-| Elemento | Descrição |
-| :------: | :-------- |
-| Nome     | Thumbnail |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
-
-### 3.1 - Tag
+### 3.20 - Tag
 | Elemento | Descrição |
 | :------: | :-------- |
 | Nome     | Tag |
-| Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Sinônimos| Etiqueta, Palavra-Chave |
+| Impacto  | Tags podem ser adicionadas, editadas ou removidas quando desejadas pelo usuário |
+| Noção    | São palavras que podem ser adicionadas a um vídeo ou canal para identificar temas relacionados a eles |
 
-### 3.1 - Privacidade
+### 3.21 - Thumbnail
 | Elemento | Descrição |
 | :------: | :-------- |
-| Nome     | Privacidade |
+| Nome     | Thumbnail |
+| Sinônimos| Capa do vídeo |
+| Impacto  | Um vídeo pode ter uma thumbnail personalizada por um usuário ou pode ser uma captura do vídeo |
+| Noção    | É a imagem que um vídeo recebe como capa<br/>Quando o vídeo aparece para um usuário seja pela página inicial ou pesquisa, a thumbnail é a imagem de apresentação do vídeo|
+
+### 3.22 - Usuário
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Usuário |
+| Sinônimos| Cliente, Users |
+| Impacto  | Um usuário pode assistir aos conteúdos, se increver nos canais e também pode criar um canal e prostar vídeos |
+| Noção    | Usuário é qualquer um que utiliza o aplicativo e pode ser um espectador ou criador de conteúdos |
+
+### 3.23 - Velocidade de Reprodução
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Velocidade de Reprodução |
 | Sinônimos|           |
-| Impacto  |           |
-| Noção    |           |
+| Impacto  | A velocidade de reprodução pode ser ajustada de acordo com a vontade do usuário, podendo acelerar ou retardar o vídeo |
+| Noção    | É uma forma do usuário aumentar o diminuir o tempo do vídeo ajustando a velocidade em que ele é reproduzido |
+
+### 3.24 - Vídeo
+| Elemento | Descrição |
+| :------: | :-------- |
+| Nome     | Vídeo     |
+| Sinônimos| Gravação |
+| Impacto  | Pode ser assistido, avaliado, comentado, denunciado, pausado, resumido, alterado, compartilhado e postado por usuários. |
+| Noção    | É um meio de entretenimento que pode tomar diferentes assuntos e formas de produção.<br/>É pertecente a um canal e feito por um criador de conteúdo. |
 
 ## 4. Referências
 
@@ -224,3 +216,4 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - objetivo | @victorleaoo | @Alef012 |
 | 1.1    | 17/07/2002 | Adição sem ordenação de léxicos de objetos e um exemplo de como deve ser feito | @victorleaoo | @Alef012 |
+| 1.2    | 19/07/2002 | Finalização dos léxicos de objetos e ordenação alfabética | @victorleaoo, @Alef012 | @owhenrique |
