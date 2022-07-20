@@ -271,6 +271,17 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 | Episódios| 1. O usuário clica na sua foto de perfil na página inicial<br/>2. O usuário seleciona a opção "Seu canal" |
 | Exceções | 1. O dispositivo desconectar da internet<br/>2. Acabar a bateria do dispositivo |
 
+### 3.24 Cenário 24 - Gerenciar vídeos
+| Elemento | Descrição |
+| :------: | :-------- |
+| Título   | Gerenciar vídeos |
+| Objetivo | Ter acesso a todos os vídeos já postados |
+| Contexto | - Local: página principal do seu canal<br/>- Pré-Condição: estar com acesso a internet |
+| Ator(es) | Usuário |
+| Recursos | - Dispositivo celular com conexão à internet<br/>- Acesso ao aplicativo YouTube |
+| Episódios| 1. O usuário acessar o seu canal no Youtube<br/>2. Na página principal o usuário seleciona a opção "Gerenciar vídeos" |
+| Exceções | 1. O dispositivo desconectar da internet<br/>2. Acabar a bateria do dispositivo |
+
 ## 4. Referências
 
 > - Cenários - Rastreamento de Cenários.
