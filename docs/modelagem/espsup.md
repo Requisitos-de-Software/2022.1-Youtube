@@ -85,7 +85,8 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 | **C**onfiabilidade  | Em 99% dos casos, deve-se haver a possibilidade de recuperação. </br>|
 | **C**onfiabilidade  | As falhas devem ter prioridade máxima de recuperação quando encontradas, durando não mais que 24h para que sejam extinguidas. </br>|
 | **C**onfiabilidade  | O usuário deve ser avisado caso o sistema esteja passando por alguma falha. </br>|
-| **P**erformance     | - |
+| **P**erformance     |  Se espera que 90% do tempo quando se assiste youtube, os vídeos tenham uma qualidade padrão de pelo menos 360p. Relatório de qualidade de vídeo do Google - Ajuda do YouTube </br>|
+| **P**erformance     |  O aplicativo deve funcionar durante 168h semanais, sem a expectativa de instabilidade. </br>|
 | **S**uportabilidade | - | 
 | **+**               | - |
 
