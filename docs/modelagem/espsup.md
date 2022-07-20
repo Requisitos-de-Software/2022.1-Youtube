@@ -70,7 +70,10 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 
 | Categoria           | Requisitos |
 | :-----------------: | :--------- |
-| **F**uncionalidade  | - |
+| **F**uncionalidade  | Conexão de Internet com 500Kbps ou mais: Requisitos do sistema - Ajuda do YouTube (google.com)</br> |
+| **F**uncionalidade  | 274,2 Mb de memória disponível no celular.</br> |
+| **F**uncionalidade  | Caso o acesso seja feito fora do App, é necessário utilizar algum navegador como Google Chrome, Firefox, MS Edge, Safari ou Opera </br> |
+| **F**uncionalidade  | O sistema deve ter um site para explicar suas Políticas e Segurança: Política, segurança e direitos autorais - Ajuda do YouTube (google.com) </br> |
 | **U**sabilidade     | - |
 | **C**onfiabilidade  | - |
 | **P**erformance     | - |
