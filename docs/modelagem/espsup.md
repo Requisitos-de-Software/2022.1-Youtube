@@ -88,7 +88,7 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 | **P**erformance     |  Se espera que 90% do tempo quando se assiste youtube, os vídeos tenham uma qualidade padrão de pelo menos 360p. Relatório de qualidade de vídeo do Google - Ajuda do YouTube </br>|
 | **P**erformance     |  O aplicativo deve funcionar durante 168h semanais, sem a expectativa de instabilidade. </br>|
 | **S**uportabilidade |  O aplicativo deve ser disponível para os principais sistemas operacionais de dispositivos Mobile, como iOS e Android </br>| 
-| **S**uportabilidade |  Quando um teste oui manutenção for ocorrer no aplicativo, o usuário deve ser previamente avisado.</br>| 
+| **S**uportabilidade |  Quando um teste ou manutenção for ocorrer no aplicativo, o usuário deve ser previamente avisado.</br>| 
 | **+**               |  O sistema deve disponibilizar a opção de alterar o idioma das notificações e o do sistema </br>|
 
 ## 4. Contato com o YouTube
