@@ -28,4 +28,4 @@ A priori, podem ser definidos dois tipos de perfis de usuário para o aplicativo
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2002 | Criação da primeira versão do documento com as primeiras características dos perfis de usuário | @victorleaoo | @B3holder2 |
+| 1.0    | 06/07/2022 | Criação da primeira versão do documento com as primeiras características dos perfis de usuário | @victorleaoo | @B3holder2 |

@@ -222,5 +222,5 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - objetivo | @victorleaoo | @Alef012 |
-| 1.1    | 17/07/2002 | Adição sem ordenação de léxicos de objetos e um exemplo de como deve ser feito | @victorleaoo | @Alef012 |
+| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - objetivo | @victorleaoo | @Alef012 |
+| 1.1    | 17/07/2022 | Adição sem ordenação de léxicos de objetos e um exemplo de como deve ser feito | @victorleaoo @Alef012 | @Alef012 |
