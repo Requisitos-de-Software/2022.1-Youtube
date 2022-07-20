@@ -201,11 +201,6 @@ A figura 1 apresenta o diagrama de casos de uso para um usuário criador de cont
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona a opção de "criar um short"<br/>- Seleciona um clipe<br/>- Clica em "concluído"<br/>- Adiciona as informações do shorts<br/>- Clica em "postar" |
 | Pós-condição   | O usuário um Shorts postado no seu canal |
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 ### 4.2 Diagrama 2 - Casos de Uso para o espectador
 A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário regular do sistema)
 
@@ -307,11 +302,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em compartilhar<br/>- Usuário seleciona a forma que deseja compartilhar o vídeo</br>- Usuário possuirá o link do vídeo ou terá compartilhado o vídeo em alguma rede social |
 | Pós-condição   | O usuário terá compartilhado um vídeo |
 
-<<<<<<< HEAD
-#### Caso de Uso 9 - Alterar velocidade e Qualidade do vídeo
-=======
 #### Caso de Uso 10 - Alterar velocidade e Qualidade do vídeo
->>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Alterar velocidade e Qualidade do vídeo |
@@ -321,11 +312,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Velocidade de reprodução" ou "Qualidade"</br>- Usuário seleciona a velocidade de reprodução ou qualidade desejada |
 | Pós-condição   | O vídeo aberto estará na Velocidade de reprodução ou qualidade desejada |
 
-<<<<<<< HEAD
-#### Caso de Uso 9 - Ver legendas
-=======
 #### Caso de Uso 11 - Ver legendas
->>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Ver legendas |
@@ -335,10 +322,6 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Legendas"</br>- Usuário seleciona o idioma de legenda desejado |
 | Pós-condição   | O vídeo aberto estará legendado no idioma escolhido |
 
-<<<<<<< HEAD
->>>>>>> parent of 1ebb589... Corrigir numeracao casos de uso diagrama 2
-=======
->>>>>>> 86f2d11694899e802d73e1b512a7506ec4c75bbe
 ## 5. Referências
 
 > - Andrey Pimentel, Projeto de Software Usando a UML. Julho de 2007.
