@@ -30,6 +30,6 @@ A equipe selecionou as seguintes ferramentas para serem usadas como auxílio dur
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 25/06/2002 | Criação da primeira versão do documento com as primeiras ferramentas levantadas, sua logo e função pela equipe durante o projeto. | @victorleaoo | @lramon2001, @B3holder2 |
-| 1.1    | 27/06/2002 | Adição das referências. | @victorleaoo | @lramon2001, @B3holder2 |
-| 1.1.5  | 30/06/2002 | Correção das referências. | @owhenrique | @lramon2001, @B3holder2 |
+| 1.0    | 25/06/2022 | Criação da primeira versão do documento com as primeiras ferramentas levantadas, sua logo e função pela equipe durante o projeto. | @victorleaoo | @lramon2001, @B3holder2 |
+| 1.1    | 27/06/2022 | Adição das referências. | @victorleaoo | @lramon2001, @B3holder2 |
+| 1.1.5  | 30/06/2022 | Correção das referências. | @owhenrique | @lramon2001, @B3holder2 |

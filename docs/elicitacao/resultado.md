@@ -104,5 +104,5 @@ Esse documento reúne o resultado de todas as técnicas de elicitação de requi
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2002 | Criação do esqueleto do documento. | @victorleaoo | @owhenrique |
-| 1.1    | 06/07/2002 | Adição de todos os requisitos elicitados pela equipe com todas as técnicas explicitadas. | @victorleaoo | @owhenrique |
+| 1.0    | 06/07/2022 | Criação do esqueleto do documento. | @victorleaoo | @owhenrique |
+| 1.1    | 06/07/2022 | Adição de todos os requisitos elicitados pela equipe com todas as técnicas explicitadas. | @victorleaoo | @owhenrique |

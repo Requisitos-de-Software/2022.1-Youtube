@@ -256,5 +256,5 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 17/07/2002 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de cenários | @victorleaoo | @B3holder2 |
-| 1.1    | 17/07/2002 | Adição de cenários relacionados ao usuário (espectador) | @victorleaoo | @B3holder2 |
+| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de cenários | @victorleaoo | @B3holder2 |
+| 1.1    | 17/07/2022 | Adição de cenários relacionados ao usuário (espectador) | @victorleaoo | @B3holder2 |

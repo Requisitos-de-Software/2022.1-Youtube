@@ -47,7 +47,7 @@ Para a utilização dessa ferramenta, o grupo está usando o gerador de sites Mk
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 25/06/2002 | Criação da primeira versão do documento com as os aplicativos analisados, metodologia de atuação da equipe e documentação do projeto. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
-| 1.1    | 27/06/2002 | Adição das referências. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
-| 1.1.5    | 30/06/2002 | Correção das referências. | @owhenrique | @victorleaoo, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
-| 1.1    | 01/07/2002 | Lista dos motivos da escolha do App (Youtube). | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.0    | 25/06/2022 | Criação da primeira versão do documento com as os aplicativos analisados, metodologia de atuação da equipe e documentação do projeto. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.1    | 27/06/2022 | Adição das referências. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.1.5    | 30/06/2022 | Correção das referências. | @owhenrique | @victorleaoo, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.1    | 01/07/2022 | Lista dos motivos da escolha do App (Youtube). | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |

@@ -36,6 +36,6 @@ A Figura 2 é a versão 2 e oficial do Rich Picture do projeto. Foi feita utiliz
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 23/06/2002 | Criação da primeira versão do documento com a primeira versão do rich picture | @owhenrique, @B3holder2, @lramon2001, @victorleaoo | @Alef012 |
-| 1.1    | 23/06/2002 | Adição de referências |@victorleaoo | @Alef012 |
-| 2.0    | 03/07/2002 | Versão final do Rich Picture + Legenda nas imagens | @victorleaoo, @owhenrique | @B3holder2 |
+| 1.0    | 23/06/2022 | Criação da primeira versão do documento com a primeira versão do rich picture | @owhenrique, @B3holder2, @lramon2001, @victorleaoo | @Alef012 |
+| 1.1    | 23/06/2022 | Adição de referências |@victorleaoo | @Alef012 |
+| 2.0    | 03/07/2022 | Versão final do Rich Picture + Legenda nas imagens | @victorleaoo, @owhenrique | @B3holder2 |
