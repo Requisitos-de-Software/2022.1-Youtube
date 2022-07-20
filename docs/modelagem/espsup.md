@@ -118,3 +118,4 @@ Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, explicação de FURPS e estrutura da especificação suplementar | @victorleaoo | @lramon2001 |
 | 1.1    | 18/07/2022 | Adição da mensagem de contato com o YouTube | @victorleaoo | @lramon2001 |
+| 1.2    | 20/07/2022 | Adição da Especicificação suplementar | @lramon2001  |  @victorleaoo |
