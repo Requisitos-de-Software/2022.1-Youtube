@@ -3,7 +3,7 @@
 ## 1. Introdução
 Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Tem como principal objetivo a identificação de palavras ou frases peculiares ao meio social da aplicação.(Milene Serrano, Requisitos - Aula 10, página 13).
 
-Os lógicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos **estados**.
+Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos **estados**.
 
 ## 2. Metodologia
 Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
@@ -11,7 +11,7 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 - **Nome**: nome do léxico em si.
 - **Sinônimos**: palavras ou expressões com significado similar ao léxico.
 - **Impacto**: identificar outros estados e ações que podem ocorrer a partir do que se descreve.
-- **Noção**: o que siginifca e quais ações levaram a esse estado.
+- **Noção**: o que significa e quais ações levaram a esse estado.
 
 ## 3. Léxicos - Estado
 
