@@ -102,7 +102,8 @@ O grupo enviou uma mensagem para a comunidade do YouTube a fim de buscar por inf
 
 Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas respostas relevantes para o projeto.
 
-[Thread da Mensagem](https://support.google.com/youtube/thread/171629913?hl=pt-BR)
+<a href='https://support.google.com/youtube/thread/171629913?hl=pt-BR' target="_blank"><button style="border-radius: 8px;font-size: 18px;background-color: #f44336;">Thread da Mensagem</button></a>
+
 
 </center>
 
@@ -117,7 +118,7 @@ O grupo fez uma pergunta na plataforma Stack Overflow a fim de intensificar busc
 
 Até o dia 21/07/2022 às 18:00, horário de Brasília, ainda não foram obtidas respostas.
 
-[Link da pergunta](https://stackoverflow.com/questions/73072401/youtube-non-funcional-requirements)
+<a href='https://stackoverflow.com/questions/73072401/youtube-non-funcional-requirements' target="_blank"><button style="border-radius: 8px;font-size: 18px;background-color: #f44336;">Link da pergunta</button></a>
 
 </center>
 
