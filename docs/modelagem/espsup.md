@@ -131,7 +131,7 @@ Até o dia 21/07/2022 às 18:00, horário de Brasília, ainda não foram obtidas
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, explicação de FURPS e estrutura da especificação suplementar | @victorleaoo | @lramon2001 |
-| 1.1    | 18/07/2022 | Adição da mensagem de contato com o YouTube | @victorleaoo | @lramon2001 |
-| 1.2    | 20/07/2022 | Adição da Especicificação suplementar | @lramon2001  |  @victorleaoo |
-| 1.3    | 20/07/2022 | Adição da pergunta enviada ao stackoverflow | @owhenrique  |  @victorleaoo |
+| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, explicação de FURPS e estrutura da especificação suplementar | [@victorleaoo](https://github.com/victorleaoo) | [@lramon2001](https://github.com/@lramon2001) |
+| 1.1    | 18/07/2022 | Adição da mensagem de contato com o YouTube | [@victorleaoo](https://github.com/victorleaoo) | [@lramon2001](https://github.com/@lramon2001) |
+| 1.2    | 20/07/2022 | Adição da Especicificação suplementar | [@lramon2001]()  |  [@victorleaoo](https://github.com/victorleaoo) |
+| 1.3    | 20/07/2022 | Adição da pergunta enviada ao stackoverflow | [@owhenrique](https://github.com/owhenrique)  |  [@victorleaoo](https://github.com/victorleaoo) |
