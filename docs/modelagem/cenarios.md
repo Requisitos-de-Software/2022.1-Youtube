@@ -1,9 +1,9 @@
 # Cenários
 
 ## 1. Introdução
-Cenários são uma ferramenta utilizada para descrever as situações de uso de um sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros atores externos, auxiliando no entendimento e na descoberta de novos requisitos.
+<p align="justify">&emsp;&emsp; Cenários são uma ferramenta utilizada para descrever as situações de uso de um sistema pelos seus usuários e os relacionamentos entre o sistema em desenvolvimento e outros atores externos, auxiliando no entendimento e na descoberta de novos requisitos. </p>
 
-Em adição, segundo Carroll, o fato de um cenário projetar uma descrição concreta de uma atividade em que o usuário se engaja no momento em que está realizando uma tarefa específica é a propriedade que melhor define um cenário.(Cenários - Rastreamento de Cenários, página 47).
+<p align="justify">&emsp;&emsp; Em adição, segundo Carroll, o fato de um cenário projetar uma descrição concreta de uma atividade em que o usuário se engaja no momento em que está realizando uma tarefa específica é a propriedade que melhor define um cenário.(Cenários - Rastreamento de Cenários, página 47). </p>
 
 ## 2. Metodologia
 Após a listagem dos cenários identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
