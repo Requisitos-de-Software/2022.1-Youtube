@@ -108,7 +108,7 @@ Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas
 </center>
 
 ## 4.1 Contato com o youtube via Stack Overflow
-O grupo fez uma pergunta na plataforma Stack Overflow a fim de intensificar buscar por informações oficiais acerca da Especificação Suplementar, mais especificamente requisitos do modelo FURPS+. Segue a figura 2, um print da pergunta na plataforma.
+O grupo fez uma pergunta na plataforma Stack Overflow a fim de intensificar a busca por informações oficiais acerca da Especificação Suplementar, mais especificamente requisitos do modelo FURPS+. Segue a figura 2, um print da pergunta na plataforma.
 
 <center>
 
