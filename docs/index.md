@@ -15,6 +15,8 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
 
 ## 2. Equipe
 
+<center>
+
 |                                                      | Membro             | Github            |
 | :----------------------------------------------------: | :------------------: | :-----------------: |
 | <img src="./media/foto-carlos.png" width="100" style="border-radius: 50%" />      | Carlos Godoy       | [@CDGodoy](https://github.com/CDGodoy)      |
@@ -23,6 +25,8 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
 | <img src="./media/foto-ph.jpg" width="100" style="border-radius: 50%" />           | Paulo Henrique Almeida       | [@owhenrique](https://github.com/owhenrique)      |
 | <img src="./media/foto-pedro.jpg" width="100" style="border-radius: 50%" />         | Pedro Victor    | [@B3holder2](https://github.com/B3holder2)         |
 | <img src="./media/foto-victor.jpg" width="100" style="border-radius: 50%" />       | Victor Leão | [@victorleaoo](https://github.com/victorleaoo) |
+
+</center>
 
 ## 3. Referências
 
