@@ -100,11 +100,27 @@ O grupo enviou uma mensagem para a comunidade do YouTube a fim de buscar por inf
 
 <figcaption>Figura 1: Mensagem de Contato com o YouTube.</figcaption>
 
-</center>
-
 Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas respostas relevantes para o projeto.
 
-[Thread da Mensagem](https://support.google.com/youtube/thread/171629913?hl=pt-BR)
+<a href='https://support.google.com/youtube/thread/171629913?hl=pt-BR' target="_blank"><button style="border-radius: 8px;font-size: 18px;background-color: #f44336;">Thread da Mensagem</button></a>
+
+
+</center>
+
+## 4.1 Contato com o youtube via Stack Overflow
+O grupo fez uma pergunta na plataforma Stack Overflow a fim de intensificar a busca por informações oficiais acerca da Especificação Suplementar, mais especificamente requisitos do modelo FURPS+. Segue a figura 2, um print da pergunta na plataforma.
+
+<center>
+
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Youtube/main/docs/media/pergunta-stackoverflow.png"/>
+
+<figcaption>Figura 2: Pergunta enviada ao Stack Overflow.</figcaption>
+
+Até o dia 21/07/2022 às 18:00, horário de Brasília, ainda não foram obtidas respostas.
+
+<a href='https://stackoverflow.com/questions/73072401/youtube-non-funcional-requirements' target="_blank"><button style="border-radius: 8px;font-size: 18px;background-color: #f44336;">Link da pergunta</button></a>
+
+</center>
 
 ## 5. Referências
 
@@ -116,6 +132,7 @@ Até o dia 18/07/2022 às 15:22, horário de Brasília, ainda não foram obtidas
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, explicação de FURPS e estrutura da especificação suplementar | @victorleaoo | @lramon2001 |
-| 1.1    | 18/07/2022 | Adição da mensagem de contato com o YouTube | @victorleaoo | @lramon2001 |
-| 1.2    | 20/07/2022 | Adição da Especicificação suplementar | @lramon2001  |  @victorleaoo |
+| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, explicação de FURPS e estrutura da especificação suplementar | [@victorleaoo](https://github.com/victorleaoo) | [@lramon2001](https://github.com/@lramon2001) |
+| 1.1    | 18/07/2022 | Adição da mensagem de contato com o YouTube | [@victorleaoo](https://github.com/victorleaoo) | [@lramon2001](https://github.com/@lramon2001) |
+| 1.2    | 20/07/2022 | Adição da Especicificação suplementar | [@lramon2001]()  |  [@victorleaoo](https://github.com/victorleaoo) |
+| 1.3    | 20/07/2022 | Adição da pergunta enviada ao stackoverflow | [@owhenrique](https://github.com/owhenrique)  |  [@victorleaoo](https://github.com/victorleaoo) |
