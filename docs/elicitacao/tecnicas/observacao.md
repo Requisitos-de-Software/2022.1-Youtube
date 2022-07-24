@@ -18,7 +18,7 @@ Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo
 [Vídeo da Observação](https://user-images.githubusercontent.com/33530818/178572814-c4af9a44-c9fe-42f3-be98-4f2f377a77e8.mp4)
 
 ## 3. Participantes
-- Victor Hugo (@victorleaoo): Observador
+- Victor Hugo (<a href="https://github.com/victorleaoo">@victorleaoo</a>): Observador
 - Benjamin Lacerda (20 anos, estudante de Engenharia de Software - UnB/FGA): Observado
 
 ## 4. Resultados
@@ -53,5 +53,6 @@ Além disso, foi pedido para o usuário que gravasse a tela de uso do aplicativo
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | @victorleaoo | @owhenrique |
-| 1.1    | 12/07/2002 | Adição da observação e requisitos elicitados. | @victorleaoo | @Alef012 |
+| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.1    | 12/07/2002 | Adição da observação e requisitos elicitados. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
+| 1.2    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

@@ -300,6 +300,6 @@ Após a listagem dos cenários identificados pela equipe, eles foram detalhados 
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de cenários | @victorleaoo | @B3holder2 |
-| 1.1    | 17/07/2022 | Adição de cenários relacionados ao usuário (espectador) | @victorleaoo | @B3holder2 |
-| 1.2    | 20/07/2022 | Adição de cenários relacionados ao usuário (criador de conteudo) | @B3holder2 | @victorleaoo |
+| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de cenários | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.1    | 17/07/2022 | Adição de cenários relacionados ao usuário (espectador) | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.2    | 20/07/2022 | Adição de cenários relacionados ao usuário (criador de conteudo) | <a href="https://github.com/B3holder2">@B3holder2</a> | <a href="https://github.com/victorleaoo">@victorleaoo</a> |

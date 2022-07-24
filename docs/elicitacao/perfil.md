@@ -28,4 +28,5 @@ A priori, podem ser definidos dois tipos de perfis de usuário para o aplicativo
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2022 | Criação da primeira versão do documento com as primeiras características dos perfis de usuário | @victorleaoo | @B3holder2 |
+| 1.0    | 06/07/2022 | Criação da primeira versão do documento com as primeiras características dos perfis de usuário | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.1    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo"><a href="https://github.com/victorleaoo">@victorleaoo</a></a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

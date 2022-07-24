@@ -73,8 +73,6 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | RFI58  | O usuário deve poder remover descrição. |
 | RFI59  | O usuário deve poder remover comentários. |
 
-
-
 ### 4.2 Requisitos Não-Funcionais
 | ID  | Requisito | 
 | :-: | :-------- |
@@ -89,7 +87,8 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | [@victorleaoo](https://github.com/victorleaoo) | [@owhenrique](https://github.com/owhenrique) |
-| 1.1    | 09/07/2002 | Instropecção versão 1 feita por Victor. | [@victorleaoo](https://github.com/victorleaoo) | [@B3Holder2](https://github.com/B3holder2) |
-| 1.2    | 11/07/2002 | Mudanças de alguns requisitos não-funcionais, uma vez que foram entendidos que fazem mais sentidos posicionados dessa forma. | [@victorleaoo](https://github.com/victorleaoo) | [@B3Holder2](https://github.com/B3holder2) |
-| 1.3    | 13/07/2002 | Adicionando requisitos funcionais relacionados à criação de conteúdo | [@B3holder](https://github.com/B3holder2) | [@victorleaoo](https://github.com/victorleaoo) |
+| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.1    | 09/07/2002 | Instropecção versão 1 feita por Victor. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.2    | 11/07/2002 | Mudanças de alguns requisitos não-funcionais, uma vez que foram entendidos que fazem mais sentidos posicionados dessa forma. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.3    | 13/07/2002 | Adicionando requisitos funcionais relacionados à criação de conteúdo | <a href="https://github.com/B3holder2">@B3holder2</a>) | <a href="https://github.com/victorleaoo">@victorleaoo</a> |
+| 1.4    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

@@ -79,5 +79,6 @@ A partir do plano de ensino, foi formado um cronograma com as principais ativida
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 25/06/2022 | Criação da primeira versão do documento com um panorama geral do cronograma geral e por etapa. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
-| 1.1    | 01/07/2022 | Criação da primeira versão do documento com um panorama geral do cronograma geral e por etapa. | @victorleaoo | @owhenrique, @B3holder2, @lramon2001, @Alef012, @CDGodoy |
+| 1.0    | 25/06/2022 | Criação da primeira versão do documento com um panorama geral do cronograma geral e por etapa. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a>, <a href="https://github.com/B3holder2">@B3holder2</a>, <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/Alef012">@Alef012</a>, <a href="https://github.com/CDGodoy">@CDGodoy</a> |
+| 1.1    | 01/07/2022 | Criação da primeira versão do documento com um panorama geral do cronograma geral e por etapa. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a>, <a href="https://github.com/B3holder2">@B3holder2</a>, <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/Alef012">@Alef012</a>, <a href="https://github.com/CDGodoy">@CDGodoy</a> |
+| 1.2    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

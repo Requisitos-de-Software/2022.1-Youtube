@@ -30,6 +30,7 @@ A equipe selecionou as seguintes ferramentas para serem usadas como auxílio dur
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 25/06/2022 | Criação da primeira versão do documento com as primeiras ferramentas levantadas, sua logo e função pela equipe durante o projeto. | @victorleaoo | @lramon2001, @B3holder2 |
-| 1.1    | 27/06/2022 | Adição das referências. | @victorleaoo | @lramon2001, @B3holder2 |
-| 1.1.5  | 30/06/2022 | Correção das referências. | @owhenrique | @lramon2001, @B3holder2 |
+| 1.0    | 25/06/2022 | Criação da primeira versão do documento com as primeiras ferramentas levantadas, sua logo e função pela equipe durante o projeto. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.1    | 27/06/2022 | Adição das referências. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.1.5  | 30/06/2022 | Correção das referências. | <a href="https://github.com/owhenrique">@owhenrique</a> | <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.2    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

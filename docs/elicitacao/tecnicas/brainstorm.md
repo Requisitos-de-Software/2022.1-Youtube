@@ -19,9 +19,9 @@ A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes for
 
 - Felipe Alef (@Alef012)
 - Lucas Ramon (@lramon2001)
-- Paulo Henrique (@owhenrique)
+- Paulo Henrique (<a href="https://github.com/owhenrique">@owhenrique</a>)
 - Pedro Victor (@B3holder2)
-- Victor Hugo (@victorleaoo): Facilitador
+- Victor Hugo (<a href="https://github.com/victorleaoo">@victorleaoo</a>): Facilitador
 
 ## 4. Resultados
 
@@ -94,6 +94,7 @@ A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes for
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | @victorleaoo | @owhenrique |
-| 1.1    | 11/07/2002 | Adição da metodologia e dos participantes do Brainstorm. | @victorleaoo | @owhenrique |
-| 1.2    | 11/07/2002 | Adição dos requisitos funcionais e não funcionais pensados pela equipe. | @owhenrique | @victorleaoo, @lramon2001, @Alef012 , @CDGodoy, @B3holder2 |
+| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.1    | 11/07/2002 | Adição da metodologia e dos participantes do Brainstorm. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.2    | 11/07/2002 | Adição dos requisitos funcionais e não funcionais pensados pela equipe. | <a href="https://github.com/owhenrique">@owhenrique</a> | <a href="https://github.com/victorleaoo">@victorleaoo</a>, <a href="https://github.com/lramon2001">@lramon2001</a>, @Alef012 , <a href="https://github.com/CDGodoy">@CDGodoy</a>, <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

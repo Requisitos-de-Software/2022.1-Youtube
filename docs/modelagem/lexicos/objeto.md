@@ -214,6 +214,7 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 ## 5. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - objetivo | @victorleaoo | @Alef012 |
-| 1.1    | 17/07/2022 | Adição sem ordenação de léxicos de objetos e um exemplo de como deve ser feito | @victorleaoo @Alef012 | @Alef012 |
-| 1.2    | 17/07/2022 | Léxicos de objetos ordenados | @victorleaoo @Alef012 | @Alef012 |
+| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução, metodologia e estrutura de léxico - objetivo | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
+| 1.1    | 17/07/2022 | Adição sem ordenação de léxicos de objetos e um exemplo de como deve ser feito | <a href="https://github.com/victorleaoo">@victorleaoo</a> <a href="https://github.com/Alef012">@Alef012</a> | <a href="https://github.com/Alef012">@Alef012</a> |
+| 1.2    | 17/07/2022 | Léxicos de objetos ordenados | <a href="https://github.com/victorleaoo">@victorleaoo</a> <a href="https://github.com/Alef012">@Alef012</a> | <a href="https://github.com/Alef012">@Alef012</a> |
+| 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

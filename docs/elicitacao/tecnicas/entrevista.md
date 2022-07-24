@@ -64,5 +64,6 @@ A partir das respostas do usuário, foram elicitados requisitos que já são imp
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | @victorleaoo | @owhenrique |
-| 1.1    | 12/07/2002 | Adição da entrevista + requisitos elicitados por ela. | @victorleaoo, @CDGodoy | @owhenrique, @lramon2001 |
+| 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.1    | 12/07/2002 | Adição da entrevista + requisitos elicitados por ela. | <a href="https://github.com/victorleaoo">@victorleaoo</a>, <a href="https://github.com/CDGodoy">@CDGodoy</a> | <a href="https://github.com/owhenrique">@owhenrique</a>, <a href="https://github.com/lramon2001">@lramon2001</a> |
+| 1.2    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

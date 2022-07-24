@@ -329,6 +329,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 ## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução e composição de um diagrama de caso de uso. | @victorleaoo | @owhenrique |
-| 1.1    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um usuário criador de conteúdo. | @victorleaoo, @owhenrique | @B3Holder2 |
-| 1.2    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um usuário espectador. | @owhenrique, @victorleaoo | @Alef012 |
+| 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução e composição de um diagrama de caso de uso. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.1    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um usuário criador de conteúdo. | <a href="https://github.com/victorleaoo">@victorleaoo</a>, <a href="https://github.com/owhenrique">@owhenrique</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.2    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um usuário espectador. | <a href="https://github.com/owhenrique">@owhenrique</a>, <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
+| 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

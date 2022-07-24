@@ -104,5 +104,6 @@ Esse documento reúne o resultado de todas as técnicas de elicitação de requi
 ## 4. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-| 1.0    | 06/07/2022 | Criação do esqueleto do documento. | @victorleaoo | @owhenrique |
-| 1.1    | 06/07/2022 | Adição de todos os requisitos elicitados pela equipe com todas as técnicas explicitadas. | @victorleaoo | @owhenrique |
+| 1.0    | 06/07/2022 | Criação do esqueleto do documento. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.1    | 06/07/2022 | Adição de todos os requisitos elicitados pela equipe com todas as técnicas explicitadas. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.2    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

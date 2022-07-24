@@ -77,15 +77,3 @@ Youtube é uma plataforma que permite a criação e postagem de vídeos de diver
 | 1.1    | 28/06/2022 | Definição do app e sua descrição | <a href="https://github.com/victorleaoo">@victorleaoo</a>, <a href="https://github.com/owhenrique">@owhenrique</a>, <a href="https://github.com/B3holder2">@B3holder2</a>, <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/Alef012">@Alef012</a>, <a href="https://github.com/CDGodoy">@CDGodoy</a> | @victorleaoo, @owhenrique, @B3holder2, <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/Alef012">@Alef012</a>, <a href="https://github.com/CDGodoy">@CDGodoy</a> |
 | 1.2    | 30/06/2022 | Adição de referências | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/lramon2001">@lramon2001</a>, <a href="https://github.com/owhenrique">@owhenrique</a> |
 | 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
-
-<a href="https://github.com/victorleaoo">@victorleaoo</a>
-
-<a href="https://github.com/lramon2001">@lramon2001</a>
-
-<a href="https://github.com/owhenrique">@owhenrique</a>
-
-<a href="https://github.com/B3holder2">@B3holder2</a>
-
-<a href="https://github.com/CDGodoy">@CDGodoy</a>
-
-<a href="https://github.com/Alef012">@Alef012</a>
