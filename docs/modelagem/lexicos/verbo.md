@@ -15,6 +15,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 
 ## 3. Léxicos - Verbo
 
+<div id="assistir"></div>
+
 ### 3.1 - Assistir
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -22,6 +24,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Ver, Visualizar |
 | Impacto  | Um vídeo é reproduzido na tela do usuário |
 | Noção    | O usuário pode assistir a um conteúdo (vídeo, shorts, transmissão ao vivo) caso esteja conectado no aplicativo |
+
+<div id="clicar"></div>
 
 ### 3.2 - Clicar
 | Elemento | Descrição |
@@ -31,6 +35,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | Basicamente, a grande maioria das ações só podem ser executadas após um clique |
 | Noção    | É a ação de pressionar o dedo contra a tela, mais especificamente na funcionalidade que se deseja que seja ativada |
 
+<div id="compartilhar"></div>
+
 ### 3.3 - Compartilhar
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -38,6 +44,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Distribuir, Passar para frente|
 | Impacto  | Um vídeo pode ser compartilhado em diversas redes sociais fora do YouTube |
 | Noção    | É o ato de um usuário copiar o link de um vídeo ou postá-lo em outra rede social alheia ao YouTube |
+
+<div id="curtir"></div>
 
 ### 3.4 - Curtir
 | Elemento | Descrição |
@@ -47,6 +55,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | Um vídeo ao receber um gostei, pode se tornar mais relevante para o algoritmo do aplicativo |
 | Noção    | O usuário curte um conteúdo ao clicar no ícone de polegar para cima, relatando que, provavelmente, gostou do vídeo |
 
+<div id="denunciar"></div>
+
 ### 3.5 - Denunciar
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -54,6 +64,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Reportar, Comunicar |
 | Impacto  | Um vídeo denunciado vai ser analisado pelo aplicativo para uma verificação da possível infração |
 | Noção    | É a ação de de reportar ao sistema que um conteúdo fere alguma diretriz ou política |
+
+<div id="inscrever"></div>
 
 ### 3.6 - Inscrever
 | Elemento | Descrição |
@@ -63,6 +75,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | O usuário se torna inscrito (estado) do canal no qual ele executou tal ação, podendo acessar funcionalidades diferentes relativas a esse canal |
 | Noção    | É o ato de subscrever a um canal, tornando uma forma de seguidor dos seus conteúdos |
 
+<div id="login"></div>
+
 ### 3.7 - Login
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -70,6 +84,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Conectar, Autenticar, Entrar|
 | Impacto  | Um usuário que realiza o login é dito como no estado de logado<br/>Com isso feito, ele tem acesso a diversas outras funcionalidades restritas a usuários conectados |
 | Noção    | O usuário se conectar a sua conta do Google, para que não seja mais um usuário "convidado" do aplicativo |
+
+<div id="logout"></div>
 
 ### 3.8 - Logout
 | Elemento | Descrição |
@@ -79,6 +95,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | O usuário que realiza o logout volta ao estado de convidado, sem acesso as funcionalidades que requerem login |
 | Noção    | É a ação reversa ao Login, um usuário se desconecta de sua conta Google |
 
+<div id="maximizar"></div>
+
 ### 3.9 - Maximizar
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -86,6 +104,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Aumentar, Expandir|
 | Impacto  | Um vídeo se torna maximizado ao receber a ação de maximizar<br/>Com isso, a página de um vídeo se torna o principal destaque da tela, limitando outras funcionalidades de navegação|
 | Noção    | Ação reversa a minimizar<br/>O usuário pode maximizar um vídeo ao o arrastar para cima, tomando boa parte da tela |
+
+<div id="minimizar"></div>
 
 ### 3.10 - Minimizar
 | Elemento | Descrição |
@@ -95,6 +115,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | Um vídeo se torna minimizado ao receber a ação de minimizar<br/>Com isso, a tela de navegação do aplicativo se torna mais ampla e o vídeo em um plano menor |
 | Noção    | O usuário pode minimizar um vídeo ao o arrastar para baixo na tela, o tornando em um tamanho inferior se comparado quando em tela cheia |
 
+<div id="pausar"></div>
+
 ### 3.11 - Pausar
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -102,6 +124,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Parar, Interromper|
 | Impacto  | O conteúdo que estava sendo executado na tela será interrompido, sem o vídeo ou som sendo passados ao estado de pausado |
 | Noção    | É o contrário de Play<br/>Significa que um conteúdo que está sendo reproduzido será parado até ação contrária (play) |
+
+<div id="pesquisar"></div>
 
 ### 3.12 - Pesquisar
 | Elemento | Descrição |
@@ -111,6 +135,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | O aplicativo, ao receber a ação de pesquisar, fornecerá informações (vídeos, canais, playlists etc.) referentes ao que foi solicitado |
 | Noção    | O usuário solicita ao sistema uma busca acerca de assuntos específicos<br/>É feito por escrever e enviar um texto na aba de pesquisa (ícone de lupa) |
 
+<div id="play"></div>
+
 ### 3.13 - Play
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -118,6 +144,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Começar, Resumir |
 | Impacto  | Um conteúdo ao receber a ação de play sai do estado de pausado e volta a ser reproduzido |
 | Noção    | O usuário dá play em um vídeo ao pressionar contra o ícone de seta apontada à esquerda<br/>Assim, o conteúdo antes interrompido volta ao modo de reprodução |
+
+<div id="postar"></div>
 
 ### 3.14 - Postar
 | Elemento | Descrição |
@@ -138,3 +166,4 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | 1.1    | 17/07/2022 | Adição sem ordenação de léxicos verbais e um exemplo de como deve ser feito | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
 | 1.2    | 18/07/2022 | Descrição de todos os léxicos verbais e ordenação em ordem alfabética | <a href="https://github.com/victorleaoo">@victorleaoo</a>, <a href="https://github.com/Alef012">@Alef012</a> | <a href="https://github.com/lramon2001">@lramon2001</a> |
 | 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.5    | 24/07/2022 | Adição de ID para cada um dos léxicos para que possam ser referenciados em outras páginas | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

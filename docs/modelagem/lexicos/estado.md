@@ -6,7 +6,7 @@ Trata-se de uma técnica que procura descrever os símbolos de uma linguagem. Te
 Os léxicos podem ser dividos em 3 tipos: Estado, Objeto e Verbo. Essa página é dedicada aos **estados**.
 
 ## 2. Metodologia
-Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
+Após a listagem dos léxicos do tipo estado identificados pela equipe, eles foram detalhados compondo os seguintes elementos:
 
 - **Nome**: nome do léxico em si.
 - **Sinônimos**: palavras ou expressões com significado similar ao léxico.
@@ -14,6 +14,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 - **Noção**: o que significa e quais ações levaram a esse estado.
 
 ## 3. Léxicos - Estado
+
+<div id="em-estreia"></div>
 
 ### 3.1 - Em Estreia
 | Elemento | Descrição |
@@ -23,6 +25,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | Um vídeo em estreia pode ser acompanhado ao vivo durante seu lançamento pelo público<br/>O vídeo só estará completamente disponível quando a estreia acabar |
 | Noção    | É o estado de um vídeo que é programado para ser postado em uma determinada data e horário |
 
+<div id="inscrito"></div>
+
 ### 3.2 - Inscrito
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -30,6 +34,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Assinante, Seguidor |
 | Impacto  | Um usuário inscrito em um canal pode ativar suas notificações<br/>Um usuário inscrito pode ver os vídeos recentes postados por um canal na sua aba e "inscrições" |
 | Noção    | É o estado em que o usuário, ao se inscrever em um canal, se torna para o canal |
+
+<div id="logado"></div>
 
 ### 3.3 - Logado
 | Elemento | Descrição |
@@ -39,6 +45,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | Um usuário logado pode utilizar de ferramentas e funcionalidades mais sofisticadas no app, como, por exemplo, se inscrever em um canal, criar e manipular playlists etc. |
 | Noção    | Um usuário que se autentica com os dados de sua conta Google (e-mail e senha) |
 
+<div id="maximizado"></div>
+
 ### 3.4 - Maximizado
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -46,6 +54,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Aumentado, Expandido |
 | Impacto  | Um vídeo, quando maximizado, é exibido em uma maior parte da tela (podendo ser ela toda)<br/>O usuário tem menos autonomia para mexer no aplicativo quando um vídeo está maximizado |
 | Noção    | É quando uma página de um vídeo é a tela principal, tomando, assim, boa parte da tela para si|
+
+<div id="minimizado"></div>
 
 ### 3.5 - Minimizado
 | Elemento | Descrição |
@@ -55,6 +65,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | O usuário pode executar outras ações, como pesquisa, acessar canal, playlists, históricos etc.<br/>O usuário recebe autonomia maior com o aplicativo enquanto ainda assiste a um vídeo|
 | Noção    | É quando um vídeo está com seu tamanho original reduzido, dando espaço à tela para navegar em outras áreas do aplicativo|
 
+<div id="nao-listado"></div>
+
 ### 3.6 - Não-Listado
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -63,6 +75,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Impacto  | O vídeo não pode ser encontrado em buscas<br/>Normalmente, é usado quando se quer hospedar um conteúdo, mas somente para um público restrito conhecido |
 | Noção    | Um vídeo em estado não-listado só pode ser acessado por usuários com seu link, uma vez que não é público para buscas |
 
+<div id="pausado"></div>
+
 ### 3.7 - Pausado
 | Elemento | Descrição |
 | :------: | :-------- |
@@ -70,6 +84,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | Sinônimos| Interrompido, Parado |
 | Impacto  | A reprodução do conteúdo (vídeo e som) param |
 | Noção    | É quando um vídeo em reprodução pode ser interrompido |
+
+<div id="postado"></div>
 
 ### 3.8 - Postado
 | Elemento | Descrição |
@@ -90,3 +106,5 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | 1.1    | 17/07/2022 | Adição sem ordenação de léxicos de estado e um exemplo de como deve ser feito | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
 | 1.2    | 18/07/2022 | Descrição de todos os léxicos de estado e ordenação em ordem alfabética | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
 | 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.4    | 24/07/2022 | Correção de erro em que estava léxicos de "verbo" | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.5    | 24/07/2022 | Adição de ID para cada um dos léxicos para que possam ser referenciados em outras páginas | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
