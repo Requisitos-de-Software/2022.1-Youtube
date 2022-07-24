@@ -90,5 +90,5 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
 | 1.1    | 09/07/2002 | Instropecção versão 1 feita por Victor. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
 | 1.2    | 11/07/2002 | Mudanças de alguns requisitos não-funcionais, uma vez que foram entendidos que fazem mais sentidos posicionados dessa forma. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
-| 1.3    | 13/07/2002 | Adicionando requisitos funcionais relacionados à criação de conteúdo | <a href="https://github.com/B3holder2">@B3holder2</a>) | <a href="https://github.com/victorleaoo">@victorleaoo</a> |
+| 1.3    | 13/07/2002 | Adicionando requisitos funcionais relacionados à criação de conteúdo | <a href="https://github.com/B3holder2">@B3holder2</a> | <a href="https://github.com/victorleaoo">@victorleaoo</a> |
 | 1.4    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

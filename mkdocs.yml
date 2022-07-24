@@ -27,7 +27,7 @@ nav:
       - Entrevista: elicitacao/tecnicas/entrevista.md
     - Priorização:
       - MoSCoW: elicitacao/priorizacao/moscow.md
-      - 100 Doláres: elicitacao/priorizacao/100dol.md
+      - 100 Dólares: elicitacao/priorizacao/100dol.md
     - Resultado Elicitação: elicitacao/resultado.md
   - Modelagem:
     - Cenários: modelagem/cenarios.md
