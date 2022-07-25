@@ -90,237 +90,237 @@ A partir da listagem dos diagramas de caso de uso identificados, o grupo modelou
 
 ## 4. Diagramas de Caso de Uso
 
-### 4.1 Diagrama 1 - Casos de Uso para o Criador de Conteúdo
-A figura 1 apresenta o diagrama de casos de uso para um usuário criador de conteúdo
+### 4.1 Diagrama 1 - Casos de Uso para o [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo)
+A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo)
 
 <center>
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-criador.png"/>
 
-<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo. Autor: Paulo Henrique Almeida.</figcaption>
+<figcaption>Figura 1: Diagrama de Casos de Uso - [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo). Autor: Paulo Henrique Almeida.</figcaption>
 
 </center>
 
-#### Caso de Uso 1 - Criar Canal
+#### Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Criar Canal |
-| Descrição      | O criador de conteúdo cria um canal, onde postará e armazenará seus vídeos/conteúdos |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal|
-| Pós-condição   | O usuário tem um canal criado|
+| Nome           | Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
+| Descrição      | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) cria um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal), onde [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar)á e armazenará seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s/conteúdos |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)"<br/>- Preenche foto e nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)|
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) tem um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) criado|
 
-#### Caso de Uso 2 - Autenticar Usuário
+#### Caso de Uso 2 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Autenticar Usuário |
-| Descrição      | O usuário autentica suas credenciais de login para poder ter acesso a mais ferramentas |
-| Ator           | Usuário |
+| Nome           | Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) autentica suas credenciais de [login](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#login) para poder ter acesso a mais ferramentas |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
 | Pré-condições  | Ter uma conta Google |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google|
-| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas|
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "Fazer [Login](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#login)"<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) se autentica com sua conta Google|
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) está no estado [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado) e pode acessar ferramentas antes restritas|
 
-#### Caso de Uso 3 - Postar Conteúdo
+#### Caso de Uso 3 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Postar Conteúdo |
-| Descrição      | A funcionalidade de postar conteúdo, como, por exemplo, um vídeo |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | - Estar logado/autenticado<br/>- Ter um vídeo armazenado no computador para postar |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona o envio de vídeo<br/>- Coloca as informações do conteúdo (título, descrição e visibilidade)<br/>- Clica em "postar" |
-| Pós-condição   | O usuário terá um conteúdo postado em seu canal |
+| Nome           | [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
+| Descrição      | A funcionalidade de [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo), como, por exemplo, um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) armazenado no computador para [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica no ícone "+" na área inferior<br/>- Seleciona o envio de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- Coloca as informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) (título, descrição e visibilidade)<br/>- Clica em "[postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar)" |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá um conteúdo [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) em seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
 
-#### Caso de Uso 4 - Criar Playlists
+#### Caso de Uso 4 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Criar Playlists |
-| Descrição      | O usuário executa a ação de criar uma playlist |
-| Ator           | Usuário |
-| Pré-condições  | - Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a tela de biblioteca<br/>- Seleciona a opção de "nova playlist"<br/>- Adiciona vídeos à playlist<br/>- Informa o nome e privacidade da playlist<br/>- Clica em "criar playlist" |
-| Pós-condição   | O usuário terá uma playlist associada a sua conta criada |
+| Nome           | Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) executa a ação de criar uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a tela de biblioteca<br/>- Seleciona a opção de "nova [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)"<br/>- Adiciona [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s à [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Informa o nome e [privacidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#privacidade) da [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Clica em "criar [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)" |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) associada a sua conta criada |
 
-#### Caso de Uso 5 - Excluir Conteúdo
+#### Caso de Uso 5 - Excluir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Excluir Conteúdo |
-| Descrição      | O usuário exclui um conteúdo postado |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a aba de gerenciamento de vídeos<br/>- Abre o menu de um vídeo representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de excluir<br/>- Confirma a remoção do vídeo |
-| Pós-condição   | O usuário terá seu conteúdo antes postado, agora deletado |
+| Nome           | Excluir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) exclui um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de gerenciamento de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s<br/>- Abre o menu de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de excluir<br/>- Confirma a remoção do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá seu conteúdo antes [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado), agora deletado |
 
-#### Caso de Uso 6 - Ver estatísticas do conteúdo
+#### Caso de Uso 6 - Ver estatísticas do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Ver estatísticas do conteúdo |
-| Descrição      | O usuário tem a funcionalidade de ver as estatísticas e dados de um conteúdo postsado |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a tela de seu canal<br/>- Usuário abre a aba de estatísticas |
-| Pós-condição   | O usuário terá acesso às estatísticas de seus conteúdos postados |
+| Nome           | Ver estatísticas do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) tem a funcionalidade de ver as estatísticas e dados de um conteúdo postsado |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um conteúdo [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a tela de seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de estatísticas |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá acesso às estatísticas de seus conteúdos [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s |
 
-#### Caso de Uso 7 - Editar informações do conteúdo
+#### Caso de Uso 7 - Editar informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Editar informações do conteúdo |
-| Descrição      | O usuário executa a funcionalidade de alterar informações de um conteúdo já postado |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a aba de gerenciamento de vídeos<br/>- Abre o menu de um vídeo representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Faz as edições desejadas no conteúdo<br/>- Clica em "salvar" |
-| Pós-condição   | O usuário terá as informações de um conteúdo já postado alteradas |
+| Nome           | Editar informações do [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) executa a funcionalidade de alterar informações de um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) já [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de gerenciamento de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s<br/>- Abre o menu de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Faz as edições desejadas no [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)<br/>- Clica em "salvar" |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá as informações de um conteúdo já [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) alteradas |
 
-#### Caso de Uso 8 - Adicionar Thumbnail
+#### Caso de Uso 8 - Adicionar [Thumbnail](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#thumbnail)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Adicionar Thumbnail |
-| Descrição      | Um conteúdo pode ter uma thumbnail (imagem de apresentação do vídeo) adicionada a ele |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | - Estar logado/autenticado<br/>- Ter um conteúdo postado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a aba de gerenciamento de vídeos<br/>- Abre o menu de um vídeo representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Clica no ícone de adicionar imagem ao vídeo<br/>- Clica em "salvar" |
-| Pós-condição   | O usuário terá uma imagem inicial (thumbnail) relacionada a ele |
+| Nome           | Adicionar [Thumbnail](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#thumbnail) |
+| Descrição      | Um conteúdo pode ter uma [thumbnail](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#thumbnail) (imagem de apresentação do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)) adicionada a ele |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado<br/>- Ter um conteúdo [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a aba de gerenciamento de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s<br/>- Abre o menu de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) representado por um ícone de "3 pontos verticais"<br/>- Seleciona o botão de editar<br/>- Clica no ícone de adicionar imagem ao [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- Clica em "salvar" |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá uma imagem inicial (thumbnail) relacionada a ele |
 
 #### Caso de Uso 9 - Fazer transmissão ao vivo
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Fazer transmissão ao vivo |
-| Descrição      | O usuário pode fazer uma transmissão ao vivo na plataforma |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | - Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona a opção de "transmissão ao vivo"<br/>- Coloca as informações da transmissão<br/>- Clica em "iniciar transmissão" |
-| Pós-condição   | O usuário estará realizando uma transmissão ao vivo no seu canal|
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) pode fazer uma transmissão ao vivo na plataforma |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica no ícone "+" na área inferior<br/>- Seleciona a opção de "transmissão ao vivo"<br/>- Coloca as informações da transmissão<br/>- Clica em "iniciar transmissão" |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) estará realizando uma transmissão ao vivo no seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)|
 
-#### Caso de Uso 10 - Postar Shorts
+#### Caso de Uso 10 - [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Postar Shorts |
-| Descrição      | O usuário pode postar um tipo de vídeo de até 60 segundos e de forma vertical |
-| Ator           | Usuário Criador de Conteúdo |
-| Pré-condições  | - Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica no ícone "+" na área inferior<br/>- Seleciona a opção de "criar um short"<br/>- Seleciona um clipe<br/>- Clica em "concluído"<br/>- Adiciona as informações do shorts<br/>- Clica em "postar" |
-| Pós-condição   | O usuário um Shorts postado no seu canal |
+| Nome           | [Postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [Shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) pode [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) um tipo de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) de até 60 segundos e de forma vertical |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica no ícone "+" na área inferior<br/>- Seleciona a opção de "criar um short"<br/>- Seleciona um clipe<br/>- Clica em "concluído"<br/>- Adiciona as informações do [shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts)<br/>- Clica em "[postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar)" |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) um [Shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) no seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
 
-### 4.2 Diagrama 2 - Casos de Uso para o espectador
-A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário regular do sistema)
+### 4.2 Diagrama 2 - Casos de Uso para o [espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador)
+A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador) ([usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) regular do sistema)
 
 <center>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-espectador.png"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-[espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador).png"/>
 
 <figcaption>Figura 2: Diagrama de Casos de Uso - Espectador. Autor: Paulo Henrique Almeida.</figcaption>
 
 </center>
 
-#### Caso de Uso 1 - Criar Canal
+#### Caso de Uso 1 - Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Criar Canal |
-| Descrição      | O espectador cria um canal, onde poderá postar e armazenar seus vídeos/conteúdos |
-| Ator           | Usuário Espectador |
-| Pré-condições  | Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu canal"<br/>- Preenche foto e nome do canal |
-| Pós-condição   | O usuário tem um canal criado |
+| Nome           | Criar [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
+| Descrição      | O [espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador) cria um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal), onde poderá [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) e armazenar seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s/conteúdos |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
+| Pré-condições  | Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- Clica na sua foto de perfil<br/>- Entra em "meu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)"<br/>- Preenche foto e nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) tem um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) criado |
 
-#### Caso de Uso 2 - Inscrever em Canal
+#### Caso de Uso 2 - [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Inscrever em Canal |
-| Descrição      | O espectador se inscreve em um canal, por onde poderá acompanhar/consumir os conteúdo que estão sendo postados |
-| Ator           | Usuário Espectador |
-| Pré-condições  | Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Clica no ícone/nome do canal que deseja se inscrever <br/>- Clica em "inscrever-se"<br/>|
-| Pós-condição   | O usuário está inscrito no canal |
+| Nome           | [Inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em [Canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
+| Descrição      | O [espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador) se [inscreve](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal), por onde poderá acompanhar/consumir os conteúdo que estão sendo [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
+| Pré-condições  | Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- Clica no ícone/nome do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) que deseja se [inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) <br/>- Clica em "[inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)-se"<br/>|
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) está inscrito no [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
 
-#### Caso de Uso 3 - Autenticar Usuário
+#### Caso de Uso 3 - Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Autenticar Usuário |
-| Descrição      | O usuário autentica suas credenciais de login para poder ter acesso a mais ferramentas |
-| Ator           | Usuário |
+| Nome           | Autenticar [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) autentica suas credenciais de [login](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#login) para poder ter acesso a mais ferramentas |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
 | Pré-condições  | Ter uma conta Google |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em "Fazer Login"<br/>- Usuário se autentica com sua conta Google |
-| Pós-condição   | O usuário está no estado logado e pode acessar ferramentas antes restritas |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "Fazer [Login](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#login)"<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) se autentica com sua conta Google |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) está no estado [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado) e pode acessar ferramentas antes restritas |
 
-#### Caso de Uso 4 - Consumir Conteúdo
+#### Caso de Uso 4 - Consumir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Consumir Conteúdo |
-| Descrição      | O usuário consome/assiste os conteúdos/vídeos que estão postados no sistema |
-| Ator           | Usuário Espectador |
+| Nome           | Consumir [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) consome/assiste os [conteúdos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s que estão [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s no sistema |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
 | Pré-condições  | Abrir o aplicativo |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica em um card de vídeo<br/>- Usuário consome o vídeo |
-| Pós-condição   | O usuário consimiu/assistiu um conteúdo |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em um card de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) consome o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) consimiu/assistiu um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
 
-#### Caso de Uso 5 - Pesquisar Conteúdo
+#### Caso de Uso 5 - Pesquisar [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Pesquisar Conteúdo |
-| Descrição      | O usuário pesquisa por um conteúdo/vídeo que foi postados no sistema |
-| Ator           | Usuário Espectador |
+| Nome           | Pesquisar [Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) pesquisa por um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) que foi [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s no sistema |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
 | Pré-condições  | Abrir o aplicativo |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário clica na ferramenta de pesquisa<br/>- Usuário digita título de conteúdo/vídeo que deseja consumir<br/>- Usuário clica em buscar |
-| Pós-condição   | O sistema disponibilzia ao usuário o conteúdo desejado/relacionado na pesquisa |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica na ferramenta de pesquisa<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) digita título de [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) que deseja consumir<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em buscar |
+| Pós-condição   | O sistema disponibilzia ao [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) o [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) desejado/relacionado na pesquisa |
 
-#### Caso de Uso 6 - Criar Playlists
+#### Caso de Uso 6 - Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Criar Playlists |
-| Descrição      | O usuário cria uma lista de conteúdos/vídeos que deseja consumir |
-| Ator           | Usuário |
-| Pré-condições  | - Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre a tela de biblioteca<br/>- Seleciona a opção de "nova playlist"<br/>- Adiciona vídeos à playlist<br/>- Informa o nome e privacidade da playlist<br/>- Clica em "criar playlist" |
-| Pós-condição   | O usuário terá uma playlist associada a sua conta criada |
+| Nome           | Criar [Playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) cria uma lista de [conteúdos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s que deseja consumir |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre a tela de biblioteca<br/>- Seleciona a opção de "nova [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)"<br/>- Adiciona [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s à [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Informa o nome e [privacidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#privacidade) da [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)<br/>- Clica em "criar [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)" |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) associada a sua conta criada |
 
 #### Caso de Uso 7 - Avaliar
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Avaliar |
-| Descrição      | O usuário avalia (positivamente ou negativamente) conteúdos/vídeos consumidos |
-| Ator           | Usuário Espectador |
-| Pré-condições  | - Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica no joinha para avaliar positivamente ou no joinha invertido para avaliar negativamente <br/> |
-| Pós-condição   | O usuário terá avaliado um vídeo |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) avalia (positivamente ou negativamente) [conteúdos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s consumidos |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica no joinha para avaliar positivamente ou no joinha invertido para avaliar negativamente <br/> |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá avaliado um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 
 #### Caso de Uso 8 - Comentar
 | Informação     | Descrição |
 | :--------:     | :-------  |
 | Nome           | Comentar |
-| Descrição      | O usuário comenta conteúdos/vídeos consumidos |
-| Ator           | Usuário Espectador |
-| Pré-condições  | - Estar logado/autenticado |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em comentários<br/>- Usuário clica em "Adicione um comentário..."</br>- Usuário digita um comentário e clica na seta à direita para postar comentário |
-| Pós-condição   | O usuário terá comentado um vídeo |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) comenta conteúdos/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s consumidos |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
+| Pré-condições  | - Estar [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)/autenticado |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em comentários<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "Adicione um comentário..."</br>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) digita um comentário e clica na seta à direita para [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) comentário |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá comentado um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 
-#### Caso de Uso 9 - Compartilhar
+#### Caso de Uso 9 - [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Compartilhar |
-| Descrição      | O usuário compartilha conteúdos/vídeos consumidos |
-| Ator           | Usuário Espectador |
-| Pré-condições  | - Estar com um vídeo aberto |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica em compartilhar<br/>- Usuário seleciona a forma que deseja compartilhar o vídeo</br>- Usuário possuirá o link do vídeo ou terá compartilhado o vídeo em alguma rede social |
-| Pós-condição   | O usuário terá compartilhado um vídeo |
+| Nome           | [Compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) compartilha conteúdos/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s consumidos |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
+| Pré-condições  | - Estar com um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) aberto |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a forma que deseja [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)</br>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) possuirá o link do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ou terá compartilhado o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) em alguma rede social |
+| Pós-condição   | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) terá compartilhado um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 
-#### Caso de Uso 10 - Alterar velocidade e Qualidade do vídeo
+#### Caso de Uso 10 - Alterar [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) e [Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Alterar velocidade e Qualidade do vídeo |
-| Descrição      | O usuário poderá alterar a velocidade do vídeo, deixando-o mais lento ou mais rápido, e também poderá alterar a qualidade do vídeo deixando-o com menor ou maior resolução |
-| Ator           | Usuário Espectador |
-| Pré-condições  | - Estar com um vídeo aberto |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Velocidade de reprodução" ou "Qualidade"</br>- Usuário seleciona a velocidade de reprodução ou qualidade desejada |
-| Pós-condição   | O vídeo aberto estará na Velocidade de reprodução ou qualidade desejada |
+| Nome           | Alterar [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) e [Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) poderá alterar a [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), deixando-o mais lento ou mais rápido, e também poderá alterar a [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) deixando-o com menor ou maior resolução |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
+| Pré-condições  | - Estar com um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) aberto |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica nos três pontinhos no canto superior direito do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "[Velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de reprodução" ou "[Qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade)"</br>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona a [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de reprodução ou [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) desejada |
+| Pós-condição   | O [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) aberto estará na [Velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) de reprodução ou [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) desejada |
 
-#### Caso de Uso 11 - Ver legendas
+#### Caso de Uso 11 - Ver [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)
 | Informação     | Descrição |
 | :--------:     | :-------  |
-| Nome           | Ver legendas |
-| Descrição      | O usuário poderá consumir o conteúdo/vídeo com legendas |
-| Ator           | Usuário Espectador |
-| Pré-condições  | - Estar com um vídeo aberto |
-| Fluxo Principal| - Usuário abre o aplicativo<br/>- Usuário abre um vídeo<br/>- Usuário clica nos três pontinhos no canto superior direito do vídeo<br/>- Usuário clica em "Legendas"</br>- Usuário seleciona o idioma de legenda desejado |
-| Pós-condição   | O vídeo aberto estará legendado no idioma escolhido |
+| Nome           | Ver [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) |
+| Descrição      | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) poderá consumir o conteúdo/[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) com [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) |
+| Ator           | [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) Espectador |
+| Pré-condições  | - Estar com um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) aberto |
+| Fluxo Principal| - [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre o aplicativo<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) abre um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica nos três pontinhos no canto superior direito do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)<br/>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) clica em "[Legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)"</br>- [Usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) seleciona o idioma de [legenda](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) desejado |
+| Pós-condição   | O [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) aberto estará legendado no idioma escolhido |
 
 ## 5. Referências
 
@@ -330,6 +330,7 @@ A figura 2 apresenta o diagrama de casos de uso para um espectador (usuário reg
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 17/07/2022 | Criação da primeira versão do documento com a introdução e composição de um diagrama de caso de uso. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
-| 1.1    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um usuário criador de conteúdo. | <a href="https://github.com/victorleaoo">@victorleaoo</a>, <a href="https://github.com/owhenrique">@owhenrique</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
-| 1.2    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um usuário espectador. | <a href="https://github.com/owhenrique">@owhenrique</a>, <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
+| 1.1    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo). | <a href="https://github.com/victorleaoo">@victorleaoo</a>, <a href="https://github.com/owhenrique">@owhenrique</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
+| 1.2    | 19/07/2022 | Adição do diagrama e das descrições dos casos de uso para um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) [espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador). | <a href="https://github.com/owhenrique">@owhenrique</a>, <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/Alef012">@Alef012</a> |
 | 1.3    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.4    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

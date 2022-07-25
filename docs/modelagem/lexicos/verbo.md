@@ -22,8 +22,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Assistir |
 | Sinônimos| Ver, Visualizar |
-| Impacto  | Um vídeo é reproduzido na tela do usuário |
-| Noção    | O usuário pode assistir a um conteúdo (vídeo, shorts, transmissão ao vivo) caso esteja conectado no aplicativo |
+| Impacto  | Um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) é reproduzido na tela do [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) |
+| Noção    | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) pode assistir a um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) ([vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), [shorts](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts), transmissão ao vivo) caso esteja conectado no aplicativo |
 
 <div id="clicar"></div>
 
@@ -42,8 +42,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Compartilhar |
 | Sinônimos| Distribuir, Passar para frente|
-| Impacto  | Um vídeo pode ser compartilhado em diversas redes sociais fora do YouTube |
-| Noção    | É o ato de um usuário copiar o link de um vídeo ou postá-lo em outra rede social alheia ao YouTube |
+| Impacto  | Um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) pode ser compartilhado em diversas redes sociais fora do YouTube |
+| Noção    | É o ato de um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) copiar o link de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ou postá-lo em outra rede social alheia ao YouTube |
 
 <div id="curtir"></div>
 
@@ -52,8 +52,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Curtir |
 | Sinônimos| Gostar, Avaliar Positivamente|
-| Impacto  | Um vídeo ao receber um gostei, pode se tornar mais relevante para o algoritmo do aplicativo |
-| Noção    | O usuário curte um conteúdo ao clicar no ícone de polegar para cima, relatando que, provavelmente, gostou do vídeo |
+| Impacto  | Um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ao receber um gostei, pode se tornar mais relevante para o algoritmo do aplicativo |
+| Noção    | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) curte um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) ao clicar no ícone de polegar para cima, relatando que, provavelmente, gostou do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) |
 
 <div id="denunciar"></div>
 
@@ -62,8 +62,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Denunciar |
 | Sinônimos| Reportar, Comunicar |
-| Impacto  | Um vídeo denunciado vai ser analisado pelo aplicativo para uma verificação da possível infração |
-| Noção    | É a ação de de reportar ao sistema que um conteúdo fere alguma diretriz ou política |
+| Impacto  | Um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) denunciado vai ser analisado pelo aplicativo para uma verificação da possível infração |
+| Noção    | É a ação de de reportar ao sistema que um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) fere alguma diretriz ou política |
 
 <div id="inscrever"></div>
 
@@ -72,8 +72,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Inscrever |
 | Sinônimos| Assinar, Seguir |
-| Impacto  | O usuário se torna inscrito (estado) do canal no qual ele executou tal ação, podendo acessar funcionalidades diferentes relativas a esse canal |
-| Noção    | É o ato de subscrever a um canal, tornando uma forma de seguidor dos seus conteúdos |
+| Impacto  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) se torna [inscrito](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#inscrito) (estado) do [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) no qual ele executou tal ação, podendo acessar funcionalidades diferentes relativas a esse [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) |
+| Noção    | É o ato de subscrever a um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal), tornando uma forma de seguidor dos seus [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo)s |
 
 <div id="login"></div>
 
@@ -82,8 +82,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Login |
 | Sinônimos| Conectar, Autenticar, Entrar|
-| Impacto  | Um usuário que realiza o login é dito como no estado de logado<br/>Com isso feito, ele tem acesso a diversas outras funcionalidades restritas a usuários conectados |
-| Noção    | O usuário se conectar a sua conta do Google, para que não seja mais um usuário "convidado" do aplicativo |
+| Impacto  | Um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) que realiza o login é dito como no estado de [logado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#logado)<br/>Com isso feito, ele tem acesso a diversas outras funcionalidades restritas a [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario)s conectados |
+| Noção    | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) se conectar a sua conta do Google, para que não seja mais um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) "convidado" do aplicativo |
 
 <div id="logout"></div>
 
@@ -92,8 +92,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Logout |
 | Sinônimos| Desconectar, Sair |
-| Impacto  | O usuário que realiza o logout volta ao estado de convidado, sem acesso as funcionalidades que requerem login |
-| Noção    | É a ação reversa ao Login, um usuário se desconecta de sua conta Google |
+| Impacto  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) que realiza o logout volta ao estado de convidado, sem acesso as funcionalidades que requerem login |
+| Noção    | É a ação reversa ao Login, um [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) se desconecta de sua conta Google |
 
 <div id="maximizar"></div>
 
@@ -102,8 +102,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Maximizar |
 | Sinônimos| Aumentar, Expandir|
-| Impacto  | Um vídeo se torna maximizado ao receber a ação de maximizar<br/>Com isso, a página de um vídeo se torna o principal destaque da tela, limitando outras funcionalidades de navegação|
-| Noção    | Ação reversa a minimizar<br/>O usuário pode maximizar um vídeo ao o arrastar para cima, tomando boa parte da tela |
+| Impacto  | Um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) se torna [maximizado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#maximizado) ao receber a ação de maximizar<br/>Com isso, a página de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) se torna o principal destaque da tela, limitando outras funcionalidades de navegação|
+| Noção    | Ação reversa a minimizar<br/>O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) pode maximizar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ao o arrastar para cima, tomando boa parte da tela |
 
 <div id="minimizar"></div>
 
@@ -112,8 +112,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Minimizar |
 | Sinônimos| Reduzir, Diminuir |
-| Impacto  | Um vídeo se torna minimizado ao receber a ação de minimizar<br/>Com isso, a tela de navegação do aplicativo se torna mais ampla e o vídeo em um plano menor |
-| Noção    | O usuário pode minimizar um vídeo ao o arrastar para baixo na tela, o tornando em um tamanho inferior se comparado quando em tela cheia |
+| Impacto  | Um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) se torna [minimizado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#minimizado) ao receber a ação de minimizar<br/>Com isso, a tela de navegação do aplicativo se torna mais ampla e o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) em um plano menor |
+| Noção    | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) pode minimizar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ao o arrastar para baixo na tela, o tornando em um tamanho inferior se comparado quando em tela cheia |
 
 <div id="pausar"></div>
 
@@ -122,8 +122,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Pausar |
 | Sinônimos| Parar, Interromper|
-| Impacto  | O conteúdo que estava sendo executado na tela será interrompido, sem o vídeo ou som sendo passados ao estado de pausado |
-| Noção    | É o contrário de Play<br/>Significa que um conteúdo que está sendo reproduzido será parado até ação contrária (play) |
+| Impacto  | O [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) que estava sendo executado na tela será interrompido, sem o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ou som sendo passados ao estado de pausado |
+| Noção    | É o contrário de Play<br/>Significa que um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) que está sendo reproduzido será parado até ação contrária (play) |
 
 <div id="pesquisar"></div>
 
@@ -132,8 +132,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Pesquisar |
 | Sinônimos| Buscar, Navegar |
-| Impacto  | O aplicativo, ao receber a ação de pesquisar, fornecerá informações (vídeos, canais, playlists etc.) referentes ao que foi solicitado |
-| Noção    | O usuário solicita ao sistema uma busca acerca de assuntos específicos<br/>É feito por escrever e enviar um texto na aba de pesquisa (ícone de lupa) |
+| Impacto  | O aplicativo, ao receber a ação de pesquisar, fornecerá informações ([vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s, canais, playlists etc.) referentes ao que foi solicitado |
+| Noção    | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) solicita ao sistema uma busca acerca de assuntos específicos<br/>É feito por escrever e enviar um texto na aba de pesquisa (ícone de lupa) |
 
 <div id="play"></div>
 
@@ -142,8 +142,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Play |
 | Sinônimos| Começar, Resumir |
-| Impacto  | Um conteúdo ao receber a ação de play sai do estado de pausado e volta a ser reproduzido |
-| Noção    | O usuário dá play em um vídeo ao pressionar contra o ícone de seta apontada à esquerda<br/>Assim, o conteúdo antes interrompido volta ao modo de reprodução |
+| Impacto  | Um [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) ao receber a ação de play sai do estado de pausado e volta a ser reproduzido |
+| Noção    | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) dá play em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ao pressionar contra o ícone de seta apontada à esquerda<br/>Assim, o [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) antes interrompido volta ao modo de reprodução |
 
 <div id="postar"></div>
 
@@ -152,8 +152,8 @@ Após a listagem dos léxicos do tipo verbo identificados pela equipe, eles fora
 | :------: | :-------- |
 | Nome     | Postar    |
 | Sinônimos| Publicar  |
-| Impacto  | Ao postar um vídeo, ele é hospedado na plataforma e pode receber diversas ações<br/>Toma o estado de postado, podendo ter sua privacidade restrita (não-listado) |
-| Noção    | É o ato de armazenar um vídeo no aplicativo, é comum ser feito por um criador de conteúdo |
+| Impacto  | Ao postar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), ele é hospedado na plataforma e pode receber diversas ações<br/>Toma o estado de postado, podendo ter sua privacidade restrita (não-listado) |
+| Noção    | É o ato de armazenar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) no aplicativo, é comum ser feito por um criador de [conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) |
 
 ## 4. Referências
 

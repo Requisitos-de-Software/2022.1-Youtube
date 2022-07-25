@@ -1,15 +1,13 @@
 # Especificação Suplementar
 
 ## 1. Introdução
-A Especificação Suplementar é um documento em linguagem natural, no qual são descritos os requisitos não funcionais. (Milene Serrano, Requisitos - Aula 10, página 28). 
+A Especificação Suplementar é um documento em linguagem natural, no qual são descritos os requisitos não-funcionais. (Milene Serrano, Requisitos - Aula 10, página 28). 
 
 Além disso, alguns outros requisitos podem ser obtidos a partir desse documento, como, por exemplo:
 
 - Requisitos legais e reguladores, incluindo padrões de aplicativo;
-- Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, 
-confiabilidade, desempenho e suportabilidade;
-- Outros requisitos, como sistemas operacionais e ambientes, requisitos de 
-compatibilidade e restrições de design.
+- Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade;
+- Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design.
 
 (Samily Gois, Projeto de Software Floricultura Beija-Flor Especificação Suplementar, página 4).
 
@@ -25,7 +23,7 @@ São requisitos relacionados à especificação das funcionalidades do sistema. 
 - Requisitos de Segurança do sistema.
 
 ### 2.2 U - Usability - Usabilidade
-São requisitos relacionados a interface com o usuário. Exemplos:
+São requisitos relacionados a interface com o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario). Exemplos:
 
 - Prevenção de erros.
 - Ajudas.
@@ -50,7 +48,7 @@ São requisitos relacionados ao desempenho do software. Exemplos:
 - Disponibilidade.
 
 ### 2.5 S - Suportability - Suportabilidade
-São requisitos relacionados a capacidade de suporte do software, tanto para consigo mesmo, quanto para o usuário. Exemplos:
+São requisitos relacionados a capacidade de suporte do software, tanto para consigo mesmo, quanto para o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario). Exemplos:
 
 - Testabilidade.
 - Adaptabilidade.
@@ -78,18 +76,18 @@ Após o entendimento do modelo FURPS+, a Especificação Suplementar do sistema 
 | **U**sabilidade     | Operar segundo as leis de Delaware, onde se encontra a sede da empresa. </br> |
 | **U**sabilidade     | O sistema deve ter um site direcionado para ajudas, em que diversas possíveis falhas e suas resoluções são explicadas. </br>|
 | **U**sabilidade     | O aplicativo deve ter um site com informações dos seus Termos de Uso: Termos de Serviço (youtube.com). </br> |
-| **U**sabilidade     | O usuário executa ações essenciais em, no máximo, 5 cliques. </br> |
-| **U**sabilidade     | Quando possível, ícones devem ser usados juntamente com textos para trazer uma melhor visibilidade da funcionalidade para o usuário. </br> |
-| **U**sabilidade     | A tela inicial e de busca devem apresentar um padrão direcionado à exibição de vídeos recomendados/encontrados. </br>  |
+| **U**sabilidade     | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) executa ações essenciais em, no máximo, 5 [cliques](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#clicar). </br> |
+| **U**sabilidade     | Quando possível, ícones devem ser usados juntamente com textos para trazer uma melhor visibilidade da funcionalidade para o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario). </br> |
+| **U**sabilidade     | A tela inicial e de busca devem apresentar um padrão direcionado à exibição de [vídeos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) recomendados/encontrados. </br>  |
 | **C**onfiabilidade  | Não é esperada nenhuma frequência de falhas constante e/ou periódica no aplicativo.</br>|
 | **C**onfiabilidade  | Em 99% dos casos, deve-se haver a possibilidade de recuperação. </br>|
 | **C**onfiabilidade  | As falhas devem ter prioridade máxima de recuperação quando encontradas, durando não mais que 24h para que sejam extinguidas. </br>|
-| **C**onfiabilidade  | O usuário deve ser avisado caso o sistema esteja passando por alguma falha. </br>|
-| **P**erformance     |  Se espera que 90% do tempo quando se assiste youtube, os vídeos tenham uma qualidade padrão de pelo menos 360p. Relatório de qualidade de vídeo do Google - Ajuda do YouTube </br>|
-| **P**erformance     |  O aplicativo deve funcionar durante 168h semanais, sem a expectativa de instabilidade. </br>|
-| **S**uportabilidade |  O aplicativo deve ser disponível para os principais sistemas operacionais de dispositivos Mobile, como iOS e Android </br>| 
-| **S**uportabilidade |  Quando um teste ou manutenção for ocorrer no aplicativo, o usuário deve ser previamente avisado.</br>| 
-| **+**               |  O sistema deve disponibilizar a opção de alterar o idioma das notificações e o do sistema </br>|
+| **C**onfiabilidade  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser avisado caso o sistema esteja passando por alguma falha. </br>|
+| **P**erformance     | Se espera que 90% do tempo quando se assiste youtube, os [vídeos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) tenham uma qualidade padrão de pelo menos 360p. Relatório de qualidade de vídeo do Google - Ajuda do YouTube </br>|
+| **P**erformance     | O aplicativo deve funcionar durante 168h semanais, sem a expectativa de instabilidade. </br>|
+| **S**uportabilidade | O aplicativo deve ser disponível para os principais sistemas operacionais de dispositivos Mobile, como iOS e Android </br>| 
+| **S**uportabilidade | Quando um teste ou manutenção for ocorrer no aplicativo, o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser previamente avisado.</br>| 
+| **+**               | O sistema deve disponibilizar a opção de alterar o idioma das [notificações](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#notificacao) e o do sistema </br>|
 
 ## 4. Contato com o YouTube
 O grupo enviou uma mensagem para a comunidade do YouTube a fim de buscar por informações oficiais acerca da Especificação Suplementar, mais especificamente requisitos do modelo FURPS+. Segue na figura 1 um print da mensagem enviada.
@@ -137,3 +135,4 @@ Até o dia 21/07/2022 às 18:00, horário de Brasília, ainda não foram obtidas
 | 1.2    | 20/07/2022 | Adição da Especicificação suplementar | <a href="https://github.com/lramon2001">@lramon2001</a>  |  <a href="https://github.com/victorleaoo">@victorleaoo</a> |
 | 1.3    | 24/07/2022 | Adição da pergunta enviada ao stackoverflow | <a href="https://github.com/owhenrique">@owhenrique</a>  |  <a href="https://github.com/victorleaoo">@victorleaoo</a> |
 | 1.4    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.5    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
