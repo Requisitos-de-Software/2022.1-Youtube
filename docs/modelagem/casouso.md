@@ -97,7 +97,7 @@ A figura 1 apresenta o diagrama de casos de uso para um [usuário](https://requi
 
 <img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-criador.png"/>
 
-<figcaption>Figura 1: Diagrama de Casos de Uso - [Criador de Conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo). Autor: Paulo Henrique Almeida.</figcaption>
+<figcaption>Figura 1: Diagrama de Casos de Uso - Criador de Conteúdo. Autor: Paulo Henrique Almeida.</figcaption>
 
 </center>
 
@@ -206,7 +206,7 @@ A figura 2 apresenta o diagrama de casos de uso para um [espectador](https://req
 
 <center>
 
-<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-[espectador](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#espectador).png"/>
+<img src="https://raw.githubusercontent.com/Requisitos-de-Software/2022.1-Grupo-03/main/docs/media/casos-uso/casouso-espectador.png"/>
 
 <figcaption>Figura 2: Diagrama de Casos de Uso - Espectador. Autor: Paulo Henrique Almeida.</figcaption>
 
