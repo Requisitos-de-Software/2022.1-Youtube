@@ -91,7 +91,7 @@ A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes for
 > - Simone Diniz, Interação Humano-Computador. São Paulo, 1a Edição, Elsevier, 2010.
 > - Milene Serrano, Requisitos - Aula 07. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.
 
-## 6. [Histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de Versão
+## 6. Histórico de Versão
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 06/07/2002 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
