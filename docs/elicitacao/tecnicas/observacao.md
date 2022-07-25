@@ -18,7 +18,7 @@ Além disso, foi pedido para o [usuário](https://requisitos-de-software.github.
 [Vídeo da Observação](https://user-images.githubusercontent.com/33530818/178572814-c4af9a44-c9fe-42f3-be98-4f2f377a77e8.mp4)
 
 ## 3. Participantes
-- Victor Hugo (<a href="https://github.com/victorleaoo">@victorleaoo</a>): Observador
+- Victor Hugo: Observador
 - Benjamin Lacerda (20 anos, estudante de Engenharia de Software - UnB/FGA): Observado
 
 ## 4. Resultados

@@ -9,8 +9,8 @@ A partir do conceito da técnica, os dois participantes fizeram suas elicitaçõ
 De forma mais específica, um dos integrantes teve uma visão mais focada em requisitos relacionados ao [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) espectador, enquanto o outro buscou por uma introspecção na visão do criador de conteúdo.
 
 ## 3. Participantes
-- Victor Hugo (@victorleaoo)
-- Pedro Victor Lima Torreão (@B3holder2)
+- Victor Hugo Oliveira Leão
+- Pedro Victor Lima Torreão 
 
 ## 4. Resultados
 ### 4.1 Requisitos Funcionais

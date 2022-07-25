@@ -12,16 +12,16 @@ O brainstorm tem como vantagens:
 (Simone Diniz, Interação Humano-Computador - Cáp. 7, página 144)
 
 ## 2. Metodologia
-O grupo se reuniu em uma chamada no Google Meet e a partir da compartilhamento da tela de um arquivo de texto em branco, os integrantes [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar)am suas ideias seguindo o objetivo: Elicitar requisitos do aplicativo YouTube. Um dos integrantes trabalhou como facilitador, apenas anotando as ideias e ajudando no direcionamento da técnica.
+O grupo se reuniu em uma chamada no Google Meet e a partir da compartilhamento da tela de um arquivo de texto em branco, os integrantes compartilharam suas ideias seguindo o objetivo: Elicitar requisitos do aplicativo YouTube. Um dos integrantes trabalhou como facilitador, apenas anotando as ideias e ajudando no direcionamento da técnica.
 
 ## 3. Participantes
 A reunião ocorreu na data 11/07/2022 no horário de 20h30. Os participantes foram os seguintes integrantes do grupo:
 
-- Felipe Alef (@Alef012)
-- Lucas Ramon (@lramon2001)
-- Paulo Henrique (<a href="https://github.com/owhenrique">@owhenrique</a>)
-- Pedro Victor (@B3holder2)
-- Victor Hugo (<a href="https://github.com/victorleaoo">@victorleaoo</a>): Facilitador
+- Felipe Alef
+- Lucas Ramon
+- Paulo Henrique 
+- Pedro Victor 
+- Victor Hugo: Facilitador
 
 ## 4. Resultados
 
