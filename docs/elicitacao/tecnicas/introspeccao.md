@@ -6,7 +6,7 @@ A introspecção consiste em entender quais propriedades o sistema deve possuir 
 ## 2. Metodologia
 A partir do conceito da técnica, os dois participantes fizeram suas elicitações individualmente e, depois, fizeram uma discussão para comparação e análise.
 
-De forma mais específica, um dos integrantes teve uma visão mais focada em requisitos relacionados ao usuário espectador, enquanto o outro buscou por uma introspecção na visão do criador de conteúdo.
+De forma mais específica, um dos integrantes teve uma visão mais focada em requisitos relacionados ao [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) espectador, enquanto o outro buscou por uma introspecção na visão do criador de conteúdo.
 
 ## 3. Participantes
 - Victor Hugo (@victorleaoo)
@@ -16,69 +16,69 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 ### 4.1 Requisitos Funcionais
 | ID  | Requisito | 
 | :-: | :-------- |
-| RFI01  | O usuário deve poder assistir um vídeo. |
-| RFI02  | O usuário deve ser capaz de avaliar um vídeo (curtir ou não). |
-| RFI03  | O usuário deve ser capaz de compartilhar o vídeo entre diversas plataformas e redes sociais, além de copiar o link do vídeo. |
-| RFI04  | O usuário deve poder pausar um vídeo. |
-| RFI05  | O usuário deve poder mudar a velocidade (acelerar ou desacelerar) do vídeo. | 
-| RFI06  | O usuário deve ser capaz de se inscrever em um canal. |
-| RFI07  | O usuário deve ser capaz de comentar em um vídeo. |
-| RFI08  | O usuário deve ser capaz avançar ou retroceder 10 segundos de um vídeo. |
-| RFI09  | O usuário deve ser capaz de realizar uma transmissão ao vivo. |
-| RFI10  | O usuário deve ser capaz de realizar um corte de no máximo 60 segundos de um vídeo. |
-| RFI12  | O usuário deve ser capaz de realizar uma doação para o canal em que está assistindo o vídeo com um comentário. |
-| RFI14  | O usuário deve poder minimizar o vídeo e continuar navegando no aplicativo com ele sendo reproduzido. |
-| RFI15  | O usuário deve poder ativar ou desativar legendas para um vídeo, caso ele tenha essa opção. |
-| RFI16  | O usuário deve poder alterar a qualidade do vídeo. |
-| RFI17  | O usuário deve ser capaz de denunciar um vídeo. |
-| RFI18  | O usuário deve ser capaz de assistir um vídeo no modo RV (realidade virtual). |
-| RFI20  | O usuário deve poder criar uma playlist. |
-| RFI21  | O usuário deve poder salvar um vídeo em uma playlist. |
-| RFI22  | O usuário deve ser capaz de excluir uma playlist. |
-| RFI23  | O usuário deve ser capaz de alterar as informações de uma playlist. |
-| RFI24  | O usuário deve ser capaz de reproduzir uma playlist na ordem aleatória. |
-| RFI25  | O usuário deve ser capaz de ordenar sua playlist por data de inclusão ou publicação. |
-| RFI26  | O usuário deve poder acessar seu histórico de vídeos. |
-| RFI27  | O usuário deve poder ver os vídeos postados pelos seus canais inscritos. |
-| RFI28  | O usuário deve ser capaz de acessar um canal. |
-| RFI29  | O usuário deve poder se tornar membro de um canal, caso este possua a opção. |
-| RFI30  | O sistema deve exibir os vídeos de um canal. |
-| RFI31  | O sistema deve possibilitar a ordenação de vídeos de um canal por enviados recentemente ou populares. |
-| RFI32  | O sistema deve exibir as playlists criadas de um canal. |
-| RFI33  | O sistema deve exibir o "sobre" de um canal. |
+| RFI01  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI02  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de avaliar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) ([curtir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#curtir) ou não). |
+| RFI03  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) entre diversas plataformas e redes sociais, além de copiar o link do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI04  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [pausar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#pausar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI05  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder mudar a [velocidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#velocidade) (acelerar ou desacelerar) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | 
+| RFI06  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de se [inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever) em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI07  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de comentar em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI08  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz avançar ou retroceder 10 segundos de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI09  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de realizar uma transmissão ao vivo. |
+| RFI10  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de realizar um corte de no máximo 60 segundos de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI12  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de realizar uma doação para o [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) em que está assistindo o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) com um comentário. |
+| RFI14  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [minimizar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#minimizar) o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) e continuar navegando no aplicativo com ele sendo reproduzido. |
+| RFI15  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ativar ou desativar [legendas](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) para um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), caso ele tenha essa opção. |
+| RFI16  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder alterar a [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI17  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI18  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) no modo RV (realidade virtual). |
+| RFI20  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder criar uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). |
+| RFI21  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder salvar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) em uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). |
+| RFI22  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de excluir uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). |
+| RFI23  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de alterar as informações de uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). |
+| RFI24  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de reproduzir uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) na ordem aleatória. |
+| RFI25  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de ordenar sua [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) por data de inclusão ou publicação. |
+| RFI26  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder acessar seu [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s. |
+| RFI27  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ver os [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s postados pelos seus [canais](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) [inscritos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#inscrito). |
+| RFI28  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de acessar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI29  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder se tornar membro de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal), caso este possua a opção. |
+| RFI30  | O sistema deve exibir os [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI31  | O sistema deve possibilitar a ordenação de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) por enviados recentemente ou populares. |
+| RFI32  | O sistema deve exibir as [playlists](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) criadas de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI33  | O sistema deve exibir o "sobre" de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
 | RFI34  | O sistema deve exibir a opção de ativar modo de navegação anônima. |
-| RFI35  | O sistema deve exibir o tempo de exibição, caso o usuário solicite. |
-| RFI36  | O usuário deve poder criar um canal. |
-| RFI37  | O usuário deve poder postar vídeos. |
-| RFI38  | O usuário deve poder editar os dados de seu vídeo (Nome/descrição). |
-| RFI39  | O usuário deve poder editar o visual de seu canal (foto/banner). |
-| RFI40  | O usuário deve poder trocar o nome do seu canal. |
-| RFI41  | O usuário deve poder editar a descrição do seu canal. |
-| RFI42  | O usuário deve poder fazer transmissões ao vivo. |
-| RFI43  | O usuário deve poder acessar o gerenciamento de seus vídeos. |
-| RFI44  | O usuário deve poder editar a privacidade de seus vídeos (público/privado/não listado). |
-| RFI45  | O usuário deve poder adicionar tags em seu vídeo. |
-| RFI46  | O usuário deve poder adicionar uma thumbnail em seu vídeo. |
-| RFI47  | O usuário deve poder ver as estáticas de seus vídeos. |
-| RFI48  | O usuário deve poder ver as estáticas de seu canal (Visualizações/Tempo de exibição/novos inscritos). |
-| RFI49  | O usuário deve poder ver seu ganho (Monetização). |
-| RFI50  | O usuário deve poder editar sua aba de “canais recomendados”. |
-| RFI51  | O usuário deve poder criar um “Short” (Vídeos curtos). |
-| RFI52  | O usuário deve poder ter acesso aos vídeos armazenados em seu dispositivo. |
-| RFI53  | O usuário deve indicar se seu vídeo é conteúdo infantil ou não. |
-| RFI54  | O usuário deve poder receber superchats (doações dos espectadores). |
-| RFI55  | O usuário deve poder acessar mais de um canal. |
-| RFI56  | O usuário deve poder excluir um video. |
-| RFI57  | O usuário deve poder remover tags. |
-| RFI58  | O usuário deve poder remover descrição. |
-| RFI59  | O usuário deve poder remover comentários. |
+| RFI35  | O sistema deve exibir o tempo de exibição, caso o [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) solicite. |
+| RFI36  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder criar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI37  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s. |
+| RFI38  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar os dados de seu [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) (Nome/descrição). |
+| RFI39  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar o visual de seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) (foto/banner). |
+| RFI40  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder trocar o nome do seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI41  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar a descrição do seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI42  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder fazer transmissões ao vivo. |
+| RFI43  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder acessar o gerenciamento de seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s. |
+| RFI44  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar a [privacidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#privacidade) de seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s (público/privado/não listado). |
+| RFI45  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder adicionar [tags](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#tag) em seu [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI46  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder adicionar uma thumbnail em seu [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI47  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ver as estáticas de seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s. |
+| RFI48  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ver as estáticas de seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) (Visualizações/Tempo de exibição/novos [inscritos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#inscrito)). |
+| RFI49  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ver seu ganho (Monetização). |
+| RFI50  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar sua aba de “[canais]([cana://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) recomendados”. |
+| RFI51  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder criar um “Short” ([Vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s curtos). |
+| RFI52  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ter acesso aos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s armazenados em seu [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo). |
+| RFI53  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve indicar se seu [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) é conteúdo infantil ou não. |
+| RFI54  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder receber [superchats](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#superchat) (doações dos espectadores). |
+| RFI55  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder acessar mais de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). |
+| RFI56  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder excluir um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RFI57  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder remover [tags](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#tag). |
+| RFI58  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder remover descrição. |
+| RFI59  | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder remover comentários. |
 
 ### 4.2 Requisitos Não-Funcionais
 | ID  | Requisito | 
 | :-: | :-------- |
 | RNFI01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS |
-| RNFI02  | O sistema deve recomendar novos vídeos na tela de um vídeo. |
-| RNFI03  | O sistema deve recomendar vídeos na tela inicial do aplicativo. |
+| RNFI02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). |
+| RNFI03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. |
 | RNFI04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. |
 
 ## 5. Referências
@@ -91,4 +91,5 @@ De forma mais específica, um dos integrantes teve uma visão mais focada em req
 | 1.1    | 09/07/2002 | Instropecção versão 1 feita por Victor. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
 | 1.2    | 11/07/2002 | Mudanças de alguns requisitos não-funcionais, uma vez que foram entendidos que fazem mais sentidos posicionados dessa forma. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/B3holder2">@B3holder2</a> |
 | 1.3    | 13/07/2002 | Adicionando requisitos funcionais relacionados à criação de conteúdo | <a href="https://github.com/B3holder2">@B3holder2</a> | <a href="https://github.com/victorleaoo">@victorleaoo</a> |
-| 1.4    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.4    | 24/07/2022 | Adição de links dos githubs no [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.5    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |

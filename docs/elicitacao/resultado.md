@@ -7,96 +7,96 @@ Esse documento reúne o resultado de todas as técnicas de elicitação de requi
 ### 2.1 Requisitos Funcionais
 | ID  | Requisito | Técnica |
 | :-: | :-------- | :-----: |
-| RF01 | O usuário deve ser capaz de postar um vídeo. | Brainstorm<br/>Entrevista<br/>Introspecção |
-| RF02 | O usuário deve poder assistir um vídeo. | Brainstorm<br/>Entrevista<br/>Introspecção |
-| RF03 | O criador de conteúdo deve poder editar o título do próprio vídeo. | Brainstorm<br/>Introspecção |
-| RF04 | O usuário deve ser capaz de comentar um vídeo. | Brainstorm<br/>Introspecção |
-| RF05 | O usuário deve ser capaz de avaliar (curtir ou não) um vídeo. | Brainstorm<br/>Introspecção<br/>Observação |
-| RF06 | O usuário deve ser capaz de compartilhar um vídeo. | Brainstorm<br/>Introspecção |
-| RF07 | O usuário deve poder criar um canal. | Brainstorm<br/>Introspecção |
-| RF08 | O usuário deve poder criar uma playlist. | Brainstorm<br/>Introspecção |
-| RF09 | O usuário deve ser capaz de excluir um canal. | Brainstorm |
-| RF010 | O usuário deve poder excluir uma playlist. | Brainstorm<br/>Introspecção |
-| RF011 | O criador de conteúdo deve poder excluir um vídeo postado por ele. | Brainstorm<br/>Introspecção |
-| RF012 | O usuário deve poder adicionar um vídeo a uma playlist. | Brainstorm<br/>Introspecção<br/>Observação |
-| RF013 | O usuário deve ser capaz de excluir um vídeo de uma playlist. | Brainstorm |
-| RF014 | O usuário deve poder editar ou remover um comentário. | Brainstorm<br/>Observação<br/>Introspecção |
-| RF015 | O usuário deve ser capaz de editar o banner do próprio canal. | Brainstorm<br/>Introspecção |
-| RF016 | O usuário deve poder acelerar ou desacelerar um vídeo. | Brainstorm<br/>Introspecção<br/>Observação |
-| RF017 | O usuário deve ser capaz fazer um clipe de um vídeo. | Brainstorm<br/>Introspecção |
-| RF018 | O usuário deve ser capaz de pular para o próximo vídeo na fila de reprodução. | Brainstorm |
-| RF019 | O usuário deve poder alterar a qualidade do vídeo que está assistindo. | Brainstorm<br/>Introspecção |
-| RF020 | O criador de conteúdo deve ser capaz de adicionar legenda a um vídeo. | Brainstorm |
-| RF021 | O usuário deve ser capaz de acessar vídeos dos canais inscritos. | Brainstorm<br/>Introspecção<br/>Observação |
-| RF022 | O usuário deve poder acionar as notificações de vídeos de um canal. | Brainstorm<br/>Entrevista |
-| RF023 | O usuário deve poder avaliar (curtir ou não) comentários. | Brainstorm |
-| RF024 | O criador de conteúdo deve ser capaz de fazer uma transmissão ao vivo. | Brainstorm<br/>Introspecção |
-| RF025 | O criador de conteúdo deve poder colocar um vídeo como estreia (programado para lançamento). | Brainstorm |
-| RF026 | O usuário deve ser capaz de enviar um superchat (comentário através de uma doação monetária). | Brainstorm<br/>Introspecção |
-| RF027 | O usuário deve poder tornar-se membro de um canal. | Brainstorm<br/>Introspecção |
-| RF028 | O usuário deve poder inscrever-se em um canal. | Brainstorm<br/>Entrevista<br/>Introspecção<br/>Observação |
-| RF029 | O criador de conteúdo deve poder ver as estatísticas de seu canal. | Brainstorm<br/>Introspecção |
-| RF030 | O criador de conteúdo deve ser capaz de ver as estatísticas de um vídeo postado. | Brainstorm<br/>Introspecção |
-| RF031 | O usuário deve poder ver histórico de pesquisa. | Brainstorm |
-| RF032 | O usuário deve poder ver seu histórico de vídeos assistidos. | Brainstorm<br/>Introspecção |
-| RF033 | O criador de conteúdo deve ser capaz de ver a monetização de seus vídeos. | Brainstorm<br/>Introspecção |
-| RF034 | O usuário deve poder assinar o serviço Premium. | Brainstorm |
-| RF035 | O usuário deve poder adicionar um vídeo à fila de reprodução. | Brainstorm |
-| RF036 | O usuário deve ser capaz de conectar/espelhar seu aplicativo a outro dispositivo. | Brainstorm |
-| RF037 | O usuário deve ser capaz de ver seu histórico de vídeos curtidos. | Brainstorm |
-| RF038 | O criador de conteúdo deve poder criar uma enquete. | Brainstorm |
-| RF039 | O usuário deve ter a capacidade de votar em uma enquete criada. | Brainstorm |
-| RF040 | O criador de conteúdo deve poder fixar um comentário de seu vídeo. | Brainstorm |
-| RF041 | O criador de conteúdo deve poder adicionar thumbnail a um vídeo a ser postado. | Brainstorm<br/>Introspecção |
-| RF042 | O usuário deve ser capaz de denunciar vídeo. | Brainstorm<br/>Introspecção |
-| RF043 | O usuário deve ser capaz de denunciar comentário. | Brainstorm |
-| RF044 | O criador de conteúdo deve poder adicionar tags a um vídeo. | Brainstorm<br/>Introspecção |
-| RF045 | O usuário deve poder ordenar comentários. | Brainstorm |
-| RF046 | O usuário deve poder ordenar vídeos de um canal. | Brainstorm<br/>Introspecção |
-| RF047 | O usuário deve ser capaz de minimizar um vídeo para continuar assistindo enquanto navega no aplicativo. | Brainstorm<br/>Introspecção<br/>Observação |
-| RF048 | O usuário deve ser capaz de maximizar um vídeo minimizado. | Brainstorm<br/>Observação |
-| RF049 | O usuário deve poder ouvir músicas pelo aplicativo | Entrevista |
-| RF050 | O usuário deve poder pesquisar por vídeos | Entrevista |
-| RF051 | O usuário deve poder criar uma conta para acessar seus conteúdos em diferentes plataformas | Entrevista |
-| RF052 | O usuário deve ser capaz de pular propagandas que vem a aparecer em vídeos | Entrevista |
-| RF053 | O usuário deve poder encontrar novos vídeos ao navegar pela interface | Entrevista |
-| RF054 | O sistema deve mostrar ao criador de conteúdo todas as ferramentas disponíveis a ele | Entrevista |
-| RF055 | O usuário deve poder pausar um vídeo | Introspecção<br/>Observação |
-| RF056 | O usuário deve ser capaz de avançar ou retroceder 10 segundos de um vídeo | Introspecção |
-| RF057 | O usuário deve poder ativar legendas para um vídeo, caso tenha essa opção | Introspecção<br/>Observação |
-| RF058 | O usuário deve ser capaz de assistir um vídeo no modo RV (realidade virtual) | Introspecção |
-| RF059 | O usuário deve ser capaz de alterar as informações de uma playlist | Introspecção |
-| RF060 | O usuário deve ser capaz de reproduzir uma playlist na ordem aleatória | Introspecção |
-| RF061 | O usuário deve ser capaz de ordenar sua playlist por data de inclusão ou publicação | Introspecção |
-| RF062 | O usuário deve ser capaz de acessar um canal | Introspecção<br/>Observação |
-| RF063 | O sistema deve exibir as playlists criadas de um canal | Introspecção |
-| RF064 | O sistema deve exibir o "sobre" de um canal | Introspecção |
-| RF065 | O usuário deve ser capaz de dar play em um vídeo | Observação |
-| RF066 | O usuário deve poder retirar legendas de um vídeo | Observação |
-| RF067 | O usuário deve poder ver os comentários de um vídeo | Observação |
-| RF068 | O usuário deve ser capaz de ver a aba "vídeos" de um canal | Observação |
-| RF069 | O usuário deve ser capaz editar a descrição do seu canal | Introspecção |
-| RF070 | O usuário deve ser poder acessar o gerenciamento de seus vídeos postados | Introspecção |
-| RF071 | usuário deve poder editar a privacidade de seus vídeos (público/privado/não listado) | Introspecção |
-| RF072 | O usuário deve poder editar sua aba de “canais recomendados” no seu canal | Introspecção |
-| RF073 | O usuário deve poder criar um “Short” (Vídeos curtos) | Introspecção |
-| RF074 | O usuário deve poder ter acesso aos vídeos armazenados em seu dispositivo | Introspecção |
-| RF075 | O usuário deve indicar se seu vídeo é conteúdo infantil ou não | Introspecção |
+| RF01 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [postar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#postar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Entrevista<br/>Introspecção |
+| RF02 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Entrevista<br/>Introspecção |
+| RF03 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder editar o título do próprio [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção |
+| RF04 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de comentar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção |
+| RF05 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de avaliar ([curtir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#curtir) ou não) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção<br/>Observação |
+| RF06 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [compartilhar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#compartilhar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção |
+| RF07 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder criar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm<br/>Introspecção |
+| RF08 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder criar uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). | Brainstorm<br/>Introspecção |
+| RF09 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de excluir um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm |
+| RF010 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder excluir uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). | Brainstorm<br/>Introspecção |
+| RF011 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder excluir um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado) por ele. | Brainstorm<br/>Introspecção |
+| RF012 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder adicionar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). | Brainstorm<br/>Introspecção<br/>Observação |
+| RF013 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de excluir um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) de uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist). | Brainstorm |
+| RF014 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar ou remover um [comentário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario). | Brainstorm<br/>Observação<br/>Introspecção |
+| RF015 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de editar o [banner](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#banner) do próprio [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm<br/>Introspecção |
+| RF016 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder acelerar ou desacelerar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção<br/>Observação |
+| RF017 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz fazer um [clipe](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#clipe) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção |
+| RF018 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de pular para o próximo [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) na [fila de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#fila). | Brainstorm |
+| RF019 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder alterar a [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade) do [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) que está assistindo. | Brainstorm<br/>Introspecção |
+| RF020 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve ser capaz de adicionar [legenda](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda) a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm |
+| RF021 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de acessar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s dos canais inscritos. | Brainstorm<br/>Introspecção<br/>Observação |
+| RF022 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder acionar as [notificações](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#notificacao) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm<br/>Entrevista |
+| RF023 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder avaliar ([curtir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#curtir) ou não) [comentários](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario). | Brainstorm |
+| RF024 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve ser capaz de fazer uma transmissão ao vivo. | Brainstorm<br/>Introspecção |
+| RF025 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder colocar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) como [estreia](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#em-estreia) (programado para lançamento). | Brainstorm |
+| RF026 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de enviar um [superchat](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#superchat) ([comentário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario) através de uma doação monetária). | Brainstorm<br/>Introspecção |
+| RF027 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder tornar-se membro de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm<br/>Introspecção |
+| RF028 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [inscrever](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#inscrever)-se em um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm<br/>Entrevista<br/>Introspecção<br/>Observação |
+| RF029 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder ver as estatísticas de seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm<br/>Introspecção |
+| RF030 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve ser capaz de ver as estatísticas de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado). | Brainstorm<br/>Introspecção |
+| RF031 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ver [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de pesquisa. | Brainstorm |
+| RF032 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ver seu [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s assistidos. | Brainstorm<br/>Introspecção |
+| RF033 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve ser capaz de ver a monetização de seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s. | Brainstorm<br/>Introspecção |
+| RF034 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder assinar o serviço Premium. | Brainstorm |
+| RF035 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder adicionar um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) à [fila de reprodução](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#fila). | Brainstorm |
+| RF036 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de conectar/espelhar seu aplicativo a outro [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo). | Brainstorm |
+| RF037 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de ver seu [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s curtidos. | Brainstorm |
+| RF038 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder criar uma enquete. | Brainstorm |
+| RF039 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ter a capacidade de votar em uma enquete criada. | Brainstorm |
+| RF040 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder fixar um [comentário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario) de seu [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm |
+| RF041 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder adicionar thumbnail a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a ser [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado). | Brainstorm<br/>Introspecção |
+| RF042 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar) [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção |
+| RF043 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [denunciar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#denunciar) [comentário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario). | Brainstorm |
+| RF044 | O [criador de conteúdo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#criador-conteudo) deve poder adicionar [tags](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#tag) a um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Brainstorm<br/>Introspecção |
+| RF045 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ordenar [comentários](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario). | Brainstorm |
+| RF046 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ordenar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal). | Brainstorm<br/>Introspecção |
+| RF047 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [minimizar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#minimizar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) para continuar assistindo enquanto navega no aplicativo. | Brainstorm<br/>Introspecção<br/>Observação |
+| RF048 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [maximizar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#maximizar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) [minimizado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#-minimizado). | Brainstorm<br/>Observação |
+| RF049 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ouvir músicas pelo aplicativo | Entrevista |
+| RF050 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder pesquisar por [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s | Entrevista |
+| RF051 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder criar uma conta para acessar seus [conteúdos](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#conteudo) em diferentes plataformas | Entrevista |
+| RF052 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de pular propagandas que vem a aparecer em [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s | Entrevista |
+| RF053 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder encontrar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s ao navegar pela interface | Entrevista |
+| RF054 | O sistema deve mostrar ao [criador de conteúdo]([ctps://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexiccriador-conteudoo/#conteudo) todas as ferramentas disponíveis a ele | Entrevista |
+| RF055 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder [pausar](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#pausar) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) | Introspecção<br/>Observação |
+| RF056 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de avançar ou retroceder 10 segundos de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) | Introspecção |
+| RF057 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ativar [legenda](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)s para um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), caso tenha essa opção | Introspecção<br/>Observação |
+| RF058 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de [assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) no modo RV (realidade virtual) | Introspecção |
+| RF059 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de alterar as informações de uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) | Introspecção |
+| RF060 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de reproduzir uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) na ordem aleatória | Introspecção |
+| RF061 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de ordenar sua [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) por data de inclusão ou publicação | Introspecção |
+| RF062 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de acessar um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) | Introspecção<br/>Observação |
+| RF063 | O sistema deve exibir as [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist)s criadas de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) | Introspecção |
+| RF064 | O sistema deve exibir o "sobre" de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) | Introspecção |
+| RF065 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de dar [play](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#play) em um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) | Observação |
+| RF066 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder retirar [legenda](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#legenda)s de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) | Observação |
+| RF067 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ver os [comentários](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#comentario) de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) | Observação |
+| RF068 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz de ver a aba "[vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s" de um [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) | Observação |
+| RF069 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser capaz editar a descrição do seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) | Introspecção |
+| RF070 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve ser poder acessar o gerenciamento de seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s [postado](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/estado/#postado)s | Introspecção |
+| RF071 | [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar a privacidade de seus [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s (público/privado/não listado) | Introspecção |
+| RF072 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder editar sua aba de “canais recomendados” no seu [canal](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#canal) | Introspecção |
+| RF073 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder criar um “[Short](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#shorts)” ([vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s curtos) | Introspecção |
+| RF074 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve poder ter acesso aos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s armazenados em seu [dispositivo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#dispositivo) | Introspecção |
+| RF075 | O [usuário](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#usuario) deve indicar se seu [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) é conteúdo infantil ou não | Introspecção |
 
 ### 2.2 Requisitos Não-Funcionais
 | ID  | Requisito | Técnica |
 | :-: | :-------- | :-----: |
 | RNF01  | O sistema deve ser disponível para os principais sistemas operacionais mobile, como Android e iOS | Introspecção<br/>Brainstorm<br/>Entrevista |
-| RNF02  | O sistema deve recomendar novos vídeos na tela de um vídeo. | Introspecção<br/>Entrevista |
-| RNF03  | O sistema deve recomendar vídeos na tela inicial do aplicativo. | Introspecção<br/>Brainstorm<br/>Entrevista |
+| RNF02  | O sistema deve recomendar novos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video). | Introspecção<br/>Entrevista |
+| RNF03  | O sistema deve recomendar [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s na tela inicial do aplicativo. | Introspecção<br/>Brainstorm<br/>Entrevista |
 | RNF04  | O sistema deve mostrar a opção de ativar modo de navegação anônima. | Introspecção |
-| RNF05 | O sistema deve proporcionar a opção de reprodução automática que reproduza vídeos relacionados ao atual. | Brainstorm |
+| RNF05 | O sistema deve proporcionar a opção de reprodução automática que reproduza [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s relacionados ao atual. | Brainstorm |
 | RNF06 | O sistema deve proporcionar uma barra de pesquisa, com acessibilidade por voz, que funcione com exatidão de busca. | Brainstorm |
-| RNF07 | O sistema deve proporcionar a maior quantidade de qualidades de vídeo possível. | Brainstorm |
-| RNF08 | Ao clicar em "Salvar" na tela de um vídeo, o sistema deve adicionar automaticamente o vídeo a uma playlist "Assistir mais tarde" | Observação |
+| RNF07 | O sistema deve proporcionar a maior quantidade de [qualidade](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#qualidade)s de [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) possível. | Brainstorm |
+| RNF08 | Ao clicar em "Salvar" na tela de um [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video), o sistema deve adicionar automaticamente o [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video) a uma [playlist](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#playlist) "[Assistir](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/verbo/#assistir) mais tarde" | Observação |
 | RNF09 | O sistema deve dar apoio para criadores de conteúdo | Entrevista |
 | RNF10 | O sistema deve proporcionar a integração entre plataformas | Entrevista |
-| RNF11 | O sistema deve ter um design direcionado aos vídeos (praticidade) |Entrevista |
+| RNF11 | O sistema deve ter um design direcionado aos [vídeo](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#video)s (praticidade) |Entrevista |
 | RNF12 | O sistema deve oferecer um modo escuro para o aplicativo | Entrevista |
 
 ## 3. Referências
@@ -106,4 +106,5 @@ Esse documento reúne o resultado de todas as técnicas de elicitação de requi
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 06/07/2022 | Criação do esqueleto do documento. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
 | 1.1    | 06/07/2022 | Adição de todos os requisitos elicitados pela equipe com todas as técnicas explicitadas. | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
-| 1.2    | 24/07/2022 | Adição de links dos githubs no histórico de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.2    | 24/07/2022 | Adição de links dos githubs no [histórico](https://requisitos-de-software.github.io/2022.1-Youtube/modelagem/lexicos/objeto/#historico) de versões | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
+| 1.3    | 24/07/2022 | Referência de links dos léxicos encontrados na página | <a href="https://github.com/victorleaoo">@victorleaoo</a> | <a href="https://github.com/owhenrique">@owhenrique</a> |
