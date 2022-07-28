@@ -35,6 +35,7 @@ nav:
       - Estado: modelagem/lexicos/estado.md
       - Objeto: modelagem/lexicos/objeto.md
       - Verbo: modelagem/lexicos/verbo.md
+    - NFR FRAMEWORK: modelagem/NFR.md
     - Casos de Uso: modelagem/casouso.md
     - Especificação Suplementar: modelagem/espsup.md
     - Ágil:
