@@ -30,8 +30,8 @@
 
 - **Contribuições**: a fim de descrever a satisfação de um softgoal descendente em relação a um ascendente, podem ser usadas algumas contribuições. No projeto serão usadas duas:
 
-1. AND: Os softgoals ascendentes só são satifeitos se os descendentes também forem.
-2. OR: Se algum softgoal descendente for satisfeito, o ascendente também já será satisfeito.
+<p align="justify">&emsp;&emsp; AND: Os softgoals ascendentes só são satifeitos se os descendentes também forem.</p>
+<p align="justify">&emsp;&emsp; OR: Se algum softgoal descendente for satisfeito, o ascendente também já será satisfeito.</p>
 
 - **Procedimento de avaliação**: para determinar o grau de satisfação de um requisito não-funcional, algumas legendas podem ser usadas. A figura 3 mostra as usadas no projeto:
 
