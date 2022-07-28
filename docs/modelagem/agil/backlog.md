@@ -29,9 +29,15 @@
 ### 2.3 Estrutura do Product Backlog com Histórias de Usuário
 <p align="justify">&emsp;&emsp; Com o entedimento da especificação do Product Backlog e das Histórias de Usuário, a equipe montou o Product Backlog do aplicativo YouTube, seguindo o seguinte formato:</p>
 
-| Épico      | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
-| :--------: | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
-| Nome Épico | USXX | Tipo Usuário | Funcionalidade | Objetivo          | - Critério 1<br/>- Critério 2 | Alta/Média/Baixa |
+#### Nome Épico
+
+##### Nome Feature
+
+<p align="justify">&emsp;&emsp; Lista de Histórias de Usuário ligadas a essa Feature e, consequentemente, Épico.</p>
+
+| ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
+| :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
+| USXX | Tipo Usuário | Funcionalidade | Objetivo          | - Critério 1<br/>- Critério 2 | Alta/Média/Baixa |
 
 <p align="justify">&emsp;&emsp; As prioridades foram divididas entre Alta, Média ou Baixa levando em consideração uma análise na visão das técnicas de priorização já usadas no projeto (<a href="https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/moscow/" target="_blank">MoSCoW</a> e <a href="https://requisitos-de-software.github.io/2022.1-Youtube/elicitacao/priorizacao/100dol/" target="_blank">100 Dólares</a>). Sendo assim, itens de <b>Alta</b> prioridade são essenciais e mais recursos seriam destinados a eles, os de <b>Média</b> prioridade são importantes para o aplicativo, mas não vitais para seu funcionamento e os itens de <b>Baixa</b> prioridade são aperitivos sem foco inicial.</p>
 
@@ -50,3 +56,4 @@
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
 | 1.0    | 28/07/2022 | Criação do esqueleto do documento e introdução inicial. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
+| 1.1    | 28/07/2022 | Reformulação da estrutura do Product Backlog. | <a href="https://github.com/victorleaoo" target="_blank">@victorleaoo</a> | <a href="https://github.com/Alef012" target="_blank">@Alef012</a> |
