@@ -43,10 +43,6 @@
 
 ## 3. Product Backlog
 
-| Épico      | ID   | Eu, como     | Desejo         | Para que eu possa | Critérios de Aceitação        | Prioridade       |
-| :--------: | :--: | :----------- | :------------- | :---------------- | :---------------------------- | :--------------: |
-| Nome Épico | USXX | Tipo Usuário | Funcionalidade | Objetivo          | - Critério 1<br/>- Critério 2 | Alta/Média/Baixa |
-
 ## 4. Referências
 
 > - Milene Serrano, Requisitos - Aula 15. Acesso em: 06 de jul. de 2022. Disponível em: Aprender3.
