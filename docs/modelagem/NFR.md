@@ -1,4 +1,4 @@
-# NFR FRAMEWORK
+# NFR Framework
 
 ## 1. Introdução
 <p align="justify">&emsp;&emsp;"O framework NFR é um método de expressar e analisar requisitos não funcionais. Seu objetivo é ajudar os desenvolvedores a implementar soluções customizadas, levando em consideração as características do domínio e sistema. Essas características incluem requisitos não-funcionais, requisitos funcionais, prioridades e carga de trabalho. Esses fatores determinam a escolha de alternativas de desenvolvimento para um determinado sistema (CHUNG et al., 2000)."(SILVA, 2019, p. 30)</p>
