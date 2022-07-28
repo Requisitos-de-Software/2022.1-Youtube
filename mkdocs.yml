@@ -38,5 +38,5 @@ nav:
     - Casos de Uso: modelagem/casouso.md
     - Especificação Suplementar: modelagem/espsup.md
     - Ágil:
-      - Backlog do Produto + Histórias de Usuário: modelagem/backlog.md
+      - Backlog do Produto + Histórias de Usuário: modelagem/agil/backlog.md
   - Apresentações: apresentacao.md
